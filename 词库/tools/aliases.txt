@@ -1,0 +1,134 @@
+# alternative|canonical; lexical or well-established concept aliases only
+non-convex optimization|nonconvex optimization
+non-linear|nonlinear
+non-linearity|nonlinearity
+non-parametric|nonparametric
+non-parametric model|nonparametric model
+sub-optimal|suboptimal
+feedforward network|feed-forward network
+feedforward neural network|feed-forward network
+feed-forward neural networks|feed-forward network
+convolutional network|convolutional neural network
+graph neural networks|graph neural network
+graph-based neural networks|graph neural network
+graph-convolutional neural network|graph convolutional network
+graph convolutional|graph convolution
+generative adversarial networks|generative adversarial network
+neural turing machines|neural turing machine
+hidden layers|hidden layer
+residual blocks|residual block
+message passing neural networks|message passing neural network
+convolutional kernel|convolution kernel
+atrous convolution|dilated convolution
+mean pooling|average pooling
+sigmoid|sigmoid function
+logistic sigmoid|sigmoid function
+logistic function|sigmoid function
+softmax function|softmax
+softplus function|softplus
+self-attention model|self-attention
+attention mechanism|attention
+encoder-decoder|encoder-decoder architecture
+graph models|graphical model
+neural model|neural network model
+artificial neurons|neuron
+artificial neuron|neuron
+neurons|neuron
+deep network|deep neural network
+simple recurrent neural network|simple recurrent network
+local minima|local minimum
+the global minimum|global minimum
+gradient descent method|gradient descent
+gradient exploding problem|exploding gradient
+vanishing gradient problem|vanishing gradient
+clip gradient|gradient clipping
+clipping the gradient|gradient clipping
+error backpropagation|backpropagation
+error backpropagation algorithm|backpropagation
+dropout method|dropout
+pre-training|pretraining
+fine tuning|fine-tuning
+dimension reduction|dimensionality reduction
+dimensionality reduction algorithm|dimensionality reduction
+data set|dataset
+data sources|data source
+data splitting|data split
+raw datasets|raw dataset
+test data|test set
+training data|training set
+development set|validation set
+training instance|training sample
+number of epochs|epoch
+hidden variable|latent variable
+observable variable|observed variable
+gaussian kernels|gaussian kernel
+gaussian kernel function|gaussian kernel
+gaussian mixtures|gaussian mixture model
+mixture-of-gaussian|gaussian mixture model
+joint probability distribution|joint distribution
+marginal probability distribution|marginal distribution
+conditional probability distribution|conditional distribution
+prior probability distribution|prior distribution
+bayesian prior|prior distribution
+prior|prior distribution
+informative priors|informative prior
+bayes' rule|bayes' theorem
+bayes model averaging|bayesian model averaging
+maximum likelihood method|maximum likelihood estimation
+maximum likelihood methods|maximum likelihood estimation
+maximum likelihood procedures|maximum likelihood estimation
+maximum posterior probability estimation|maximum a posteriori estimation
+multivariate normal distribution|multivariate gaussian distribution
+multinoulli distribution|categorical distribution
+bayesian mcmc methods|markov chain monte carlo
+monte carlo estimate|monte carlo estimation
+bootstrap sampling|bootstrap
+bootstrapping|bootstrap
+re-sampling|resampling
+accept-reject sampling method|rejection sampling
+relative entropy|Kullback-Leibler divergence
+information entropy|entropy
+shannon entropy|entropy
+expectation maximization algorithm|expectation maximization
+naive bayesian|naive bayes
+naive bayes algorithm|naive bayes
+naive bayesian methods|naive bayes
+naive bayes classifier|naive bayes
+reparametrization trick|reparameterization trick
+probabilistic density estimation|density estimation
+sampling method|sampling
+mean filed|mean-field
+surrogat loss|surrogate loss function
+inverse matrix|inverse
+jacobian matrix|Jacobian
+element-wise product|Hadamard product
+city block distance|Manhattan distance
+eigenvalue decomposition|eigendecomposition
+euclidean distances|euclidean distance
+root mean square errors|root mean squared error
+exponential loss|exponential loss function
+quadratic loss function|square loss
+bayesian methods|bayesian approach
+random forest algorithm|random forest
+active machine learning|active learning
+supervised learning algorithm|supervised learning
+unsupervised learning algorithm|unsupervised learning
+ensemble methods|ensemble learning
+ensemble|ensemble learning
+explaining away effect|explaining away
+shortcut connection|skip connection
+gated control|gating mechanism
+inverse neural modeling|inverse neural network modeling
+adaptive moment estimation algorithm|Adam
+admet evaluation|admet evaluation
+feature vectors|feature vector
+Mahalanobis distances|Mahalanobis distance
+Hesse matrix|Hessian
+Hessian matrix|Hessian
+markov network|Markov random field
+belief network|Bayesian network
+probabilistic graphical model|graphical model
+Laplace smoothing|Laplacian correction
+fractionally strided convolution|transposed convolution
+non-ordinal attribute|nominal attribute
+subsampling|subsample

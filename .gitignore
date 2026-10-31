@@ -1,0 +1,14 @@
+.private/
+android/build/
+android/assets/
+android/res/drawable/
+dist/
+__pycache__/
+
+项目经验.md
+词库/qa/
+词库/source/sentence_expansion/
+词库/source/pronunciation/wiktionary/
+词库/source/pronunciation/missing.json
+词库/tools/*.before-*
+*.log

@@ -1,0 +1,190 @@
+# Outside the intended learning scope, ambiguous fragments, or unreliable spellings.
+aberration-corrected
+admet evaluation
+alternative splicing dataset
+application-specific integrated circuit
+artificial synapses
+automating synthetic planning
+b-clustering algorithms
+bandgap energy
+basin hopping
+beam-scanning
+best-arm problem
+best separates
+bonding environments
+boltzmann
+calculation uncertainties
+core-loss spectrum
+coulomb matrix
+cutoff radial function
+data-driven spectral analysis
+DFT calculations
+discrete quanta
+gas-phase networks
+gaussian-type structure descriptors
+grain-surface networks
+higher-dimensional spectral space
+molecular graph theory
+bayesian molecular
+density functional theory
+gradient energy distribution
+mean product of Student t-distribution
+topographic ICA
+field programmable gated array
+conference on neural information processing systems
+primary visual cortex
+simultaneous localization and mapping
+value function approximation
+tabular value function
+value function
+q-network
+deep q-network
+actor
+critic network
+action
+episode
+policy
+off-policy
+on-policy
+deterministic policy
+stochastic policy
+dominant strategy
+minimax game
+static game
+discount factor
+discounted return
+expected return
+experience replay
+replay buffer
+return
+environment
+episodic task
+exploitation
+exploration
+shaping
+terminal state
+context word
+latent semantic analysis
+probabilistic latent semantic analysis
+probabilistic latent semantic indexing
+probabilistic context-free grammar
+skip-gram model
+skip-gram model with negative sampling
+co-occurrence frequency
+automatic summarization
+perplexity
+zipf's law
+turing machine
+turing completeness
+warp
+inductive logic programming
+inverse resolution
+sequential covering
+rule learning
+macron-r
+micro-r
+local recurrent
+attention cue
+rectified linear
+focus attention
+gater
+net activation
+net input
+time homogenous markov chain
+minibatch stochastic
+priority rule
+neural-network-based function
+direct neural network modeling
+mlp neural model
+bi-directional long-short term memory
+binary relation
+arithmetic coding
+bit collisions
+boilerplate code
+detector stage
+first layer
+second layer
+full
+same
+explanatory factort
+first-order rule
+folk theorem
+fovea
+flipping output
+denominator layout
+numerator layout
+computational optimisation
+combined gradient
+cartesian distance vector
+cumulative function
+attention-based
+graph-based
+best separates
+discrete manner
+default rule
+description
+dictionary
+bi-partition
+non-template
+non-template methods
+ordered rule
+propositional atom
+propositional rule
+quadrature pair
+recognition weight
+recirculation
+resolution quotient
+saccade
+shadow circuit
+shannons
+shortlist
+simple cell
+slowness principle
+state action reward state action
+status feature function
+subatomic
+super-parent
+sequence-function
+taylor
+transcription system
+transcribe
+treebank
+twice-learning
+unprojection
+update model parameter
+von neumann architecture
+working memory
+word-document matrix
+word-topic matrix
+entity normalisation
+emotional analysis
+electronegativity
+energy derivatives
+energy potentials
+exchange–correlation
+excited-state potentials
+extended-connectivity circular fingerprint
+protein folding
+nuclear magnetic resonance
+quantum computer
+quantum computing
+quantum machine learning
+quantum mechanics
+quantum chemistry
+quantum theory
+gravimetric polymerization degree
+Q Function
+least general generalization
+ML-Driven Optimization
+non-stochastic
+mean filter
+knowledge gradient
+Gabor function
+tangent distance
+unit test
+reverse correlation
+local descent
+model statistics
+gradient-based
+parametric case
+residue function

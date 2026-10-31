@@ -1,0 +1,76 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NaiShi · 科研英语</title>
+<style>
+:root{--bg:#f5f5f5;--ink:#171717;--muted:#595959;--line:#d8d8d8;--accent:#171717;--light:#ededed;font-family:"Segoe UI","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg)}*{box-sizing:border-box}body{margin:0}button,input,select,textarea{font:inherit}button{cursor:pointer;min-height:44px;padding:10px 16px;border:1px solid var(--line);border-radius:10px;background:white;color:var(--ink)}button:hover{background:var(--light);border-color:var(--accent)}button:disabled{opacity:.4;cursor:default}.primary{background:var(--accent);color:white}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid #171717;outline-offset:3px}a{color:#242424;text-underline-offset:3px}header{background:white;border-bottom:1px solid var(--line);padding:28px max(24px,calc((100vw - 1120px)/2)) 0}.brand{font-size:13px;letter-spacing:2px;color:var(--accent);font-weight:700}h1{font-size:clamp(25px,4vw,34px);margin:12px 0}h2{font-size:25px;line-height:1.5}h3{font-size:17px;margin:22px 0 10px}p{line-height:1.85;margin:8px 0}.sub{color:var(--muted);font-size:14px}.stats{display:flex;gap:24px;flex-wrap:wrap;margin:20px 0}.stats b{font-size:24px;color:var(--accent);margin-right:6px}.tabs{display:flex;gap:8px;overflow:auto}.tabs button{border:0;border-radius:8px 8px 0 0;padding:14px 24px;background:transparent;white-space:nowrap}.tabs button[aria-selected=true]{background:var(--light);box-shadow:inset 0 -3px var(--accent);font-weight:700;color:var(--accent)}main{max-width:1168px;margin:auto;padding:28px 24px 48px}.toolbar{display:grid;grid-template-columns:minmax(200px,1fr) 220px 180px;gap:12px;margin-bottom:15px}label{display:block;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:6px}input,select,textarea{width:100%;border:1px solid #999999;border-radius:10px;padding:12px;background:white;color:var(--ink);min-height:46px}textarea{resize:vertical;min-height:135px;line-height:1.8}.results{margin:12px 0 18px;color:var(--muted);font-size:14px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.wordcard{text-align:left;padding:22px;border-radius:18px;min-height:165px;display:flex;flex-direction:column;align-items:flex-start;gap:10px;overflow-wrap:anywhere}.term{font-size:19px;font-weight:650;line-height:1.4}.meaning{font-size:15px;line-height:1.65}.badge{font-size:12px;padding:4px 9px;border-radius:6px;background:var(--light);color:#303030;display:inline-block}.tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto}.quiet{background:#f0f0f0;color:#555555}.actions{display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;margin:24px 0}.empty{padding:50px;text-align:center;color:var(--muted)}.panel{background:white;border:1px solid var(--line);border-radius:18px;padding:30px;max-width:860px;margin:auto}.flash{min-height:330px;display:flex;flex-direction:column;align-items:center;text-align:center;justify-content:center}.flash .term{font-size:clamp(25px,5vw,38px);line-height:1.4;overflow-wrap:anywhere;max-width:100%}.answer{border-top:1px solid var(--line);width:100%;margin-top:24px;padding-top:20px}.answer p{font-size:20px}.sentence-en{font-family:Georgia,serif;font-size:clamp(23px,4vw,29px);line-height:1.65;padding:20px 0}.sentence-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.sentence-top select{width:auto;max-width:100%;min-width:180px}.context{border-left:3px solid var(--line);padding-left:15px;font-size:14px;color:var(--muted);margin:15px 0}.answer-box{background:#f2f2f2;border-radius:12px;padding:18px 22px;margin-top:22px}summary{cursor:pointer;min-height:40px;padding:8px 0;font-weight:650}.source{font-size:13px;line-height:1.8;margin-top:20px;overflow-wrap:anywhere}.status{font-size:12px;min-height:22px;color:var(--muted);margin-top:6px}.chips{display:flex;flex-wrap:wrap;gap:7px}.chips button{padding:6px 10px;min-height:38px;font-size:13px}.notice{font-size:13px;background:#ededed;border-radius:10px;color:#555555;padding:12px 16px;margin:22px 0;line-height:1.8}.footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:20px;line-height:1.8}dialog{border:1px solid var(--line);border-radius:20px;padding:0;width:min(740px,calc(100vw - 28px));max-height:88vh;color:var(--ink)}dialog::backdrop{background:#00000070}.dialog-head{position:sticky;top:0;background:white;padding:18px 24px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:10px}.dialog-body{padding:24px 28px 30px;overflow-wrap:anywhere}.definition{font-size:21px;line-height:1.7}.example{padding:18px;border-left:3px solid var(--accent);background:#f5f5f5;border-radius:0 10px 10px 0;margin-top:14px}.example .en{font-family:Georgia,serif;font-size:20px;line-height:1.6}.field{margin:18px 0}.field small{color:var(--muted);display:block;margin-bottom:6px}.diff{padding:12px 0;border-bottom:1px solid var(--line);line-height:1.8}[hidden]{display:none!important}@media(max-width:780px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.toolbar{grid-template-columns:1fr 1fr}.search-field{grid-column:1/-1}.panel{padding:23px}.stats{gap:15px}.tabs button{padding:12px 18px}}@media(max-width:480px){header{padding:22px 18px 0}main{padding:20px 16px 35px}.grid{grid-template-columns:1fr}.toolbar{gap:8px}.toolbar select{font-size:13px}.wordcard{min-height:140px}.panel{padding:20px}.stats{gap:10px}.stats b{font-size:21px}.stats span{font-size:12px}.dialog-body{padding:20px}.flash{min-height:280px}.tabs button{padding:12px 16px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+/* Monochrome theme: persistent selection and hover remain distinct. */
+:root{color-scheme:light;accent-color:#171717}
+.primary:hover{background:#383838;color:#fff;border-color:#383838}
+.tabs button[aria-selected=true]{background:#171717;color:#fff;box-shadow:inset 0 -3px #171717}
+.tabs button:not([aria-selected=true]):hover{background:#ededed}
+input::placeholder,textarea::placeholder{color:#666;opacity:1}
+button[aria-pressed=true]{background:#171717;color:#fff;border-color:#171717}
+.panel{overflow-wrap:anywhere}.tabs{scrollbar-width:thin}.tabs button{flex-shrink:0}
+::selection{background:#242424;color:#fff}
+</style></head><body>
+<header><div class="brand">NaiShi / 时序 · 网络 · 概率</div><h1>科研英语</h1><p class="sub">科研英语 · 离线学习</p><div class="stats" id="stats"></div><nav class="tabs" aria-label="学习视图"><button data-view="library" aria-selected="true">浏览词库</button><button data-view="flash" aria-selected="false">翻卡练习</button><button data-view="unknown" aria-selected="false">不会的词</button><button data-view="sentences" aria-selected="false">论文翻译</button></nav></header>
+<main><section id="filters"><div class="toolbar"><div class="search-field"><label for="search">搜索英文、中文或缩写</label><input id="search" type="search" placeholder="例如：likelihood、时空依赖、GNN" autocomplete="off"></div><div><label for="module">研究模块</label><select id="module"><option value="">全部模块</option></select></div><div><label for="scope">学习范围</label><select id="scope"><option value="all">全部词条</option><option value="core">核心词条</option><option value="expanded">扩展词条</option></select></div></div><div class="results" id="result-count" aria-live="polite"></div></section>
+<section id="library"><div id="word-grid" class="grid"></div><div class="actions"><button id="page-prev">上一页</button><span id="page-label" aria-live="polite"></span><button id="page-next">下一页</button></div></section>
+<section id="flash" hidden><div id="flash-card" class="panel flash"></div><div class="actions"><button id="flash-prev">上一张</button><button id="flip" class="primary">查看释义</button><button id="flash-next">下一张</button><button id="flash-detail">查看完整词卡</button></div><p class="sub" style="text-align:center" id="flash-index"></p><div class="actions"><button id="mark-known" aria-pressed="false">会</button><button id="mark-unknown" aria-pressed="false">不会</button><button id="mark-clear">清除标记</button></div><p id="mark-status" class="status" style="text-align:center" aria-live="polite"></p><p class="sub" style="text-align:center">标记按词卡保存，可随时修改。</p></section>
+<section id="unknown" hidden><h2>不会的词</h2><p class="sub" id="unknown-count" aria-live="polite"></p><p id="unknown-status" class="status" role="status"></p><div id="unknown-grid" class="grid"></div><div class="actions"><button id="unknown-prev">上一页</button><span id="unknown-page"></span><button id="unknown-next">下一页</button></div></section><section id="sentences" hidden><div class="panel"><div class="sentence-top"><span class="badge">论文原句 · 365 句</span><select id="sentence-choice" aria-label="选择论文句子"></select></div><p class="sub" id="daily-note"></p><div id="sentence-en" class="sentence-en"></div><label for="translation">我的翻译</label><textarea id="translation" placeholder="先试着翻译，再展开参考译文。"></textarea><div id="save-status" class="status" aria-live="polite"></div><details class="answer-box" id="sentence-answer"><summary>查看参考译文与解析</summary><div id="sentence-answer-body"></div></details><div class="source" id="sentence-source"></div><h3>关联词卡</h3><div id="sentence-terms" class="chips"></div><div class="actions"><button id="sentence-prev">上一句</button><button id="sentence-next">下一句</button></div></div><div class="notice">365 句按日期轮换，也可手动选练。参考译文不是唯一答案；新增译文和结构提示含待审校内容，详见每句说明。草稿保存在当前设备，卸载应用或清除数据后会丢失。</div></section>
+<div class="notice" id="quality-note"></div><footer class="footer">扩展术语改编自 <a href="https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database" target="_blank" rel="noopener noreferrer">机器之心 AITD</a>（CC BY-NC-SA 4.0）；论文短引文版权归原权利人。音标采用 <a href="https://github.com/open-dict-data/ipa-dict" target="_blank" rel="noopener noreferrer">IPA Dictionary / CMUdict</a> 及标明状态的编辑补充。<details><summary>音标数据许可</summary><pre style="white-space:pre-wrap">The MIT License (MIT)
+
+Copyright (c) 2016 dohliam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+Copyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+   The contents of this file are deemed to be source code.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+This work was supported in part by funding from the Defense Advanced
+Research Projects Agency, the Office of Naval Research and the National
+Science Foundation of the United States of America, and by member
+companies of the Carnegie Mellon Sphinx Speech Consortium. We acknowledge
+the contributions of many volunteers to the expansion and improvement of
+this dictionary.
+
+THIS SOFTWARE IS PROVIDED BY CARNEGIE MELLON UNIVERSITY ``AS IS'' AND
+ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL CARNEGIE MELLON UNIVERSITY
+NOR ITS EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</pre></details>NaiShi 支持离线学习；查看论文来源需通过浏览器联网。</footer></main>
+<dialog id="detail"><div class="dialog-head"><span class="badge" id="detail-module"></span><button id="close-detail" aria-label="关闭词卡详情">关闭 ×</button></div><div class="dialog-body" id="detail-body"></div></dialog>
+<script id="vocab-data" type="application/json">__VOCAB__</script><script id="sentence-data" type="application/json">__SENTENCES__</script><script id="manifest-data" type="application/json">__MANIFEST__</script><script>__JS__</script></body></html>

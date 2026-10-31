@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "created_at": "2026-10-27",
+  "counts": {
+    "vocabulary_cards": 1900,
+    "original_editorial_cards": 1156,
+    "source_adapted_cards": 744,
+    "cards_with_collocations": 1156,
+    "cards_with_bilingual_examples": 0,
+    "cards_with_ipa": 1900,
+    "cards_with_part_of_speech": 110,
+    "paper_sentences": 365,
+    "paper_sentences_remaining": 0,
+    "confusion_groups": 20,
+    "modules": {
+      "科研通用": 440,
+      "时空序列预测": 236,
+      "混合神经网络": 195,
+      "概率建模": 318,
+      "数学与训练基础": 357,
+      "机器学习基础与扩展": 354
+    },
+    "quality_status": "基础词库已建立；词卡字段仍有缺口。句库包含编辑译文与待审校机器初译，实际数量见统计。"
+  },
+  "content_gaps": {
+    "part_of_speech": 1790,
+    "collocation": 744
+  }
+}

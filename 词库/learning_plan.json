@@ -1,0 +1,2859 @@
+{
+  "schema_version": "1.0.0",
+  "new_cards_per_lesson": 10,
+  "total_lessons": 190,
+  "lessons": [
+    {
+      "lesson": 1,
+      "card_ids": [
+        "v_12df7f0ee89f",
+        "v_4f691bfe771e",
+        "v_de073e8829a8",
+        "v_f7d11e18f3d1",
+        "v_1c51ce365caa",
+        "v_dcaa8e5ecb8d",
+        "v_10aca1d8b724",
+        "v_f31a6d55ee17",
+        "v_569990a5fe3c",
+        "v_383ca78ffe9f"
+      ]
+    },
+    {
+      "lesson": 2,
+      "card_ids": [
+        "v_a81319083525",
+        "v_505bd1293881",
+        "v_a65dd3628de5",
+        "v_bdd56f90bbb7",
+        "v_9d8d7effc3d6",
+        "v_20567a2c361c",
+        "v_6390361dfdff",
+        "v_cbebbd9b12f9",
+        "v_dc726d0a525f",
+        "v_2d0042b2b8a5"
+      ]
+    },
+    {
+      "lesson": 3,
+      "card_ids": [
+        "v_e6b04b86b274",
+        "v_fcb9e082559a",
+        "v_0e6879269f24",
+        "v_13a47eae1a99",
+        "v_46023b2bfb8b",
+        "v_ce56cb28417d",
+        "v_98cc8f49579e",
+        "v_7b7338287678",
+        "v_ba4ae5458081",
+        "v_55bbc5b87729"
+      ]
+    },
+    {
+      "lesson": 4,
+      "card_ids": [
+        "v_bbb3c95e291c",
+        "v_ed2f83494bb1",
+        "v_67134e840908",
+        "v_5a62bd0265f6",
+        "v_553dd9f18d08",
+        "v_d3566f046585",
+        "v_8889b2715428",
+        "v_40fd0281a23a",
+        "v_f3fe58e7decb",
+        "v_f2a31e577558"
+      ]
+    },
+    {
+      "lesson": 5,
+      "card_ids": [
+        "v_9999ffe13ea2",
+        "v_96fd8f3f3546",
+        "v_82e05dae00a8",
+        "v_3d550b8f21b4",
+        "v_916425aaff71",
+        "v_40d1f6b8dd81",
+        "v_f61ea6965d55",
+        "v_3ed1e26222a5",
+        "v_1cf38705e1b5",
+        "v_c5f6747f12bd"
+      ]
+    },
+    {
+      "lesson": 6,
+      "card_ids": [
+        "v_2284455021c9",
+        "v_7c0766a4cdd8",
+        "v_d246e6745941",
+        "v_5eb66c22f9dd",
+        "v_dc6fb3156669",
+        "v_e72f67cac862",
+        "v_1b9491601a34",
+        "v_bd4dac34ea75",
+        "v_1cad115a0c99",
+        "v_f842f08da12f"
+      ]
+    },
+    {
+      "lesson": 7,
+      "card_ids": [
+        "v_16cb8a02338a",
+        "v_2c7deff63888",
+        "v_33cd63a03516",
+        "v_f69f75721093",
+        "v_8ba8496a2525",
+        "v_654da3fa6b43",
+        "v_e61db885bd6e",
+        "v_c593f2386246",
+        "v_f391fc457bee",
+        "v_c0e59d8237ab"
+      ]
+    },
+    {
+      "lesson": 8,
+      "card_ids": [
+        "v_0e89820860c3",
+        "v_4c306bcd8be6",
+        "v_a36670b856d6",
+        "v_9ffcd17ec3dd",
+        "v_9b7034fbe37a",
+        "v_78ed73ad7f78",
+        "v_da3a456ba70b",
+        "v_adf71e960fdb",
+        "v_a97541517d61",
+        "v_d9c59d626296"
+      ]
+    },
+    {
+      "lesson": 9,
+      "card_ids": [
+        "v_437cdb84e050",
+        "v_5f9999520a6b",
+        "v_b0d51c58c8b9",
+        "v_51f01dfbe232",
+        "v_6dbefb4fe023",
+        "v_d9664ce59a29",
+        "v_f5c6becb64d1",
+        "v_0bda167d6dc4",
+        "v_6e00cd562cc2",
+        "v_dc2bc7079307"
+      ]
+    },
+    {
+      "lesson": 10,
+      "card_ids": [
+        "v_7970fb3b7a81",
+        "v_b531160baf62",
+        "v_c68b62da0180",
+        "v_14ae9608704f",
+        "v_cf4051ef5db4",
+        "v_bbc85dc844a8",
+        "v_bbe0ce060c5d",
+        "v_b9b5462cc209",
+        "v_d6b67e006108",
+        "v_0f91e23b18d1"
+      ]
+    },
+    {
+      "lesson": 11,
+      "card_ids": [
+        "v_48eb632fe16a",
+        "v_6743f6f2b593",
+        "v_4d4c7eee2e28",
+        "v_9a3092a6118e",
+        "v_fa5873fffd2c",
+        "v_bbf4fd087e11",
+        "v_f58940a31399",
+        "v_23f4c648f233",
+        "v_0fee7196f681",
+        "v_d7b1b0d6ab53"
+      ]
+    },
+    {
+      "lesson": 12,
+      "card_ids": [
+        "v_2c3be1ba45fc",
+        "v_ac51196ce3e4",
+        "v_d39c118729fe",
+        "v_1102408acd23",
+        "v_947726dd6318",
+        "v_65af9b2da383",
+        "v_97c5b137c523",
+        "v_f7f20aa7aa7e",
+        "v_3e52d53619c3",
+        "v_0ba6b85d20e5"
+      ]
+    },
+    {
+      "lesson": 13,
+      "card_ids": [
+        "v_29ba6947875f",
+        "v_ba5947401ca3",
+        "v_49b907abe37c",
+        "v_a285fcfb71e5",
+        "v_7705accd2694",
+        "v_71895574e71d",
+        "v_ccb261d43dcc",
+        "v_0e862e2cdc85",
+        "v_9474a33939b8",
+        "v_e152337e4e85"
+      ]
+    },
+    {
+      "lesson": 14,
+      "card_ids": [
+        "v_2b6290e1431b",
+        "v_e9d7ac65848d",
+        "v_6f281157ab24",
+        "v_6ac895ea9045",
+        "v_44387af5e7e9",
+        "v_ddfb96f4b010",
+        "v_ed6cea7c96d0",
+        "v_36feea8f8e40",
+        "v_09cbad3beca7",
+        "v_4b60408173f7"
+      ]
+    },
+    {
+      "lesson": 15,
+      "card_ids": [
+        "v_3117fcfdf8fb",
+        "v_78a8d51cedd0",
+        "v_eafe895eb811",
+        "v_db40677044ed",
+        "v_14b9005e4f90",
+        "v_5b08c1d1d6f1",
+        "v_0379eaa77ccf",
+        "v_122c6755e18c",
+        "v_5a8460f6b1bf",
+        "v_2a08519e90a0"
+      ]
+    },
+    {
+      "lesson": 16,
+      "card_ids": [
+        "v_1c6333509deb",
+        "v_b7b81c4f0216",
+        "v_11e25f1f57e6",
+        "v_724a5186055f",
+        "v_bcd7a5659ef8",
+        "v_ddbf0bf4e48e",
+        "v_4932c716f725",
+        "v_1ca4b2d5af52",
+        "v_f560c6c3e213",
+        "v_2a90c776f807"
+      ]
+    },
+    {
+      "lesson": 17,
+      "card_ids": [
+        "v_c0ba48a52e95",
+        "v_b12787b62373",
+        "v_419a636ccc2a",
+        "v_0a378fb3bca5",
+        "v_b64e1a59d3ff",
+        "v_7268c138c882",
+        "v_a156a87ade74",
+        "v_57a6d339e516",
+        "v_74e892c91130",
+        "v_4d74a33ff01e"
+      ]
+    },
+    {
+      "lesson": 18,
+      "card_ids": [
+        "v_b7cabad07c50",
+        "v_076e22a9d40c",
+        "v_b9afcb2d7a8f",
+        "v_d51110eb049b",
+        "v_845e91831319",
+        "v_c1e66898e912",
+        "v_39447620253e",
+        "v_f3279006c3e0",
+        "v_6d4c00f80225",
+        "v_7776d7ef57e3"
+      ]
+    },
+    {
+      "lesson": 19,
+      "card_ids": [
+        "v_c52028f34e37",
+        "v_5b2aa7da8ad0",
+        "v_bf8565911786",
+        "v_9fd888b6cc4b",
+        "v_b7fc8330414d",
+        "v_0c3cb15a8f1b",
+        "v_ecd38f260821",
+        "v_d0fc546fe8a0",
+        "v_e3fe81c01ca6",
+        "v_b5a899e3f685"
+      ]
+    },
+    {
+      "lesson": 20,
+      "card_ids": [
+        "v_37a54e5c4146",
+        "v_fb289b2ba166",
+        "v_bfdb264e14b3",
+        "v_323748f86a76",
+        "v_39acf477d580",
+        "v_7cf30b8d5f75",
+        "v_733859c1fc6b",
+        "v_31ba57f38208",
+        "v_52dabec35605",
+        "v_810bbfc50b0b"
+      ]
+    },
+    {
+      "lesson": 21,
+      "card_ids": [
+        "v_a895ef3b3774",
+        "v_8ddbee171712",
+        "v_9502d75fc16d",
+        "v_13fc162e2eb9",
+        "v_3a19589098bc",
+        "v_08f77c90d7f2",
+        "v_4d198cbc58c3",
+        "v_3955f8fd92cd",
+        "v_943b93c5748c",
+        "v_5a945e3f1f8e"
+      ]
+    },
+    {
+      "lesson": 22,
+      "card_ids": [
+        "v_a12dd3a7fd32",
+        "v_11eb471feabc",
+        "v_2c54e8704ada",
+        "v_cf1bb14f0cc8",
+        "v_356d525f1ff8",
+        "v_cddfd47caef0",
+        "v_133c8eb86cf8",
+        "v_4f4fb1782a29",
+        "v_7f075c079f86",
+        "v_86c505098756"
+      ]
+    },
+    {
+      "lesson": 23,
+      "card_ids": [
+        "v_470180795d13",
+        "v_2fb4e0f052e0",
+        "v_3f267c2ab422",
+        "v_e0dbad1c88c5",
+        "v_e7b0e0f07fa4",
+        "v_a49c1ce626ee",
+        "v_1c7ed7db6364",
+        "v_ac1793a60ed5",
+        "v_1241626eb8ca",
+        "v_c501935a6b2b"
+      ]
+    },
+    {
+      "lesson": 24,
+      "card_ids": [
+        "v_605c091e03b4",
+        "v_92398586ef98",
+        "v_f6452833e036",
+        "v_3442e43944d8",
+        "v_3426125bf109",
+        "v_5fb868b6fa4c",
+        "v_6dc027c1d4bb",
+        "v_9c37f921ae70",
+        "v_1b6a3443f30a",
+        "v_39b11ca91d7e"
+      ]
+    },
+    {
+      "lesson": 25,
+      "card_ids": [
+        "v_39d5ef92ac20",
+        "v_08987179dd86",
+        "v_1706e9f28ed5",
+        "v_2e9c47a71e3f",
+        "v_a0d777bd6f1e",
+        "v_16268ec9b98f",
+        "v_0f780b5c735e",
+        "v_6bf3e455827f",
+        "v_4b31de0b2c43",
+        "v_484bb48c23cd"
+      ]
+    },
+    {
+      "lesson": 26,
+      "card_ids": [
+        "v_7da8e6f51975",
+        "v_5721674bd383",
+        "v_9bf86920ceaf",
+        "v_d9f4a464856d",
+        "v_59509a2082f2",
+        "v_2cc876698fd3",
+        "v_16f3f581d7bd",
+        "v_db936b2f3eec",
+        "v_60e3835733b8",
+        "v_901d6b30245e"
+      ]
+    },
+    {
+      "lesson": 27,
+      "card_ids": [
+        "v_0ee61472f38a",
+        "v_85802b7108d9",
+        "v_1a20f6d5510e",
+        "v_74c500224723",
+        "v_79e1d925e79c",
+        "v_521d5ad71dcc",
+        "v_26002daceaae",
+        "v_0123973b7219",
+        "v_91b9fae3d797",
+        "v_49bd8c91d1b1"
+      ]
+    },
+    {
+      "lesson": 28,
+      "card_ids": [
+        "v_00efcee9cb2a",
+        "v_3f339f81e0ce",
+        "v_32019b7a4855",
+        "v_3c0651e71765",
+        "v_9f597df817ba",
+        "v_ae8f9598baab",
+        "v_b04a12f6483e",
+        "v_17fe25168cae",
+        "v_11e5423d1099",
+        "v_cef470615c1a"
+      ]
+    },
+    {
+      "lesson": 29,
+      "card_ids": [
+        "v_87e2b66c04b3",
+        "v_5d73fd1a37bd",
+        "v_edca249d8d1f",
+        "v_14ef768d3416",
+        "v_4bba9678c251",
+        "v_36fb1804a08e",
+        "v_c9c6b48698d3",
+        "v_a1f32f577f69",
+        "v_150166168279",
+        "v_b543cbe483fc"
+      ]
+    },
+    {
+      "lesson": 30,
+      "card_ids": [
+        "v_5847423885fc",
+        "v_2a33c4ad3396",
+        "v_5fc338995a7a",
+        "v_5a43f1e23e0f",
+        "v_cf3c3437a865",
+        "v_b70a1eb40cba",
+        "v_3f762ee76e28",
+        "v_285ae0043925",
+        "v_a9a7c7281c6d",
+        "v_23d5e1e004ec"
+      ]
+    },
+    {
+      "lesson": 31,
+      "card_ids": [
+        "v_1c6b6b9e0127",
+        "v_2305711f9cad",
+        "v_9f3ba45d46ab",
+        "v_366b910bc6d0",
+        "v_b4e14087cb3a",
+        "v_2696fbf2de49",
+        "v_8bbcba42d48d",
+        "v_45b0107546d3",
+        "v_785e660f032f",
+        "v_72110207b649"
+      ]
+    },
+    {
+      "lesson": 32,
+      "card_ids": [
+        "v_8212edf3a3a7",
+        "v_1b4c0a293bc9",
+        "v_1198780b3af7",
+        "v_2879a0365697",
+        "v_9a6561c1dbbd",
+        "v_c3922a3cd74c",
+        "v_32e8731bb960",
+        "v_91ed52d0a5c6",
+        "v_24cacf5004bf",
+        "v_362eaf511323"
+      ]
+    },
+    {
+      "lesson": 33,
+      "card_ids": [
+        "v_d6b59057098a",
+        "v_e72501931443",
+        "v_451f2c2a01a7",
+        "v_94379e82a0fa",
+        "v_b252d4eb5acf",
+        "v_77b595a49344",
+        "v_b08c9e29be44",
+        "v_c5ac8b0676d2",
+        "v_eb81c8138b3e",
+        "v_9c96a613428a"
+      ]
+    },
+    {
+      "lesson": 34,
+      "card_ids": [
+        "v_a77de8a6daa1",
+        "v_32de78ce7d10",
+        "v_bb67b8abc02c",
+        "v_dd0eec539f4b",
+        "v_c8113c63c54f",
+        "v_ef752d7a5ee9",
+        "v_f9bb818d8483",
+        "v_2c85c8693ee4",
+        "v_5ba8e23f0664",
+        "v_64711d2a34f7"
+      ]
+    },
+    {
+      "lesson": 35,
+      "card_ids": [
+        "v_da62ab4d578a",
+        "v_4c36741a4c49",
+        "v_97a5e41b45dd",
+        "v_c135936026c5",
+        "v_eed1076ebc5e",
+        "v_e182778f535a",
+        "v_d2bd91c085c8",
+        "v_f928c5927973",
+        "v_b0ad2485845e",
+        "v_46cfb0b609bd"
+      ]
+    },
+    {
+      "lesson": 36,
+      "card_ids": [
+        "v_0e6d1ca54498",
+        "v_dd3282f8b716",
+        "v_afc9b31d9f3f",
+        "v_f7f376a1fcd0",
+        "v_b0688a56fae3",
+        "v_8bf4756bf7f1",
+        "v_7a45006a7d96",
+        "v_1c26d346a2a5",
+        "v_aa82c33012cb",
+        "v_99a90f03463a"
+      ]
+    },
+    {
+      "lesson": 37,
+      "card_ids": [
+        "v_7bfc303b6d92",
+        "v_0b7a461fefbb",
+        "v_a9a6065befd7",
+        "v_1733da284dc7",
+        "v_47320987f9a4",
+        "v_446be308664e",
+        "v_bd4b5d65b6a2",
+        "v_c79176bd6640",
+        "v_6242e1a5c398",
+        "v_372b10633a06"
+      ]
+    },
+    {
+      "lesson": 38,
+      "card_ids": [
+        "v_35eedf2977d3",
+        "v_7d1b750610cf",
+        "v_ad9b338ab555",
+        "v_29f2341c23f2",
+        "v_d5417bbcb74c",
+        "v_d70907ca50c0",
+        "v_e5e33babc94f",
+        "v_c6cf1309cd70",
+        "v_6bd1454e4848",
+        "v_3bf78e5b607d"
+      ]
+    },
+    {
+      "lesson": 39,
+      "card_ids": [
+        "v_0d063144ae29",
+        "v_e83672b26727",
+        "v_736acc8661cb",
+        "v_ad0ec9f1bb0d",
+        "v_283128acef14",
+        "v_2a6f1c57250a",
+        "v_1e5c7c32c96e",
+        "v_d45ffa3b54d5",
+        "v_0604209f3e77",
+        "v_4c5fef1fbc00"
+      ]
+    },
+    {
+      "lesson": 40,
+      "card_ids": [
+        "v_bf0bb4ee60e2",
+        "v_a31c42b08894",
+        "v_82bed5a99188",
+        "v_cd5d46d40afb",
+        "v_21efc9295585",
+        "v_19ef237d126f",
+        "v_230b4397685e",
+        "v_3c7975ca3a1a",
+        "v_69ddcc7a9304",
+        "v_585326549a35"
+      ]
+    },
+    {
+      "lesson": 41,
+      "card_ids": [
+        "v_779eb1a03187",
+        "v_2bd063e3ec06",
+        "v_f1f61cc7216e",
+        "v_369d2000ecae",
+        "v_7c97a07a846b",
+        "v_829ee0c8ef48",
+        "v_038fb832e18e",
+        "v_485694a60b3b",
+        "v_9106d6212bb4",
+        "v_f47350731a55"
+      ]
+    },
+    {
+      "lesson": 42,
+      "card_ids": [
+        "v_bf8a98eaf7f3",
+        "v_e33ab71da0b2",
+        "v_d8a681bcc005",
+        "v_64a0011f59e0",
+        "v_7baef513d86b",
+        "v_fa6b2f694ecd",
+        "v_c70166efa6b5",
+        "v_2cb23fea7e04",
+        "v_0e64c73136d2",
+        "v_d676a052781a"
+      ]
+    },
+    {
+      "lesson": 43,
+      "card_ids": [
+        "v_2b35ed6944dd",
+        "v_e3fa7b12a5b0",
+        "v_8eb8c3d9d39f",
+        "v_eda766b31c47",
+        "v_c596d4bc82ae",
+        "v_69eef1dac339",
+        "v_2cd6f936b05d",
+        "v_5fc58ec45e9a",
+        "v_4a78ccc2b591",
+        "v_58bdec642de9"
+      ]
+    },
+    {
+      "lesson": 44,
+      "card_ids": [
+        "v_58794c838b84",
+        "v_b56fc4f6ae35",
+        "v_4c7e98bfa0c7",
+        "v_1c04908a0f5e",
+        "v_cea46727dcee",
+        "v_5c1844d9f4a1",
+        "v_159e70c5f38c",
+        "v_94fa3e5538d5",
+        "v_e20a548f23fa",
+        "v_7dc41b07b027"
+      ]
+    },
+    {
+      "lesson": 45,
+      "card_ids": [
+        "v_e5f644d17215",
+        "v_f1833010c0a6",
+        "v_76438b8f0245",
+        "v_9a8643223f73",
+        "v_b2dc971f4895",
+        "v_c24d9d104b2d",
+        "v_36ae6f659a20",
+        "v_3a701dd35af7",
+        "v_a6047e673adc",
+        "v_ba2929253a1d"
+      ]
+    },
+    {
+      "lesson": 46,
+      "card_ids": [
+        "v_5879a0f59f72",
+        "v_a5059c69dbd6",
+        "v_f690c5726c9f",
+        "v_91c836d87163",
+        "v_aeb64490c6c5",
+        "v_054e08169421",
+        "v_15719127b3dd",
+        "v_e58edcf1542c",
+        "v_205fdea75ec4",
+        "v_c7d6405c0195"
+      ]
+    },
+    {
+      "lesson": 47,
+      "card_ids": [
+        "v_2182f43c8fcd",
+        "v_d1764859a26f",
+        "v_e46f92236739",
+        "v_5e684aafc4bf",
+        "v_b4ff4115f2b8",
+        "v_dd0cd6ec3676",
+        "v_85d7d193d9c8",
+        "v_b7d64a922100",
+        "v_b9468c68a44d",
+        "v_b9ed77b74a27"
+      ]
+    },
+    {
+      "lesson": 48,
+      "card_ids": [
+        "v_2b7f4c7960b2",
+        "v_90741157b639",
+        "v_ad1ad4489f25",
+        "v_207bc6092999",
+        "v_1a2e7ccc325b",
+        "v_74918ed34d0f",
+        "v_7f8b48d4c79f",
+        "v_27ab53c94751",
+        "v_ef5bb86b5b2e",
+        "v_5fa895fe5564"
+      ]
+    },
+    {
+      "lesson": 49,
+      "card_ids": [
+        "v_d80c9bf910f1",
+        "v_085fff0f03cd",
+        "v_0dcc64c93287",
+        "v_2eb8ea3c2949",
+        "v_1a95f2bc449d",
+        "v_9428059cf693",
+        "v_ceab38a5bea5",
+        "v_6eaef6c060d1",
+        "v_4b493629a410",
+        "v_d24ecb6ec5b4"
+      ]
+    },
+    {
+      "lesson": 50,
+      "card_ids": [
+        "v_dcbd461a5d5c",
+        "v_4e8012bf28de",
+        "v_2e4d65166ca1",
+        "v_f906d1bb2683",
+        "v_7e9c4dbaa53d",
+        "v_0f706432ee07",
+        "v_2b9ee0d706ee",
+        "v_dcfddb87421b",
+        "v_3270f7fe8ace",
+        "v_b3fb82faaa11"
+      ]
+    },
+    {
+      "lesson": 51,
+      "card_ids": [
+        "v_76a506c8ab20",
+        "v_b1b499f18a51",
+        "v_1d7836f3bebc",
+        "v_477f8cf99873",
+        "v_b4d5a180d618",
+        "v_fb7993d8ca1f",
+        "v_406fcb470a70",
+        "v_1d43049233d3",
+        "v_38b00f31b388",
+        "v_20cfa19a950f"
+      ]
+    },
+    {
+      "lesson": 52,
+      "card_ids": [
+        "v_27ce25259481",
+        "v_01168736aae6",
+        "v_4fe4d9913a3d",
+        "v_38b059c3c743",
+        "v_079178f259ef",
+        "v_6bfeec53dc4b",
+        "v_91bb720d0df3",
+        "v_1babde3782b3",
+        "v_5b082f52ace3",
+        "v_56dd89dad4ac"
+      ]
+    },
+    {
+      "lesson": 53,
+      "card_ids": [
+        "v_f372ad930f20",
+        "v_1daf82f62247",
+        "v_969cfd933b9a",
+        "v_2ab8f8bf8dfa",
+        "v_21cf89250dbd",
+        "v_8781dc147e84",
+        "v_6b428ace0262",
+        "v_93a121f081e3",
+        "v_20d414395b2c",
+        "v_3c782deada34"
+      ]
+    },
+    {
+      "lesson": 54,
+      "card_ids": [
+        "v_61e6c0575e12",
+        "v_109fa9f54c84",
+        "v_33b089d93bb3",
+        "v_36ed3b91ddde",
+        "v_7ea7f7abba26",
+        "v_b78c3b1ae027",
+        "v_7e5608ab6100",
+        "v_e477d52fb042",
+        "v_95b24ad6b598",
+        "v_045fdd5eb18b"
+      ]
+    },
+    {
+      "lesson": 55,
+      "card_ids": [
+        "v_1a9ec2d80679",
+        "v_7ab3778776cd",
+        "v_1e050ad0629c",
+        "v_a58a98f1b09b",
+        "v_e0f469f3bb3f",
+        "v_eff8227b3984",
+        "v_35443277fe29",
+        "v_db2c4c83c0c4",
+        "v_be8d0183f845",
+        "v_08923b43930f"
+      ]
+    },
+    {
+      "lesson": 56,
+      "card_ids": [
+        "v_fef2affe6826",
+        "v_c0cbff04cc90",
+        "v_ba6b9412ff08",
+        "v_f66fa1690e7f",
+        "v_cdf1e73264d5",
+        "v_60cd72f34aeb",
+        "v_d69e3fbe8486",
+        "v_9babfe4134d8",
+        "v_e4a690f843bf",
+        "v_cae504ae216e"
+      ]
+    },
+    {
+      "lesson": 57,
+      "card_ids": [
+        "v_33abb76e27ab",
+        "v_328e0be4dc14",
+        "v_1d3f0fb3c95e",
+        "v_5f91503c4d13",
+        "v_abf0986b6eec",
+        "v_1182435e852b",
+        "v_e5ffa7d719bd",
+        "v_7368e8935a02",
+        "v_dc28c13ca4d7",
+        "v_276c5fdf347b"
+      ]
+    },
+    {
+      "lesson": 58,
+      "card_ids": [
+        "v_925733dafd74",
+        "v_141d07da45d4",
+        "v_31452c636593",
+        "v_e7f1a7a50685",
+        "v_05b2da8da4ac",
+        "v_6e0ec5d0ad61",
+        "v_3343a03a0dd8",
+        "v_f2b52d0e05bf",
+        "v_00337646bb39",
+        "v_ee03a596640d"
+      ]
+    },
+    {
+      "lesson": 59,
+      "card_ids": [
+        "v_6ac4c52465de",
+        "v_620a581fc734",
+        "v_d76065ec1a68",
+        "v_6a9733481118",
+        "v_26af29a1be63",
+        "v_226a19f5fca1",
+        "v_ce18d968699e",
+        "v_d98927794af5",
+        "v_89c4e0b2fa24",
+        "v_30a1f2ba26e4"
+      ]
+    },
+    {
+      "lesson": 60,
+      "card_ids": [
+        "v_9bd78d108ceb",
+        "v_32b140c6ac8e",
+        "v_7ca615e50c1f",
+        "v_8ebc4710cb4b",
+        "v_543394346815",
+        "v_c9dde8b87fe2",
+        "v_485db02b2777",
+        "v_30b0c1eda43b",
+        "v_6ed724e37730",
+        "v_65d33f4a8294"
+      ]
+    },
+    {
+      "lesson": 61,
+      "card_ids": [
+        "v_6717b9f02bd1",
+        "v_bf5d68beb85d",
+        "v_4deab817e28a",
+        "v_e97166b54500",
+        "v_d37b8eae0c2e",
+        "v_e5fb2cdf766f",
+        "v_3fdb7e873db1",
+        "v_410083735735",
+        "v_268e0d2cc0be",
+        "v_c32313b9f304"
+      ]
+    },
+    {
+      "lesson": 62,
+      "card_ids": [
+        "v_0894991f19b3",
+        "v_c4d0cf241a1b",
+        "v_807fb1a78298",
+        "v_388b045164b1",
+        "v_519d11af2083",
+        "v_2181584795ff",
+        "v_a12714875c02",
+        "v_333c04dd151a",
+        "v_190ab894c1cb",
+        "v_b1a9f2451cb1"
+      ]
+    },
+    {
+      "lesson": 63,
+      "card_ids": [
+        "v_7736323e8cf1",
+        "v_8cfc12e7f780",
+        "v_826b752b162b",
+        "v_b49d837b435a",
+        "v_d786cce7a4f8",
+        "v_f2c517909aac",
+        "v_67671a2f53dd",
+        "v_797f3561e93f",
+        "v_92d18a26f1e8",
+        "v_f90f02ab5951"
+      ]
+    },
+    {
+      "lesson": 64,
+      "card_ids": [
+        "v_c3b290f1c5ba",
+        "v_73cf3bafea3c",
+        "v_a55a564fd72f",
+        "v_7688bd7c4272",
+        "v_368a28ac7a1b",
+        "v_333de4ba9812",
+        "v_e8b22d83b417",
+        "v_fdda7a7ddbbd",
+        "v_56ef031d191a",
+        "v_7d68838bddc6"
+      ]
+    },
+    {
+      "lesson": 65,
+      "card_ids": [
+        "v_d15d872e43f9",
+        "v_efc0ee036aac",
+        "v_8f289b828ab9",
+        "v_b1587a796425",
+        "v_4f0050a5cfe3",
+        "v_599fc58fd0f7",
+        "v_2ebfa52840d3",
+        "v_b34a6098a1a2",
+        "v_fc2b6c264e75",
+        "v_e2aa18b9a4de"
+      ]
+    },
+    {
+      "lesson": 66,
+      "card_ids": [
+        "v_fdec1088c572",
+        "v_3a12b051e041",
+        "v_cb6acefde893",
+        "v_684a22ab5e5b",
+        "v_38499e5f4852",
+        "v_1a90d404b185",
+        "v_4118195c00d4",
+        "v_4945a70fa7f9",
+        "v_6dd1c05a1db4",
+        "v_5b1c45a8c175"
+      ]
+    },
+    {
+      "lesson": 67,
+      "card_ids": [
+        "v_460ee6aa3a80",
+        "v_f525991664d6",
+        "v_8720eb6ee208",
+        "v_b7d18e8f99d5",
+        "v_88adc0b1bfce",
+        "v_6392b7d8209e",
+        "v_713a1417c769",
+        "v_f2c4a35b2e94",
+        "v_47e159e54345",
+        "v_f1cf2fd5c868"
+      ]
+    },
+    {
+      "lesson": 68,
+      "card_ids": [
+        "v_51ebd308b4fb",
+        "v_c8dc779e1a91",
+        "v_ee3c65b5c7f4",
+        "v_5a47f37f5fa6",
+        "v_8da5a6c1a2bc",
+        "v_ccbe7480cc75",
+        "v_f84b19f3ef22",
+        "v_947b2afdfb3e",
+        "v_2937013f2181",
+        "v_29f854444896"
+      ]
+    },
+    {
+      "lesson": 69,
+      "card_ids": [
+        "v_2d0228aa56bf",
+        "v_470ebe82f755",
+        "v_808284fd1636",
+        "v_b83640748aae",
+        "v_54caafa49296",
+        "v_7dd5f3f368c8",
+        "v_1f41d3dbf506",
+        "v_d626e0984dc0",
+        "v_a7e56dad41c1",
+        "v_b767b9296f36"
+      ]
+    },
+    {
+      "lesson": 70,
+      "card_ids": [
+        "v_af2bdbe1aa9b",
+        "v_b947495bcbcf",
+        "v_e4c68d925d3a",
+        "v_92bc2e412115",
+        "v_eb392bcf1990",
+        "v_522b8a7f0d80",
+        "v_8e9afe9d1df3",
+        "v_7a26df35dcb4",
+        "v_f4b94901b561",
+        "v_59f0db478528"
+      ]
+    },
+    {
+      "lesson": 71,
+      "card_ids": [
+        "v_1343736d94fa",
+        "v_8189e57dc373",
+        "v_f9b45c37c456",
+        "v_3635e1b8b392",
+        "v_ef907c1a3cfb",
+        "v_ec3915f542e0",
+        "v_2cfe3764d213",
+        "v_c046b5d1be2c",
+        "v_da4270e3735a",
+        "v_4b687c93b82c"
+      ]
+    },
+    {
+      "lesson": 72,
+      "card_ids": [
+        "v_f411cd285992",
+        "v_116f54c41d04",
+        "v_cd4dd9667aaf",
+        "v_0e2d4263eb77",
+        "v_9f86d081884c",
+        "v_7e268dc535fd",
+        "v_46324deaf091",
+        "v_28263836ea96",
+        "v_a7efaaf84fcb",
+        "v_b86558b052b7"
+      ]
+    },
+    {
+      "lesson": 73,
+      "card_ids": [
+        "v_4594d493f0fd",
+        "v_60035590fe17",
+        "v_343052d9c1fa",
+        "v_a7b4dc56dac9",
+        "v_91f2dc47c314",
+        "v_e1f0a80e6784",
+        "v_f86e4b17a89f",
+        "v_14fde9a36124",
+        "v_1562b269a6c8",
+        "v_2dd00bd77e02"
+      ]
+    },
+    {
+      "lesson": 74,
+      "card_ids": [
+        "v_b501b9808853",
+        "v_26a0e6b5707a",
+        "v_d454bec656d3",
+        "v_e49f6c1b2e00",
+        "v_2e7a4ca586f1",
+        "v_81b06df4303e",
+        "v_192190def50f",
+        "v_393a65c67749",
+        "v_5f161c914988",
+        "v_420a1c4e1330"
+      ]
+    },
+    {
+      "lesson": 75,
+      "card_ids": [
+        "v_109d65e3cd86",
+        "v_ec72b9566a9c",
+        "v_0351f2dad59c",
+        "v_69ad11dce6ed",
+        "v_ee26f4137f88",
+        "v_a88aff46cb72",
+        "v_fa067439d730",
+        "v_c081dd376ba9",
+        "v_0db95ab8abb0",
+        "v_6b31b929531b"
+      ]
+    },
+    {
+      "lesson": 76,
+      "card_ids": [
+        "v_7beb7f4a5725",
+        "v_1c0cfdb1165d",
+        "v_f8566f1664d2",
+        "v_ee8250fb76e0",
+        "v_600361d85c83",
+        "v_ed950b1716c1",
+        "v_8bf18252cb6d",
+        "v_e7619e90f078",
+        "v_1b7a6eaa4179",
+        "v_e43ba08557cb"
+      ]
+    },
+    {
+      "lesson": 77,
+      "card_ids": [
+        "v_7b18c553b846",
+        "v_53accdbf734b",
+        "v_5c8dc148912e",
+        "v_34584f4ea01b",
+        "v_8004c0dd8116",
+        "v_6e0534af16e1",
+        "v_e153db2d6fda",
+        "v_156e9453ce64",
+        "v_772c6953848b",
+        "v_a3ff2c1eb4be"
+      ]
+    },
+    {
+      "lesson": 78,
+      "card_ids": [
+        "v_0899fbfd5de7",
+        "v_3754c68d4b05",
+        "v_6d0ae7c56a09",
+        "v_2c2b1a73b983",
+        "v_3deac28c1e76",
+        "v_3112f32967ac",
+        "v_74e01f6e90a9",
+        "v_28d9e7bbbf81",
+        "v_fae8475d0caa",
+        "v_3d2008f1f4fc"
+      ]
+    },
+    {
+      "lesson": 79,
+      "card_ids": [
+        "v_f26350dafe3f",
+        "v_6611032577e5",
+        "v_bda65b276aa1",
+        "v_167d4b09d014",
+        "v_6126e14192b0",
+        "v_52d24f5fdcd2",
+        "v_1fd38d5cbd2a",
+        "v_3dd3340b608a",
+        "v_7a9949b654f7",
+        "v_2ab022d82080"
+      ]
+    },
+    {
+      "lesson": 80,
+      "card_ids": [
+        "v_c63c69321437",
+        "v_50d132f12db7",
+        "v_08bf2418cca9",
+        "v_443076337a0b",
+        "v_3ed1183940e4",
+        "v_fc9184134ae5",
+        "v_c2db960a28cf",
+        "v_0863ad3745cc",
+        "v_bd70eb35e7aa",
+        "v_a4622e6478ac"
+      ]
+    },
+    {
+      "lesson": 81,
+      "card_ids": [
+        "v_2a4e4917dcbb",
+        "v_6985ca1f4daa",
+        "v_1866dbb94275",
+        "v_d63390bba2ea",
+        "v_120970d81283",
+        "v_131fa9b63d9b",
+        "v_3be200bb4495",
+        "v_06a61df042ad",
+        "v_6385021a17fd",
+        "v_bae918a885d1"
+      ]
+    },
+    {
+      "lesson": 82,
+      "card_ids": [
+        "v_cec9111de36d",
+        "v_15df5eb66c67",
+        "v_b73f58f381cb",
+        "v_f9e53ef695f2",
+        "v_ac1487ebd170",
+        "v_69aee80f8f9b",
+        "v_0487c249731a",
+        "v_a7aa9446252a",
+        "v_d533150aaed9",
+        "v_2ea88c7a3035"
+      ]
+    },
+    {
+      "lesson": 83,
+      "card_ids": [
+        "v_bdc10b319b98",
+        "v_df4c4792507b",
+        "v_5f435b82e7e9",
+        "v_c84734d0807e",
+        "v_2985de5e233e",
+        "v_262d517bffd0",
+        "v_d64ff47e4273",
+        "v_ef1a89be8910",
+        "v_744254211165",
+        "v_f1918291363d"
+      ]
+    },
+    {
+      "lesson": 84,
+      "card_ids": [
+        "v_ee95e3c71e7b",
+        "v_27747689baf9",
+        "v_fea729c5a074",
+        "v_258bfebacdfd",
+        "v_aef7c87361b0",
+        "v_8e93568f9873",
+        "v_38845d0b5f72",
+        "v_7db0558a5cda",
+        "v_6a1217536dcf",
+        "v_957070f808e8"
+      ]
+    },
+    {
+      "lesson": 85,
+      "card_ids": [
+        "v_a4234d9e2e1c",
+        "v_b2550e5edf24",
+        "v_13522f4e8a59",
+        "v_e97469619c0d",
+        "v_18f6d392e1fe",
+        "v_14f2a7160f0f",
+        "v_6f61f46c23a6",
+        "v_33c9be704e55",
+        "v_ec6dbdd95f76",
+        "v_dcb576426a17"
+      ]
+    },
+    {
+      "lesson": 86,
+      "card_ids": [
+        "v_66bed0ca8d96",
+        "v_ed82f2c92642",
+        "v_41a093100bbb",
+        "v_adadb6dd21eb",
+        "v_4fdb733a6a8c",
+        "v_2b4a5bdd6f71",
+        "v_ced621546c25",
+        "v_183a694e87a8",
+        "v_cdcb99c2404c",
+        "v_dbc757da3e53"
+      ]
+    },
+    {
+      "lesson": 87,
+      "card_ids": [
+        "v_14a8fc473ae0",
+        "v_f469802a3144",
+        "v_b17066904ee3",
+        "v_7b7696c56a04",
+        "v_2269c0be009b",
+        "v_55b790f7b79b",
+        "v_71f6f74a6f21",
+        "v_3fe1406a8254",
+        "v_8f2ac45f7015",
+        "v_e24efdf2bb83"
+      ]
+    },
+    {
+      "lesson": 88,
+      "card_ids": [
+        "v_931534c0c145",
+        "v_3b3e4bbbce5b",
+        "v_0e20fdf88b23",
+        "v_497e22fe854a",
+        "v_aa40d8eb7cd1",
+        "v_3f83f3baf97e",
+        "v_bd00a9963805",
+        "v_ed728a59cd21",
+        "v_cd92a80b30b9",
+        "v_f8dcb7a13bf4"
+      ]
+    },
+    {
+      "lesson": 89,
+      "card_ids": [
+        "v_94d7c5024f20",
+        "v_9f5d55ad50a0",
+        "v_5de95319f174",
+        "v_fe243ea7c527",
+        "v_ab9078b15361",
+        "v_945c8f9d4fe6",
+        "v_e4aa9ced4532",
+        "v_da24c3162ab8",
+        "v_b71fa50fa6af",
+        "v_b3b8ab66b02e"
+      ]
+    },
+    {
+      "lesson": 90,
+      "card_ids": [
+        "v_98ae279c3b05",
+        "v_920093c17317",
+        "v_beabc28c2b38",
+        "v_acf7b2891c73",
+        "v_37d93c5248e5",
+        "v_2042bc7aa65e",
+        "v_c2c9cf511809",
+        "v_819bb986f419",
+        "v_31006caed5e2",
+        "v_0d00a53b5550"
+      ]
+    },
+    {
+      "lesson": 91,
+      "card_ids": [
+        "v_dde7cd27d8fe",
+        "v_b1e79532d5b9",
+        "v_872889ed36c5",
+        "v_5c16250fd4bb",
+        "v_132f804e3569",
+        "v_28aafeeb04ff",
+        "v_ff9a546a4b8a",
+        "v_f95dac581e9b",
+        "v_d2281f7ee459",
+        "v_f2110e6cf92b"
+      ]
+    },
+    {
+      "lesson": 92,
+      "card_ids": [
+        "v_a36850fb299f",
+        "v_afafb16ac47b",
+        "v_bc1069c38704",
+        "v_6da0633528de",
+        "v_e494bc44c044",
+        "v_034a7e52c5c9",
+        "v_7b06cd5404da",
+        "v_2676e6e68a8e",
+        "v_0c4b554a77e3",
+        "v_81e766d8978e"
+      ]
+    },
+    {
+      "lesson": 93,
+      "card_ids": [
+        "v_1c8dcc3b83b2",
+        "v_e1d290577f46",
+        "v_f4e2351dac33",
+        "v_46e087617851",
+        "v_e4c41a3d3f8a",
+        "v_480e4f1d08e9",
+        "v_d1d96d39d1c8",
+        "v_3f650dce81c6",
+        "v_48e96833bc58",
+        "v_20475dfea3a2"
+      ]
+    },
+    {
+      "lesson": 94,
+      "card_ids": [
+        "v_381922d96e34",
+        "v_206b5ec743f4",
+        "v_96069324226a",
+        "v_f379ccb92b91",
+        "v_e6277c78de70",
+        "v_94a48d9e39ba",
+        "v_200de062e7fe",
+        "v_ae4e19fd6a92",
+        "v_4d57b359d9ca",
+        "v_967713d0e366"
+      ]
+    },
+    {
+      "lesson": 95,
+      "card_ids": [
+        "v_b1a607a0cc3c",
+        "v_8751a3fcac50",
+        "v_a6f64d6b8884",
+        "v_fc4d6c9e874c",
+        "v_0e349ebda755",
+        "v_d67a02ebcf17",
+        "v_9a714950f984",
+        "v_94dd4393f8ac",
+        "v_208a1228bf9d",
+        "v_2fac3ec44162"
+      ]
+    },
+    {
+      "lesson": 96,
+      "card_ids": [
+        "v_1b5eb7d72568",
+        "v_3b283e93debf",
+        "v_3a8f7b6c00a3",
+        "v_342c8c61e679",
+        "v_96c842ee0d60",
+        "v_1f8ff997de8b",
+        "v_3c4623849a49",
+        "v_49143cc866b6",
+        "v_7b476727faf3",
+        "v_f3051005444c"
+      ]
+    },
+    {
+      "lesson": 97,
+      "card_ids": [
+        "v_bd9999a0cfe6",
+        "v_9527c1c86df8",
+        "v_d7af78c1f4c4",
+        "v_d6a98598212e",
+        "v_25bf8e1a2393",
+        "v_8001c2743965",
+        "v_b9e998b692bd",
+        "v_e4540a7c8404",
+        "v_16759fe0f86c",
+        "v_2053dbbf6ec7"
+      ]
+    },
+    {
+      "lesson": 98,
+      "card_ids": [
+        "v_73c76d56fd40",
+        "v_7f2fe580edb3",
+        "v_56b336b50ec6",
+        "v_0badac3c6df4",
+        "v_04cd87fad96e",
+        "v_a8d7a27f05e9",
+        "v_426e732d555f",
+        "v_3b49d04a79c5",
+        "v_05aa6659dbc4",
+        "v_1ca7738c018a"
+      ]
+    },
+    {
+      "lesson": 99,
+      "card_ids": [
+        "v_2fe378cee5f5",
+        "v_feea816cbba9",
+        "v_5f79c870f2ac",
+        "v_993bc4b62c36",
+        "v_7cda33517c8a",
+        "v_7d8bde8c16d0",
+        "v_547aa5228ee9",
+        "v_9c9026257ee8",
+        "v_093ae9616a25",
+        "v_5c9473495c88"
+      ]
+    },
+    {
+      "lesson": 100,
+      "card_ids": [
+        "v_2c7bb4b91c4f",
+        "v_e5f754ff8557",
+        "v_267efee1ac16",
+        "v_29009f1764ae",
+        "v_47951833ecf6",
+        "v_2e1d76579d44",
+        "v_45ecebb38d4c",
+        "v_bae0db182974",
+        "v_c432b3dedcd6",
+        "v_e830d223e2dd"
+      ]
+    },
+    {
+      "lesson": 101,
+      "card_ids": [
+        "v_215695de89b1",
+        "v_533ce8ef5fb4",
+        "v_9c8027f087cf",
+        "v_5d942fc89e2d",
+        "v_6d9ef2934a5d",
+        "v_ff950b5d1efb",
+        "v_2961a6d1c8dc",
+        "v_da98b96e9889",
+        "v_60de8ec4bc54",
+        "v_0b4a74df9017"
+      ]
+    },
+    {
+      "lesson": 102,
+      "card_ids": [
+        "v_906585717f65",
+        "v_9aec52c93318",
+        "v_d5201236a832",
+        "v_4f2634aaa642",
+        "v_d9c6399d00ee",
+        "v_44da706e4564",
+        "v_3406e25d5b5a",
+        "v_6c9e281b5221",
+        "v_52fa69d2d9ca",
+        "v_d96a25a5763e"
+      ]
+    },
+    {
+      "lesson": 103,
+      "card_ids": [
+        "v_90408c8fef69",
+        "v_e9213756a2e6",
+        "v_f1d005d6b789",
+        "v_b0b50125f257",
+        "v_696c9da88636",
+        "v_8937c3ea0157",
+        "v_c59ddd3f7ba6",
+        "v_d3db5338aae1",
+        "v_9c4d79f3fda4",
+        "v_0e7546ed1840"
+      ]
+    },
+    {
+      "lesson": 104,
+      "card_ids": [
+        "v_94ff3cddf379",
+        "v_8326f4709d40",
+        "v_4c4ed1afbfda",
+        "v_cc7a8a13032e",
+        "v_249fdefbb63f",
+        "v_3fb7d1e9ffeb",
+        "v_78e61a47f600",
+        "v_c1cda2636282",
+        "v_f30c534da958",
+        "v_a95516198ccc"
+      ]
+    },
+    {
+      "lesson": 105,
+      "card_ids": [
+        "v_52367a6622b1",
+        "v_a7cd62b5948d",
+        "v_8f10a68d54a8",
+        "v_83bcb4718cfc",
+        "v_2b214ddf3326",
+        "v_a0cecbead27d",
+        "v_99045570dfa5",
+        "v_c581029daa30",
+        "v_135cd8475300",
+        "v_261b152862d1"
+      ]
+    },
+    {
+      "lesson": 106,
+      "card_ids": [
+        "v_f45b59736bd9",
+        "v_10065436b400",
+        "v_456cf73c569b",
+        "v_d254415d1feb",
+        "v_0978cd572355",
+        "v_207dcab2fa48",
+        "v_f350895acb59",
+        "v_9c4bb1e727db",
+        "v_4d1ed7afb539",
+        "v_8abf01d3d4a7"
+      ]
+    },
+    {
+      "lesson": 107,
+      "card_ids": [
+        "v_f78fcae67d4a",
+        "v_98c41dcd20b8",
+        "v_c271f2bb9318",
+        "v_89c08f7a0298",
+        "v_57794bdeddd9",
+        "v_da31012c4033",
+        "v_aee50b18a03c",
+        "v_26f1de33979d",
+        "v_70ec5407c5d5",
+        "v_62a4a0e9fbff"
+      ]
+    },
+    {
+      "lesson": 108,
+      "card_ids": [
+        "v_46401dc068e7",
+        "v_f679230253e5",
+        "v_3a77a549887b",
+        "v_25cf621809d2",
+        "v_819b60bb250f",
+        "v_5e06ddf9a3c4",
+        "v_f277b1934a3b",
+        "v_a9be4c13b917",
+        "v_b6451cc6dd81",
+        "v_799d452105fd"
+      ]
+    },
+    {
+      "lesson": 109,
+      "card_ids": [
+        "v_999b38333a22",
+        "v_47032622e20b",
+        "v_5e1cf42878df",
+        "v_5eada740600d",
+        "v_00a5720013f2",
+        "v_b96d7c3dadb2",
+        "v_08e1440931d8",
+        "v_d4f568b800c6",
+        "v_704b7acbacf9",
+        "v_73060ad79f2c"
+      ]
+    },
+    {
+      "lesson": 110,
+      "card_ids": [
+        "v_75cf685d0646",
+        "v_f7496f1fc973",
+        "v_966877d108f9",
+        "v_d08c99d304f7",
+        "v_c0f1779c16d2",
+        "v_f458f8295a83",
+        "v_f72abe7b65d2",
+        "v_31955759323d",
+        "v_5a22e73abea9",
+        "v_a294469efce3"
+      ]
+    },
+    {
+      "lesson": 111,
+      "card_ids": [
+        "v_ac9fc833c96e",
+        "v_fd09998bb3ce",
+        "v_cc73c906e945",
+        "v_319e2ba078f5",
+        "v_54c9e847ed79",
+        "v_87288d68ed71",
+        "v_c39a7d54f55b",
+        "v_018fd478959f",
+        "v_8cd0afb35166",
+        "v_80ea8bc4ba2d"
+      ]
+    },
+    {
+      "lesson": 112,
+      "card_ids": [
+        "v_b9abdfa5387b",
+        "v_cccd9f470f3b",
+        "v_2caa75efae52",
+        "v_e46d9e63367d",
+        "v_0c95e8a1c4f6",
+        "v_50f5f1b46dea",
+        "v_4994ad9e4f40",
+        "v_e452917780fb",
+        "v_482a37dd98d9",
+        "v_6666c8729e3d"
+      ]
+    },
+    {
+      "lesson": 113,
+      "card_ids": [
+        "v_b3c1e8435f93",
+        "v_c215cc7ced6a",
+        "v_26dd7517f5ec",
+        "v_81b6b2c874b7",
+        "v_cb7cb8fb038e",
+        "v_ad901564f6e6",
+        "v_22cf6dd50399",
+        "v_03b7a0d9ccaf",
+        "v_969656cc5f0c",
+        "v_faa94f91ef29"
+      ]
+    },
+    {
+      "lesson": 114,
+      "card_ids": [
+        "v_8e48aec36376",
+        "v_14b917e231e6",
+        "v_afe23d385448",
+        "v_44a53f8fca87",
+        "v_e43c3a238333",
+        "v_94a23dc9d73e",
+        "v_8acfca1a1732",
+        "v_9ebc87f6f19d",
+        "v_c83bd4a20c9d",
+        "v_93faf333c33e"
+      ]
+    },
+    {
+      "lesson": 115,
+      "card_ids": [
+        "v_d7eb99703b10",
+        "v_5624734df584",
+        "v_beaeb4cb2749",
+        "v_38314c8f54ba",
+        "v_2c0b08866302",
+        "v_deab23f4b0a4",
+        "v_e6c14f394310",
+        "v_c3c64750a3ff",
+        "v_133cd1aa97b9",
+        "v_626579911eb5"
+      ]
+    },
+    {
+      "lesson": 116,
+      "card_ids": [
+        "v_9c8dade5f4eb",
+        "v_24f553766cbf",
+        "v_67faef4b0f08",
+        "v_f4d0d5c403d4",
+        "v_211ca14e1500",
+        "v_cf82a6affb58",
+        "v_23732d006431",
+        "v_3637a614cb73",
+        "v_388e5b65ab51",
+        "v_3b637864e75a"
+      ]
+    },
+    {
+      "lesson": 117,
+      "card_ids": [
+        "v_693ca67b274d",
+        "v_9a5fd614ff18",
+        "v_9ca01c94479c",
+        "v_9e9d1d18fef1",
+        "v_9ff94c3eb0c1",
+        "v_aa580156f36e",
+        "v_c9fbd9152b7f",
+        "v_ca00fccfb408",
+        "v_d36dfad2b57b",
+        "v_d6cc6bc3180d"
+      ]
+    },
+    {
+      "lesson": 118,
+      "card_ids": [
+        "v_e0787d272a43",
+        "v_e795ecfb89dc",
+        "v_f274537aaf2c",
+        "v_fa4824e83746",
+        "v_ff0139d07c59",
+        "v_01952a35a2d9",
+        "v_05808de8d310",
+        "v_094ec2a9e093",
+        "v_0d34e68cbc93",
+        "v_0e0ca6fd0a7b"
+      ]
+    },
+    {
+      "lesson": 119,
+      "card_ids": [
+        "v_125fdb0459a7",
+        "v_1305c6493e7d",
+        "v_142988107786",
+        "v_168624d9bb04",
+        "v_1716a711b2be",
+        "v_1b4e378f7513",
+        "v_1c8326361f25",
+        "v_1ecc08c9fc00",
+        "v_1f3bb9a2d27b",
+        "v_24d8dfb86ad7"
+      ]
+    },
+    {
+      "lesson": 120,
+      "card_ids": [
+        "v_2626e1d37367",
+        "v_262ebef964f7",
+        "v_26ba63ff253c",
+        "v_2770755f507d",
+        "v_2838971fc50d",
+        "v_29eb6221c812",
+        "v_2a920e31d255",
+        "v_2ebb9d67ceef",
+        "v_2f0b4053abf1",
+        "v_302f4f9c1214"
+      ]
+    },
+    {
+      "lesson": 121,
+      "card_ids": [
+        "v_33ace1c649af",
+        "v_3979666a65f0",
+        "v_399cfa5a0c22",
+        "v_3a1da5bcfffc",
+        "v_3b32f37d4b2b",
+        "v_3b3ece248583",
+        "v_4274b1899eba",
+        "v_4460d5ad7977",
+        "v_44cbe8d3811a",
+        "v_48f2fb99e7b8"
+      ]
+    },
+    {
+      "lesson": 122,
+      "card_ids": [
+        "v_4a19869be1f0",
+        "v_4c7e79bb687b",
+        "v_4ce5c7a8a0ca",
+        "v_4cf3844cd011",
+        "v_4f080d9afebb",
+        "v_4fcf7344b66a",
+        "v_532f55aa6086",
+        "v_55125830034f",
+        "v_566c303b38ac",
+        "v_5b401313c74b"
+      ]
+    },
+    {
+      "lesson": 123,
+      "card_ids": [
+        "v_60c10f839393",
+        "v_61739a854b93",
+        "v_6e67f84d8254",
+        "v_6edb6ac97fcc",
+        "v_703cd28ba7af",
+        "v_76a751dd76f3",
+        "v_794a6e924029",
+        "v_7bcce0df4ce3",
+        "v_7e79a4c2a6a9",
+        "v_80364dee8002"
+      ]
+    },
+    {
+      "lesson": 124,
+      "card_ids": [
+        "v_82e0526f8bf5",
+        "v_839bed283b49",
+        "v_8593c45048d3",
+        "v_86b94d8747d9",
+        "v_8869d00ea7ce",
+        "v_8dbda30067fd",
+        "v_90b603518f8a",
+        "v_91fb564be56c",
+        "v_93a3e21c20a3",
+        "v_94fcff15fa98"
+      ]
+    },
+    {
+      "lesson": 125,
+      "card_ids": [
+        "v_9b5dd5b01cb4",
+        "v_9cf05a7f73ef",
+        "v_9f6183312a35",
+        "v_9fe39eaf096b",
+        "v_a1ab52294fe6",
+        "v_a38cb026a479",
+        "v_a3e5d8f93b4a",
+        "v_a576fded4084",
+        "v_a5ecbc4ce2cf",
+        "v_a86ba77e4d00"
+      ]
+    },
+    {
+      "lesson": 126,
+      "card_ids": [
+        "v_aa2d64f725f9",
+        "v_afd14f040763",
+        "v_b64c722a02dc",
+        "v_b716512d1aff",
+        "v_b8185d7e530b",
+        "v_ba3bcd04551d",
+        "v_bd10f453141d",
+        "v_c2e07d03f25f",
+        "v_c30e7aa4b4b7",
+        "v_c3b7a9dc75d3"
+      ]
+    },
+    {
+      "lesson": 127,
+      "card_ids": [
+        "v_c4abd881a866",
+        "v_c6b0f792b816",
+        "v_c701ec09079c",
+        "v_c85e509cee8d",
+        "v_cad19842c76b",
+        "v_d0a8b66e66b9",
+        "v_d2cfaf009cd1",
+        "v_d4e8b0319e53",
+        "v_d5621831d4ce",
+        "v_d5e07707908c"
+      ]
+    },
+    {
+      "lesson": 128,
+      "card_ids": [
+        "v_d6dc9be37669",
+        "v_d797a4fb0677",
+        "v_d7e7c6defb4a",
+        "v_d8d059c4de0a",
+        "v_de5cfa4ad60a",
+        "v_dff3082dab46",
+        "v_e0e9ec17f401",
+        "v_e104aa8c0b73",
+        "v_e4eed5bd8f12",
+        "v_e83e1822797a"
+      ]
+    },
+    {
+      "lesson": 129,
+      "card_ids": [
+        "v_ee2bf8dcc099",
+        "v_ee3ba4068fad",
+        "v_efa09aff0027",
+        "v_f033e623f353",
+        "v_f077a9cb413e",
+        "v_f268b63ccede",
+        "v_f4b5c6511cff",
+        "v_f61bd3714696",
+        "v_fd639624d612",
+        "v_ffd32123323f"
+      ]
+    },
+    {
+      "lesson": 130,
+      "card_ids": [
+        "v_0093aaaeeded",
+        "v_040878b701e6",
+        "v_080b08a16d1d",
+        "v_0c35d58fe9ed",
+        "v_1185cc3b8787",
+        "v_13f250fb5388",
+        "v_15eb8b50982c",
+        "v_16f8c99caca9",
+        "v_1a6a9ccd99dc",
+        "v_1efd994ac14a"
+      ]
+    },
+    {
+      "lesson": 131,
+      "card_ids": [
+        "v_21d4c4e31fee",
+        "v_243b9719eb54",
+        "v_24f7d2384fb3",
+        "v_27f08ed7b7b7",
+        "v_293a609113e2",
+        "v_2a85741baefc",
+        "v_2e7f447de68f",
+        "v_2fa209e9c57b",
+        "v_3264cac07ab9",
+        "v_3595a9f380af"
+      ]
+    },
+    {
+      "lesson": 132,
+      "card_ids": [
+        "v_411767a64ee1",
+        "v_4356ad395b93",
+        "v_45056205866b",
+        "v_47c0362c8bc8",
+        "v_4b95449f149d",
+        "v_531eb382d627",
+        "v_5408ff669cf4",
+        "v_64b5f88eb556",
+        "v_6765ada0c6bf",
+        "v_6e4130d7fd9c"
+      ]
+    },
+    {
+      "lesson": 133,
+      "card_ids": [
+        "v_7bcf2bcecb56",
+        "v_8a368538e96e",
+        "v_8ded92568478",
+        "v_944a6c487806",
+        "v_9b6843f20b45",
+        "v_9d16fe16304f",
+        "v_9ea1cd15b7ef",
+        "v_a24a6a0f9f21",
+        "v_a88a3dd4697e",
+        "v_a89a31f4603a"
+      ]
+    },
+    {
+      "lesson": 134,
+      "card_ids": [
+        "v_c35901a365cb",
+        "v_c8d9231bd5bb",
+        "v_c9742085a2e3",
+        "v_cac72995b9a0",
+        "v_cb0bfc66f7dc",
+        "v_d1a6fb743c6b",
+        "v_d1aace2c8a9c",
+        "v_ddba2742866b",
+        "v_df8899a529e6",
+        "v_eab09948aead"
+      ]
+    },
+    {
+      "lesson": 135,
+      "card_ids": [
+        "v_ed75350e4f66",
+        "v_f317414cdb85",
+        "v_f8de8e1767e7",
+        "v_f8fca9c291fc",
+        "v_fb564ede9483",
+        "v_fba53a2c2048",
+        "v_febd42f85a22",
+        "v_1335b23241f5",
+        "v_157245a0c7ba",
+        "v_2392d288ab7d"
+      ]
+    },
+    {
+      "lesson": 136,
+      "card_ids": [
+        "v_2fe169831455",
+        "v_385f02358f35",
+        "v_3fd93e36bf6e",
+        "v_63adbdb4b359",
+        "v_679207ede4ac",
+        "v_67e34cacb305",
+        "v_6d37e4bb5ce9",
+        "v_8fb627d9ef55",
+        "v_a1170aed3307",
+        "v_aa4409590df7"
+      ]
+    },
+    {
+      "lesson": 137,
+      "card_ids": [
+        "v_f1618aa6308d",
+        "v_135b612a5337",
+        "v_2405db7fde12",
+        "v_d77ac4c42180",
+        "v_f7777a846c64",
+        "v_048f6248e0a8",
+        "v_0844df8fee9e",
+        "v_0889113e04d3",
+        "v_0b64f6aee680",
+        "v_1210f10c3412"
+      ]
+    },
+    {
+      "lesson": 138,
+      "card_ids": [
+        "v_164cf1ca8391",
+        "v_1aca80e8b55c",
+        "v_1fd5faa9b5cf",
+        "v_2aaf9a112578",
+        "v_2ad562319767",
+        "v_2aed12b734be",
+        "v_2c6ef0f0d0e4",
+        "v_2ed6b4c1ae9f",
+        "v_331c28b14d88",
+        "v_34e39f662ff5"
+      ]
+    },
+    {
+      "lesson": 139,
+      "card_ids": [
+        "v_37a0025aa1f2",
+        "v_385cfdbc00ec",
+        "v_39d02b42938b",
+        "v_3c614fb2c4b1",
+        "v_48bf9b4f142a",
+        "v_4ba69735ca53",
+        "v_4bb24efc9641",
+        "v_4dd5b6e2bf3b",
+        "v_50d858e0985e",
+        "v_51f39e4016ea"
+      ]
+    },
+    {
+      "lesson": 140,
+      "card_ids": [
+        "v_54b8b1280e82",
+        "v_5502f9b4edcf",
+        "v_581eaf4658d7",
+        "v_5879092f86c5",
+        "v_58a8b6aefea5",
+        "v_5e8c03a94c78",
+        "v_666097136ffe",
+        "v_68c2f9ee3147",
+        "v_6c4ef3ce3eea",
+        "v_6d4117f545e8"
+      ]
+    },
+    {
+      "lesson": 141,
+      "card_ids": [
+        "v_7246a0702997",
+        "v_76eee315ea01",
+        "v_7886478641b4",
+        "v_7cfba431fc05",
+        "v_8d5bff1f0494",
+        "v_9123dcbb0b42",
+        "v_9275c1fac83f",
+        "v_9372c470eead",
+        "v_9807b0bde450",
+        "v_985cec2d388f"
+      ]
+    },
+    {
+      "lesson": 142,
+      "card_ids": [
+        "v_9abf3c8a0743",
+        "v_9c22da38eb84",
+        "v_9f0c8aa52657",
+        "v_9f82f7b375f4",
+        "v_a8ad1f5f2bb3",
+        "v_a92bfd02c450",
+        "v_b1eb2ec8ac9f",
+        "v_b277fd623676",
+        "v_b3a8f101cb70",
+        "v_b73f72d02dd7"
+      ]
+    },
+    {
+      "lesson": 143,
+      "card_ids": [
+        "v_b80ae343658d",
+        "v_c2fb788c7dee",
+        "v_d4f0bc5a29de",
+        "v_d64bfaa26c34",
+        "v_d7edf3725177",
+        "v_d8a157e172ad",
+        "v_da841602c97c",
+        "v_dfc3376b8266",
+        "v_e8424ea5339b",
+        "v_e8c3f3d87ee2"
+      ]
+    },
+    {
+      "lesson": 144,
+      "card_ids": [
+        "v_edd95740e339",
+        "v_f96f13d1ee33",
+        "v_fe1991a9d8b6",
+        "v_026ee92c48f3",
+        "v_05085e3e5d34",
+        "v_0572c50b95f8",
+        "v_06f3b741b598",
+        "v_0743dcdfa5cf",
+        "v_07bc0fd14e64",
+        "v_08b088091875"
+      ]
+    },
+    {
+      "lesson": 145,
+      "card_ids": [
+        "v_08d5303517c9",
+        "v_0a317136d8c9",
+        "v_0e12c22a01b2",
+        "v_103ec016d499",
+        "v_110b97383569",
+        "v_16f2bb0e6721",
+        "v_17028875f8e2",
+        "v_17af55db53d0",
+        "v_181f25dfd799",
+        "v_1d614badbbe7"
+      ]
+    },
+    {
+      "lesson": 146,
+      "card_ids": [
+        "v_22259a2bd240",
+        "v_22ebb4dba41c",
+        "v_2cd6a31ad0a6",
+        "v_31164bcb4354",
+        "v_330b21fa00a7",
+        "v_347681e887b3",
+        "v_3708614568b2",
+        "v_39da008c714c",
+        "v_3a9d76674ec1",
+        "v_3dc7ffc627ab"
+      ]
+    },
+    {
+      "lesson": 147,
+      "card_ids": [
+        "v_3defcbf19715",
+        "v_400a224c8741",
+        "v_46ff84b64cc5",
+        "v_4728f320cbab",
+        "v_480c4640eec1",
+        "v_4ba88d74ea68",
+        "v_4d30050f76ad",
+        "v_4f1718254396",
+        "v_4f3bae063bb9",
+        "v_4fd400b37f8e"
+      ]
+    },
+    {
+      "lesson": 148,
+      "card_ids": [
+        "v_5279a9ff3f76",
+        "v_53a20b249f1c",
+        "v_579e399fff1e",
+        "v_5814df007732",
+        "v_59c3d9eff09f",
+        "v_5d7152d9b131",
+        "v_5dc4cb90313c",
+        "v_5f0c570ea859",
+        "v_61dd2b515b0e",
+        "v_63c642abba83"
+      ]
+    },
+    {
+      "lesson": 149,
+      "card_ids": [
+        "v_6475fefaf43c",
+        "v_655fc124603a",
+        "v_67294ed550df",
+        "v_6764434518d3",
+        "v_69f7c7e48ea2",
+        "v_6d7a92b1633f",
+        "v_7245c20666e8",
+        "v_72c3e436d1ab",
+        "v_7e5078b803c9",
+        "v_7f87622afb29"
+      ]
+    },
+    {
+      "lesson": 150,
+      "card_ids": [
+        "v_803b3eb2b6af",
+        "v_82bdbd63c36b",
+        "v_843ef3d7c521",
+        "v_855cd2f8c592",
+        "v_89ed0f51431e",
+        "v_8cf1e78958d1",
+        "v_8d20f72735ef",
+        "v_909e688cadd9",
+        "v_918343dfc8ac",
+        "v_93dc6de74570"
+      ]
+    },
+    {
+      "lesson": 151,
+      "card_ids": [
+        "v_93f1ada0718a",
+        "v_94390928cb40",
+        "v_96afbe651725",
+        "v_9b2dd4e3769d",
+        "v_9bed6c341ca4",
+        "v_9dc4ba9174c9",
+        "v_9edc2b899b54",
+        "v_9fb34e9983d1",
+        "v_9ffd2b37ebe8",
+        "v_a1ae9860e7af"
+      ]
+    },
+    {
+      "lesson": 152,
+      "card_ids": [
+        "v_a1fbea862c1d",
+        "v_a424c8095753",
+        "v_a4599babb645",
+        "v_a57e07fc2ecc",
+        "v_aa176ad34f88",
+        "v_ab7fae40086e",
+        "v_ad88f83e745e",
+        "v_ae7363352e33",
+        "v_ae914ce2e266",
+        "v_aee8865f6905"
+      ]
+    },
+    {
+      "lesson": 153,
+      "card_ids": [
+        "v_af1f6ec99670",
+        "v_af816ea43776",
+        "v_b01508d05b6a",
+        "v_b19ec56e87ea",
+        "v_b2017aa92eb9",
+        "v_b310a9163476",
+        "v_b41479e07354",
+        "v_b8aa047451f5",
+        "v_bac34d2b18ba",
+        "v_bb607f877a05"
+      ]
+    },
+    {
+      "lesson": 154,
+      "card_ids": [
+        "v_bd0ec38ba1d8",
+        "v_c1d08845edb2",
+        "v_c2e7da3509de",
+        "v_c88e183b8c61",
+        "v_cec2a16587cd",
+        "v_d50d5516bfc6",
+        "v_d8aaeaf1fb0a",
+        "v_da090e10c787",
+        "v_dbba3dcfd704",
+        "v_dc25bdcdacc1"
+      ]
+    },
+    {
+      "lesson": 155,
+      "card_ids": [
+        "v_ddd58c424621",
+        "v_df0b37dbf040",
+        "v_e69c25c1e3ea",
+        "v_e8a0520889af",
+        "v_ebf5496233b6",
+        "v_ec378ff2310a",
+        "v_ed41c282f8e1",
+        "v_ef52d25806ba",
+        "v_f292de9952a1",
+        "v_f2a70d044153"
+      ]
+    },
+    {
+      "lesson": 156,
+      "card_ids": [
+        "v_f40b5e1ecb7d",
+        "v_f82a3272fa05",
+        "v_f852d7e7f4ee",
+        "v_f8602975ad85",
+        "v_f8e91e588a59",
+        "v_fdecb8162e61",
+        "v_08ebd3bf8b68",
+        "v_2e7039f3b1f2",
+        "v_39838c39b106",
+        "v_411e19295e39"
+      ]
+    },
+    {
+      "lesson": 157,
+      "card_ids": [
+        "v_444b1ac20f79",
+        "v_46582c25a264",
+        "v_47e6fb91bb9e",
+        "v_481235ff0f48",
+        "v_4bb15e1546a8",
+        "v_4d7811b585ea",
+        "v_4d7ed48ff162",
+        "v_4ddc62d8a836",
+        "v_5b2248cb425f",
+        "v_5e746f0420b4"
+      ]
+    },
+    {
+      "lesson": 158,
+      "card_ids": [
+        "v_5e89957dac96",
+        "v_61c602d66d3d",
+        "v_63455270ed6d",
+        "v_703695b1a83d",
+        "v_72f27d40b4d1",
+        "v_740c751e0785",
+        "v_7435472caddf",
+        "v_785c70438a1c",
+        "v_87bb2b1995df",
+        "v_89a6676bb915"
+      ]
+    },
+    {
+      "lesson": 159,
+      "card_ids": [
+        "v_8c754a45bf16",
+        "v_90f22bf466ae",
+        "v_96d5bcf0ca38",
+        "v_9b7be3342bdd",
+        "v_9c3b77f12ea0",
+        "v_9c8d446bb6f5",
+        "v_a3aaf1e25f1d",
+        "v_a873836d54c6",
+        "v_ab847178fc9f",
+        "v_b0e24b544055"
+      ]
+    },
+    {
+      "lesson": 160,
+      "card_ids": [
+        "v_b94638b6182d",
+        "v_bab423f0f088",
+        "v_c3ecc23a5f64",
+        "v_c99beb542a15",
+        "v_d667e73b2c23",
+        "v_d69bd70ec6dc",
+        "v_e3418180dfa2",
+        "v_e4305aba42bd",
+        "v_f96aeb3db060",
+        "v_fa59b40fc98b"
+      ]
+    },
+    {
+      "lesson": 161,
+      "card_ids": [
+        "v_ff6cd832813e",
+        "v_4379221f1f3d",
+        "v_44c022ee0f31",
+        "v_903d4d530844",
+        "v_b4ccaaf6262f",
+        "v_d96080baebb6",
+        "v_d966817f3812",
+        "v_f779a19539c9",
+        "v_fcfdb3a083b6",
+        "v_fe5c51b9c26c"
+      ]
+    },
+    {
+      "lesson": 162,
+      "card_ids": [
+        "v_1b4286a711d5",
+        "v_2d0fe5ec8bf1",
+        "v_3009be769fb8",
+        "v_3cdb1d0de8f0",
+        "v_49d4843163a7",
+        "v_4ba3e8e3765f",
+        "v_4e3214e5a7e0",
+        "v_52630e4131f9",
+        "v_577bf0c4f4ee",
+        "v_63e6ce93e1bc"
+      ]
+    },
+    {
+      "lesson": 163,
+      "card_ids": [
+        "v_692e4e5decff",
+        "v_727c3ba34139",
+        "v_7896a617a785",
+        "v_78f9ac018e55",
+        "v_82523faea1b0",
+        "v_8f998dfb54f4",
+        "v_933548450302",
+        "v_b15526c9c0e7",
+        "v_b8b4e9cea77e",
+        "v_be92e94aba0b"
+      ]
+    },
+    {
+      "lesson": 164,
+      "card_ids": [
+        "v_c974e17b8e73",
+        "v_d6a9355f5108",
+        "v_da172f411b43",
+        "v_e3f7fc136777",
+        "v_e52da16bce3e",
+        "v_e90bcad884b7",
+        "v_eef93e1d1448",
+        "v_efb66992b8ac",
+        "v_f51ee2769614",
+        "v_fed59a1bec2d"
+      ]
+    },
+    {
+      "lesson": 165,
+      "card_ids": [
+        "v_0095ef9c4293",
+        "v_00abe3ad8d91",
+        "v_02164c868f85",
+        "v_038e78263130",
+        "v_043fbb66a8d1",
+        "v_04f6be348b25",
+        "v_063fe569bd8b",
+        "v_069f80974e84",
+        "v_079e9d98e72c",
+        "v_096ffc2f6c63"
+      ]
+    },
+    {
+      "lesson": 166,
+      "card_ids": [
+        "v_0c6578d89103",
+        "v_0ddbc405deae",
+        "v_0e2a874c4799",
+        "v_107f12f9b833",
+        "v_140a5d8353af",
+        "v_14bcc08f5596",
+        "v_165b5dd45360",
+        "v_16ff836b9c4b",
+        "v_19d390b7dff6",
+        "v_1a7574778ba2"
+      ]
+    },
+    {
+      "lesson": 167,
+      "card_ids": [
+        "v_1c532ee2593d",
+        "v_1ee95cca329f",
+        "v_1f728fec57de",
+        "v_1f9ce98aa484",
+        "v_1fc768d533a3",
+        "v_201912e0a50a",
+        "v_251e988e13bb",
+        "v_25b0fc22ce8d",
+        "v_28a5434e48ae",
+        "v_28da5b976d5c"
+      ]
+    },
+    {
+      "lesson": 168,
+      "card_ids": [
+        "v_28da9c312c70",
+        "v_2ac6ed5f8502",
+        "v_2da53d7cf9cd",
+        "v_2e0deb9529a4",
+        "v_2e2084a44a48",
+        "v_323909eb6d83",
+        "v_343864303d6c",
+        "v_3755b28df51d",
+        "v_37c6775c112e",
+        "v_390aa6d73efa"
+      ]
+    },
+    {
+      "lesson": 169,
+      "card_ids": [
+        "v_3b1507eb5d7a",
+        "v_3d9f6e6d944f",
+        "v_40fbb05e7f0d",
+        "v_413ed0da6c6d",
+        "v_42307d8d3b9f",
+        "v_43919188a0fe",
+        "v_443f4d3ed561",
+        "v_45700534d89d",
+        "v_467718dc4699",
+        "v_47ec929fc42c"
+      ]
+    },
+    {
+      "lesson": 170,
+      "card_ids": [
+        "v_49ff2b7aa601",
+        "v_4b3b961795b9",
+        "v_4bc4a8146724",
+        "v_4d76e98c236a",
+        "v_4f8161e12351",
+        "v_51c827b72a88",
+        "v_521c86ce8939",
+        "v_551099535fc2",
+        "v_59bfac42ec47",
+        "v_59f32f083183"
+      ]
+    },
+    {
+      "lesson": 171,
+      "card_ids": [
+        "v_5d1401067fd4",
+        "v_5fb2c9c79ca5",
+        "v_60bea478e07a",
+        "v_60d5d50b93ce",
+        "v_6142d83260dc",
+        "v_62a1da706fe8",
+        "v_6408e2215c62",
+        "v_64cdff9670ae",
+        "v_64ffaca4f806",
+        "v_679c97469368"
+      ]
+    },
+    {
+      "lesson": 172,
+      "card_ids": [
+        "v_6b40e623d056",
+        "v_6b4399c178cf",
+        "v_6ca3f1c6220d",
+        "v_6ce23db3dc16",
+        "v_6e6a3b250bc6",
+        "v_6f22b23360ad",
+        "v_6f5361a3aa24",
+        "v_70cffa1e4f0e",
+        "v_71655d2877bb",
+        "v_71badf8522d8"
+      ]
+    },
+    {
+      "lesson": 173,
+      "card_ids": [
+        "v_71dc0873216b",
+        "v_71dd39b931a2",
+        "v_74b0bce5120e",
+        "v_7553b1abf84c",
+        "v_7737846c12bf",
+        "v_77ce44bb62a3",
+        "v_7ab88855e80e",
+        "v_7d3d2152162c",
+        "v_7f3e0a791a87",
+        "v_812de9058956"
+      ]
+    },
+    {
+      "lesson": 174,
+      "card_ids": [
+        "v_827095625332",
+        "v_84de90caa5fd",
+        "v_851448bd63d6",
+        "v_85cfdf16e5c0",
+        "v_86083917ef3f",
+        "v_86998cd73606",
+        "v_8806c14528fd",
+        "v_889f0adfd9c1",
+        "v_89574d233099",
+        "v_8ab5575652d2"
+      ]
+    },
+    {
+      "lesson": 175,
+      "card_ids": [
+        "v_8abea4dbab07",
+        "v_8b98ff6eaef6",
+        "v_8c1486bd716f",
+        "v_8c8eb032741a",
+        "v_8e7b10c04ce6",
+        "v_8eb583d116c2",
+        "v_90645aecea12",
+        "v_911025bc5d15",
+        "v_927211f31b33",
+        "v_934156dfceb9"
+      ]
+    },
+    {
+      "lesson": 176,
+      "card_ids": [
+        "v_9486240d1c94",
+        "v_94cc3bfc0b01",
+        "v_95d0ad8c2324",
+        "v_96179f248ce2",
+        "v_97d200c92c3a",
+        "v_98ec5473e9c3",
+        "v_9c4d0b7a8476",
+        "v_9ddc9ae13cf0",
+        "v_a2bedd0680a3",
+        "v_a47ba7570826"
+      ]
+    },
+    {
+      "lesson": 177,
+      "card_ids": [
+        "v_a4e373d6df9d",
+        "v_a56ce4adb387",
+        "v_a5a399853759",
+        "v_a60c809b9f91",
+        "v_a6d48f7ec693",
+        "v_a70a285768bd",
+        "v_a7657f015fff",
+        "v_a83bdc80f69a",
+        "v_a90d0b6964fb",
+        "v_a9a0bc9ba24b"
+      ]
+    },
+    {
+      "lesson": 178,
+      "card_ids": [
+        "v_aa42ce229a55",
+        "v_abb954b9e338",
+        "v_ac4fb9394d16",
+        "v_ae9d75b6c3e3",
+        "v_aed4e144bb0d",
+        "v_af1661434771",
+        "v_af6d3d2b7242",
+        "v_b0dfc7189a73",
+        "v_b0fec156a927",
+        "v_b1493bbf8ee4"
+      ]
+    },
+    {
+      "lesson": 179,
+      "card_ids": [
+        "v_b38edbf8921d",
+        "v_b49da9734764",
+        "v_b4b0a9ed1b48",
+        "v_b5973428c7e7",
+        "v_b5c15d8a65d1",
+        "v_b5dba9c095b5",
+        "v_b7d10342cd03",
+        "v_b8b76b01790c",
+        "v_b9d8d47a73c2",
+        "v_bb02334d1449"
+      ]
+    },
+    {
+      "lesson": 180,
+      "card_ids": [
+        "v_bb57b14b9793",
+        "v_bd6ad14a2dfb",
+        "v_c14653f26bf2",
+        "v_c3e878290551",
+        "v_c4619204c200",
+        "v_c5f06e23a081",
+        "v_c7ab2e374f66",
+        "v_ca86ce24f2df",
+        "v_cac24cd0e443",
+        "v_cb993de36854"
+      ]
+    },
+    {
+      "lesson": 181,
+      "card_ids": [
+        "v_ccb305e9f06f",
+        "v_cd906e180915",
+        "v_d07a3b873e0b",
+        "v_d176679fb661",
+        "v_d263a9b008d6",
+        "v_d3b04b149ed6",
+        "v_d458ef2ee91d",
+        "v_d52eb8df6cf5",
+        "v_d70e28e714b2",
+        "v_d764ce20ea39"
+      ]
+    },
+    {
+      "lesson": 182,
+      "card_ids": [
+        "v_d7b329588f4a",
+        "v_d7bfbe9df4e2",
+        "v_d8a85dd3f83b",
+        "v_db6419c02cda",
+        "v_dbd549179545",
+        "v_dc30a2bcef3e",
+        "v_dd3f641b0f93",
+        "v_df135c0b5e1d",
+        "v_df3d43a9d628",
+        "v_df7c7c91f2d5"
+      ]
+    },
+    {
+      "lesson": 183,
+      "card_ids": [
+        "v_df9e2af5363e",
+        "v_e039a3cdf386",
+        "v_e05242813f4f",
+        "v_e28cc7442dc1",
+        "v_e35f5985c863",
+        "v_e36dd828705f",
+        "v_e4071a9ee93a",
+        "v_e550655daa2c",
+        "v_e754b47ea44f",
+        "v_e778f8519ef5"
+      ]
+    },
+    {
+      "lesson": 184,
+      "card_ids": [
+        "v_e9507335e2e9",
+        "v_e9aa01f0eb71",
+        "v_ea83e1c76567",
+        "v_eb5ba7faab4e",
+        "v_ec1932e0fdc9",
+        "v_ed7d162aa681",
+        "v_ee54687c4218",
+        "v_eee2a42091fd",
+        "v_f0d64be3e187",
+        "v_f1305b7a9ec0"
+      ]
+    },
+    {
+      "lesson": 185,
+      "card_ids": [
+        "v_f3232dff5de8",
+        "v_f40a487712ce",
+        "v_f614129b3244",
+        "v_f6bc17399216",
+        "v_f88e736312a3",
+        "v_f91357740b6e",
+        "v_fa02ea47fc03",
+        "v_fac0dc61ef9e",
+        "v_fceb987522cf",
+        "v_ff0ffa6e8574"
+      ]
+    },
+    {
+      "lesson": 186,
+      "card_ids": [
+        "v_00fef5809168",
+        "v_02acdc246f1e",
+        "v_0599be8ad810",
+        "v_06c905b4bfa2",
+        "v_088c93a04d9c",
+        "v_0980f5dfd437",
+        "v_0baddc8177ac",
+        "v_0c1a04fe8fb1",
+        "v_0dada85d0da9",
+        "v_0e3877d7bcc0"
+      ]
+    },
+    {
+      "lesson": 187,
+      "card_ids": [
+        "v_0fb0e69c531f",
+        "v_102a706b3890",
+        "v_1085e8fd04b9",
+        "v_11f2eff5e2b8",
+        "v_13258fb09808",
+        "v_147346416cf8",
+        "v_17624e98ec9e",
+        "v_18926f0152f5",
+        "v_19cf80cb2484",
+        "v_220fec933cca"
+      ]
+    },
+    {
+      "lesson": 188,
+      "card_ids": [
+        "v_226d7de45523",
+        "v_24227c8e5c1d",
+        "v_25106af42d48",
+        "v_27311cb3f3d6",
+        "v_2b47ec0c1bab",
+        "v_2c0ab975d2ce",
+        "v_2c9b866ea4a6",
+        "v_2cdf2cc3009d",
+        "v_2d56de2641a6",
+        "v_2e7d89facdda"
+      ]
+    },
+    {
+      "lesson": 189,
+      "card_ids": [
+        "v_2fec06c38f9d",
+        "v_30a283a4b035",
+        "v_3147d63d5ceb",
+        "v_3323a7fa4fbc",
+        "v_336b2a061f3b",
+        "v_33775c21f45e",
+        "v_378c3c15e185",
+        "v_380e1cbcceac",
+        "v_3a784725fe5d",
+        "v_3a9e6beaf4dc"
+      ]
+    },
+    {
+      "lesson": 190,
+      "card_ids": [
+        "v_3d102782c52c",
+        "v_3d3327c513a9",
+        "v_4143da80186c",
+        "v_41bd1ada220f",
+        "v_42a66f0bca20",
+        "v_4314fab6d7cb",
+        "v_4332926801fb",
+        "v_4623ecfef97b",
+        "v_49648c830240",
+        "v_4bfce2089b78"
+      ]
+    }
+  ],
+  "review_note": "这里只提供词条顺序；复习算法与学习记录应在 APP 层实现，不把完成一课标记为掌握。",
+  "sentence_note": "论文句子按学习日使用；新增机器初译与自动结构提示待审校，未创建定时提醒。"
+}

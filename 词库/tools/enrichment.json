@@ -1,0 +1,33 @@
+{
+  "ipa_us": {
+    "propose":"prəˈpoʊz", "demonstrate":"ˈdɛmənstreɪt", "suggest":"səˈdʒɛst", "evaluate":"ɪˈvæljueɪt", "derive":"dɪˈraɪv", "assume":"əˈsuːm", "denote":"dɪˈnoʊt", "outperform":"ˌaʊtpərˈfɔːrm", "respectively":"rɪˈspɛktɪvli", "whereas":"wɛrˈæz", "despite":"dɪˈspaɪt", "significant":"sɪɡˈnɪfɪkənt", "parameter":"pəˈræmətər", "baseline":"ˈbeɪslaɪn", "benchmark":"ˈbɛntʃmɑːrk", "lag":"læɡ", "seasonality":"ˌsiːzəˈnæləti", "likelihood":"ˈlaɪklihʊd", "expectation":"ˌɛkspɛkˈteɪʃən", "variance":"ˈvɛriəns", "calibration":"ˌkælɪˈbreɪʃən", "sharpness":"ˈʃɑːrpnəs", "exchangeability":"ɪksˌtʃeɪndʒəˈbɪləti", "normalization":"ˌnɔːrmələˈzeɪʃən", "standardization":"ˌstændərdəˈzeɪʃən"
+  },
+  "pos": {
+    "propose":"verb", "demonstrate":"verb", "suggest":"verb", "evaluate":"verb", "derive":"verb", "assume":"verb", "denote":"verb", "outperform":"verb", "account for":"verb phrase", "attribute to":"verb phrase", "respectively":"adverb", "whereas":"conjunction", "despite":"preposition", "in terms of":"prepositional phrase", "under the assumption that":"clause-introducing phrase", "significant":"adjective"
+  },
+  "abbreviations": {
+    "time series forecasting":["TSF"], "spatiotemporal forecasting":["STF"], "graph neural network":["GNN"], "graph convolutional network":["GCN"], "graph attention network":["GAT"], "recurrent neural network":["RNN"], "convolutional neural network":["CNN"], "long short-term memory":["LSTM"], "gated recurrent unit":["GRU"], "temporal convolutional network":["TCN"], "multilayer perceptron":["MLP"], "mixture of experts":["MoE"], "physics-informed neural network":["PINN"], "neural ordinary differential equation":["Neural ODE"], "Gaussian process":["GP"], "Gaussian mixture model":["GMM"], "maximum likelihood estimation":["MLE"], "maximum a posteriori estimation":["MAP"], "variational inference":["VI"], "evidence lower bound":["ELBO"], "Kullback-Leibler divergence":["KL","KLD"], "Markov chain Monte Carlo":["MCMC"], "Hamiltonian Monte Carlo":["HMC"], "sequential Monte Carlo":["SMC"], "continuous ranked probability score":["CRPS"], "mean absolute error":["MAE"], "mean squared error":["MSE"], "root mean squared error":["RMSE"], "mean absolute percentage error":["MAPE"], "mean absolute scaled error":["MASE"], "weighted absolute percentage error":["WAPE"], "independent and identically distributed":["i.i.d."], "out-of-distribution detection":["OOD detection"], "autoregressive integrated moving average":["ARIMA"], "vector autoregression":["VAR"], "empirical mode decomposition":["EMD"], "variational mode decomposition":["VMD"], "dynamic time warping":["DTW"], "reversible instance normalization":["RevIN"], "backpropagation through time":["BPTT"], "stochastic gradient descent":["SGD"], "Bayesian neural network":["BNN"], "mixture density network":["MDN"], "conformalized quantile regression":["CQR"], "probability density function":["PDF"], "probability mass function":["PMF"], "cumulative distribution function":["CDF"], "singular value decomposition":["SVD"], "principal component analysis":["PCA"], "state-space model":["SSM"], "hidden Markov model":["HMM"], "negative log-likelihood":["NLL"], "probability integral transform":["PIT"]
+  },
+  "confusion_groups": [
+    {"terms":["parameter","hyperparameter"],"note":"参数通常由训练学习；超参数控制结构或学习过程，通常用验证集选择。"},
+    {"terms":["likelihood","probability","posterior distribution"],"note":"概率描述事件或变量；似然在固定数据后作为参数的函数；后验还纳入先验与观测条件。"},
+    {"terms":["confidence interval","credible interval","prediction interval"],"note":"置信区间强调重复抽样覆盖；可信区间描述后验概率质量；预测区间针对未来观测。"},
+    {"terms":["standard deviation","standard error","variance"],"note":"标准差描述变量离散程度；标准误描述估计量的抽样变异；方差是标准差的平方。"},
+    {"terms":["hybrid model","ensemble model","mixture of experts"],"note":"混合模型强调不同机制或结构的结合；集成模型组合学习器；专家混合通过门控组合或选择专家。"},
+    {"terms":["forecast horizon","lookback window","lag"],"note":"预测跨度指未来范围；回看窗口指可使用的历史范围；滞后指时间位置的相对偏移。"},
+    {"terms":["training set","validation set","test set","calibration set"],"note":"训练集学习参数；验证集调优；测试集评估最终泛化；校准集用于区间或概率校准，不能随意混用。"},
+    {"terms":["spatial","temporal","spatiotemporal"],"note":"分别表示空间、时间、时空；图的空间关系也可表示非地理的实体关联。"},
+    {"terms":["point forecast","probabilistic forecast","quantile forecast"],"note":"点预测给单值；概率预测给分布；分位数预测给指定概率水平的位置。"},
+    {"terms":["calibration","sharpness","coverage probability"],"note":"校准关注预测概率与观测频率一致性；尖锐性关注集中程度；覆盖概率关注区间程序包含目标的频率。"},
+    {"terms":["aleatoric uncertainty","epistemic uncertainty"],"note":"前者与数据或观测随机性有关；后者与模型认知不足有关，区分依赖具体建模设定。"},
+    {"terms":["self-attention","cross-attention","temporal attention","spatial attention"],"note":"自注意力和交叉注意力区分信息来源；时间和空间注意力区分作用轴，两个分类维度不同。"},
+    {"terms":["recursive forecasting","direct forecasting","multi-output forecasting"],"note":"递归回馈前次预测；直接策略直接预测目标步；多输出同时输出多个未来步，具体分类以论文定义为准。"},
+    {"terms":["normalization","standardization","min-max scaling"],"note":"归一化是多义总称；标准化常指减均值除标准差；最小—最大缩放使用最小值与极差。"},
+    {"terms":["causal convolution","Granger causality"],"note":"因果卷积约束时间可见性；格兰杰因果是预测意义检验；两者都不自动证明干预因果。"},
+    {"terms":["baseline","benchmark"],"note":"基线通常是比较模型或策略；benchmark 可以是评测任务、数据集或体系。"},
+    {"terms":["accuracy","precision","recall"],"note":"分类准确率是整体预测正确比例；精确率看预测为正中的真阳性比例；召回率看实际为正中被找出的比例。"},
+    {"terms":["mean absolute error","mean squared error","root mean squared error","mean absolute percentage error"],"note":"MAE 与 RMSE 保留原单位；MSE 是平方单位；MAPE 对零值和近零值敏感。"},
+    {"terms":["stationarity","strict stationarity","weak stationarity"],"note":"严平稳涉及全部有限维分布对时间平移不变；弱平稳涉及有限二阶矩、常均值和仅依赖滞后的协方差。"},
+    {"terms":["statistical significance","practical significance","effect size"],"note":"统计显著性不等同于实际价值；效应量与业务成本帮助判断影响大小。"}
+  ]
+}

@@ -1,0 +1,1165 @@
+# 科研通用|1
+propose|提出（方法、模型或假设）|propose a method
+present|介绍；提出；呈现|present the results
+introduce|引入；介绍|introduce a framework
+develop|开发；构建|develop a model
+investigate|研究；考察|investigate the effect
+examine|考察；检验|examine the relationship
+explore|探索|explore possible explanations
+analyze|分析|analyze the results
+evaluate|评估|evaluate model performance
+assess|评定；评估|assess uncertainty
+demonstrate|展示；论证|demonstrate effectiveness
+show|显示；表明|show an improvement
+indicate|表明；指示|indicate a trend
+suggest|提示；表明可能|suggest a possible explanation
+reveal|揭示|reveal hidden patterns
+observe|观察到|observe a consistent trend
+report|报告|report the mean error
+describe|描述|describe the procedure
+define|定义|define the objective
+formulate|将问题表述为；建立公式|formulate the problem
+derive|推导|derive an expression
+prove|证明|prove a theorem
+establish|建立；确立|establish a connection
+verify|核验；验证|verify the implementation
+validate|验证有效性|validate the approach
+confirm|证实|confirm the hypothesis
+compare|比较|compare with a baseline
+contrast|对比|contrast two approaches
+distinguish|区分|distinguish between two cases
+identify|识别；确定|identify relevant factors
+characterize|刻画……的特征|characterize the distribution
+quantify|量化|quantify uncertainty
+estimate|估计|estimate the parameters
+approximate|近似；近似的|approximate the posterior
+compute|计算|compute the gradient
+calculate|计算|calculate the average
+measure|测量；度量|measure prediction error
+obtain|获得|obtain an estimate
+achieve|达到；取得|achieve lower error
+yield|产生；得到|yield accurate predictions
+produce|产生|produce an output
+generate|生成|generate samples
+construct|构建|construct a graph
+design|设计|design an experiment
+implement|实现|implement the algorithm
+apply|应用|apply the method
+adopt|采用|adopt a strategy
+employ|使用；采用|employ a neural network
+utilize|利用|utilize historical observations
+incorporate|纳入；结合|incorporate prior knowledge
+integrate|整合；积分|integrate multiple sources
+combine|组合|combine two models
+merge|合并|merge the features
+extend|扩展|extend the framework
+generalize|泛化；推广|generalize to unseen data
+adapt|适应；调整|adapt to distribution shifts
+modify|修改|modify the objective
+refine|改进；细化|refine the estimate
+improve|改善；提高|improve predictive accuracy
+enhance|增强|enhance robustness
+reduce|减少；降低|reduce computational cost
+increase|增加；提高|increase the sample size
+decrease|减少；下降|decrease the learning rate
+minimize|最小化| minimize the loss
+maximize|最大化|maximize the likelihood
+optimize|优化|optimize model parameters
+alleviate|缓解|alleviate overfitting
+mitigate|减轻|mitigate the effect
+address|处理；应对|address this limitation
+tackle|着手解决|tackle a challenging problem
+overcome|克服|overcome this difficulty
+avoid|避免|avoid data leakage
+prevent|防止|prevent overfitting
+ensure|确保|ensure consistency
+maintain|保持|maintain numerical stability
+preserve|保留|preserve temporal order
+retain|保留|retain useful information
+discard|丢弃|discard invalid samples
+remove|移除|remove a component
+replace|替换|replace the encoder
+exclude|排除|exclude future information
+include|包含|include additional features
+account for|考虑到；解释|account for uncertainty
+depend on|依赖于|depend on the context
+rely on|依靠|rely on historical data
+consist of|由……组成|consist of three modules
+be composed of|由……构成|be composed of several layers
+be based on|基于|be based on prior observations
+be associated with|与……相关联|be associated with higher error
+be correlated with|与……相关|be correlated with demand
+lead to|导致|lead to biased estimates
+result in|导致；造成|result in better performance
+result from|由……导致|result from measurement noise
+stem from|源于|stem from limited data
+attribute to|归因于|attribute the gain to better features
+contribute to|有助于；促成|contribute to the improvement
+enable|使能够|enable efficient inference
+allow|允许；使能够|allow the model to adapt
+require|需要|require additional observations
+assume|假设|assume conditional independence
+consider|考虑|consider a simple case
+suppose|假定|suppose that the noise is Gaussian
+denote|表示|denote the input by x
+represent|表示；表征|represent a spatial relationship
+refer to|指的是|refer to the training set
+correspond to|对应于|correspond to a time step
+imply|意味着；蕴含|imply a stronger condition
+satisfy|满足|satisfy the constraint
+hold|成立|the assumption holds
+exist|存在|a solution exists
+vary|变化|vary across datasets
+differ|不同|differ from the baseline
+remain|保持；仍然是|remain stable
+exceed|超过|exceed the threshold
+outperform|表现优于|outperform the baseline
+underperform|表现不及|underperform on small datasets
+match|匹配；达到相近水平|match the observed pattern
+capture|捕捉；刻画|capture temporal dependencies
+encode|编码|encode spatial information
+decode|解码|decode the representation
+extract|提取|extract useful features
+aggregate|聚合|aggregate neighborhood information
+propagate|传播|propagate information
+update|更新|update the parameters
+initialize|初始化|initialize the weights
+converge|收敛|converge to a stationary point
+diverge|发散|the optimization may diverge
+sample|采样；样本|sample from the posterior
+infer|推断|infer latent variables
+predict|预测|predict future values
+forecast|预测（尤指未来时间）|forecast electricity demand
+reconstruct|重建|reconstruct the input
+recover|恢复；估计得到|recover the underlying structure
+fit|拟合|fit the model to the data
+train|训练|train on historical observations
+test|测试；检验|test on unseen data
+tune|调优|tune the hyperparameters
+motivation|研究动机|the motivation for this study
+contribution|贡献|the main contribution
+limitation|局限|a major limitation
+challenge|挑战|a key challenge
+objective|目标；目标函数|the training objective
+purpose|目的|the purpose of the experiment
+scope|范围|the scope of this work
+setting|设定；场景|an experimental setting
+scenario|情景|a real-world scenario
+assumption|假设条件|a simplifying assumption
+hypothesis|假说；待检验假设|test a hypothesis
+evidence|证据|empirical evidence
+finding|研究发现|the main finding
+insight|深入认识；启示|provide useful insights
+implication|含义；影响|practical implications
+interpretation|解释|a possible interpretation
+observation|观测；观察结果|a noisy observation
+phenomenon|现象|a common phenomenon
+mechanism|机制|the underlying mechanism
+relationship|关系|a nonlinear relationship
+dependency|依赖关系|a long-range dependency
+interaction|相互作用|complex interactions
+pattern|模式；规律|a recurring pattern
+trend|趋势|a long-term trend
+behavior|行为；表现|model behavior
+property|性质|a desirable property
+characteristic|特征；特性|a common characteristic
+component|组成部分|a model component
+module|模块|a fusion module
+framework|框架|a unified framework
+approach|方法；思路|a data-driven approach
+methodology|方法体系|the proposed methodology
+procedure|过程；步骤|the evaluation procedure
+protocol|协议；规程|an evaluation protocol
+criterion|准则（单数）|a selection criterion
+criteria|准则（复数）|evaluation criteria
+perspective|视角|from a probabilistic perspective
+alternative|替代方案；替代的|an alternative explanation
+trade-off|权衡|a trade-off between accuracy and cost
+advantage|优势|a practical advantage
+drawback|缺点|a potential drawback
+benefit|益处|the benefit of pretraining
+impact|影响|the impact of noise
+effect|效应；影响|the effect of normalization
+factor|因素；因子|a contributing factor
+extent|程度；范围|the extent of improvement
+magnitude|大小；量级|the magnitude of the error
+scale|尺度；规模|at different scales
+range|范围|a wide range of values
+interval|区间；间隔|a fixed time interval
+boundary|边界|a decision boundary
+threshold|阈值|a detection threshold
+constraint|约束|a physical constraint
+requirement|要求|a memory requirement
+resource|资源|computational resources
+overhead|额外开销|communication overhead
+bottleneck|瓶颈|a computational bottleneck
+efficiency|效率|computational efficiency
+effectiveness|有效性|the effectiveness of the method
+feasibility|可行性|assess feasibility
+applicability|适用性|limited applicability
+reliability|可靠性|prediction reliability
+consistency|一致性|consistency across runs
+stability|稳定性|training stability
+sensitivity|敏感性|sensitivity to noise
+interpretability|可解释性|model interpretability
+reproducibility|可复现性|improve reproducibility
+availability|可用性|data availability
+novel|新的；新颖的|a novel architecture
+existing|现有的|existing methods
+previous|先前的|previous studies
+recent|近期的|recent advances
+conventional|常规的；传统的|conventional approaches
+proposed|所提出的|the proposed method
+promising|有前景的|promising results
+effective|有效的|an effective strategy
+efficient|高效的|an efficient implementation
+robust|鲁棒的；稳健的|robust to noise
+reliable|可靠的|reliable predictions
+consistent|一致的|consistent improvements
+stable|稳定的|stable training
+significant|显著的；重要的（须看语境）|a statistically significant difference
+substantial|相当大的；实质性的|a substantial reduction
+marginal|边际的；微小的（依语境）|a marginal improvement
+negligible|可忽略的|negligible overhead
+comparable|可比较的；相近的|comparable performance
+superior|更优的|superior performance
+inferior|较差的|inferior results
+optimal|最优的|an optimal solution
+suboptimal|次优的；非最优的|a suboptimal solution
+feasible|可行的|a feasible solution
+tractable|可处理的；可求解的|a tractable approximation
+intractable|难以处理或精确求解的|an intractable integral
+explicit|显式的；明确的|an explicit constraint
+implicit|隐式的；隐含的|an implicit assumption
+underlying|潜在的；背后的|the underlying process
+inherent|固有的|inherent uncertainty
+intrinsic|内在的|intrinsic properties
+external|外部的|external information
+auxiliary|辅助的|an auxiliary task
+additional|额外的|additional supervision
+complementary|互补的|complementary features
+heterogeneous|异质的|heterogeneous data sources
+homogeneous|同质的|a homogeneous population
+sparse|稀疏的|sparse observations
+dense|稠密的|dense connections
+local|局部的|local information
+global|全局的|global dependencies
+spatial|空间的|spatial structure
+temporal|时间的|temporal variation
+spatiotemporal|时空的|spatiotemporal patterns
+static|静态的|a static graph
+dynamic|动态的|a dynamic environment
+linear|线性的|a linear mapping
+nonlinear|非线性的|nonlinear dynamics
+deterministic|确定性的|a deterministic model
+stochastic|随机的|a stochastic process
+probabilistic|概率的|a probabilistic forecast
+empirical|经验的；基于观测的|empirical results
+theoretical|理论的|theoretical analysis
+analytical|解析的；分析的|an analytical solution
+numerical|数值的|numerical experiments
+qualitative|定性的|qualitative analysis
+quantitative|定量的|quantitative evaluation
+approximately|大约；近似地|approximately equal to
+respectively|分别地（按对应顺序）|the mean and variance, respectively
+simultaneously|同时地|optimize two objectives simultaneously
+independently|独立地|sample independently
+jointly|联合地|jointly model the variables
+sequentially|按顺序地|process observations sequentially
+iteratively|迭代地|update iteratively
+typically|通常|typically observed in practice
+particularly|尤其|particularly challenging
+specifically|具体而言；特别地|specifically designed for forecasting
+essentially|本质上；基本上|essentially equivalent
+approximately equal to|近似等于|approximately equal to zero
+in contrast|相比之下|in contrast to prior work
+however|然而|however, the assumption may fail
+whereas|然而；而（表示对比）|whereas the baseline uses fixed weights
+although|虽然|although the model is simple
+despite|尽管（后接名词等）|despite the limited data
+nevertheless|尽管如此；然而|nevertheless, the gap remains
+therefore|因此|therefore, we normalize the inputs
+thus|因此；从而|thus reducing the error
+consequently|因此；结果|consequently, performance degrades
+moreover|此外；而且|moreover, the method is efficient
+furthermore|此外|furthermore, we evaluate robustness
+in addition|此外|in addition to temporal features
+for instance|例如|for instance, in traffic forecasting
+in particular|尤其；特别是|in particular, long-horizon forecasting
+in terms of|就……而言|in terms of prediction accuracy
+with respect to|关于；相对于|with respect to the parameters
+according to|根据|according to the evaluation protocol
+in practice|在实践中|in practice, data are noisy
+in principle|原则上|in principle, the method is applicable
+in general|通常；一般而言|in general, the errors increase
+on average|平均而言|on average across five runs
+to some extent|在一定程度上|reduce bias to some extent
+under the assumption that|在……的假设下|under the assumption that samples are independent
+provided that|只要；条件是|provided that sufficient data are available
+such that|使得；满足……条件|choose weights such that they sum to one
+rather than|而不是|use validation data rather than test data
+as opposed to|与……相对；而非|probabilistic as opposed to point forecasts
+as well as|以及|accuracy as well as efficiency
+due to|由于|due to limited observations
+owing to|由于|owing to measurement errors
+regardless of|不论；不考虑|regardless of the sequence length
+with the exception of|除……之外|with the exception of one dataset
+at least|至少|at least two observations
+at most|至多|at most ten iterations
+an order of magnitude|一个数量级|an order of magnitude faster
+state of the art|当前先进水平|advance the state of the art
+to the best of our knowledge|据我们所知|to the best of our knowledge, this is unexplored
+# 时空序列预测|1
+time series|时间序列|multivariate time series
+time series forecasting|时间序列预测|long-term time series forecasting
+spatiotemporal forecasting|时空预测|spatiotemporal forecasting on graphs
+forecast horizon|预测跨度；预测步数范围|a longer forecast horizon
+lookback window|历史回看窗口|a fixed lookback window
+sliding window|滑动窗口|sliding window sampling
+rolling window|滚动窗口|rolling window evaluation
+expanding window|扩展窗口|expanding window validation
+time step|时间步|at each time step
+sampling frequency|采样频率|a fixed sampling frequency
+sampling interval|采样间隔|a five-minute sampling interval
+timestamp|时间戳|align the timestamps
+time index|时间索引|a discrete time index
+lag|滞后；滞后阶数|a one-step lag
+lagged variable|滞后变量|include lagged variables
+lag order|滞后阶数|select the lag order
+seasonality|季节性；周期性季节模式|daily seasonality
+seasonal period|季节周期长度|a weekly seasonal period
+periodicity|周期性|detect periodicity
+cycle|周期；循环|a business cycle
+trend component|趋势分量|extract the trend component
+seasonal component|季节分量|estimate the seasonal component
+residual component|残差分量|analyze the residual component
+trend decomposition|趋势分解|trend decomposition before forecasting
+seasonal decomposition|季节分解|seasonal decomposition of a series
+detrending|去趋势|linear detrending
+deseasonalization|去季节性|deseasonalization of demand
+differencing|差分|first-order differencing
+seasonal differencing|季节差分|apply seasonal differencing
+stationarity|平稳性|test for stationarity
+weak stationarity|弱平稳性|assume weak stationarity
+strict stationarity|严平稳性|strict stationarity of a process
+nonstationarity|非平稳性|handle nonstationarity
+unit root|单位根|a unit root test
+structural break|结构突变|detect a structural break
+change point|变点|change point detection
+concept drift|概念漂移|adapt to concept drift
+covariate shift|协变量偏移|covariate shift between datasets
+distribution shift|分布偏移|robustness to distribution shift
+autocorrelation|自相关|the autocorrelation function
+partial autocorrelation|偏自相关|the partial autocorrelation function
+cross-correlation|互相关|cross-correlation between series
+autocovariance|自协方差|an autocovariance function
+white noise|白噪声|a white noise process
+random walk|随机游走|a random walk baseline
+drift|漂移；漂移项|a random walk with drift
+mean reversion|均值回归|mean reversion in a series
+long memory|长记忆|a long memory process
+short-term dependency|短期依赖|capture short-term dependencies
+long-term dependency|长期依赖|model long-term dependencies
+temporal dependency|时间依赖|learn temporal dependencies
+spatial dependency|空间依赖|capture spatial dependencies
+spatiotemporal dependency|时空依赖|complex spatiotemporal dependencies
+spatial correlation|空间相关性|strong spatial correlation
+spatial autocorrelation|空间自相关|measure spatial autocorrelation
+temporal resolution|时间分辨率|a finer temporal resolution
+spatial resolution|空间分辨率|high spatial resolution
+spatial heterogeneity|空间异质性|account for spatial heterogeneity
+temporal heterogeneity|时间异质性|temporal heterogeneity in demand
+spatial neighborhood|空间邻域|aggregate a spatial neighborhood
+spatial proximity|空间邻近性|edges based on spatial proximity
+geographical distance|地理距离|use geographical distance
+sensor network|传感器网络|a traffic sensor network
+sensor reading|传感器读数|missing sensor readings
+traffic flow|交通流；交通流量|forecast traffic flow
+traffic speed|交通速度|predict traffic speed
+traffic volume|交通量|hourly traffic volume
+road network|道路网络|represent a road network as a graph
+electricity demand|电力需求|forecast electricity demand
+load forecasting|负荷预测|short-term load forecasting
+weather forecasting|天气预报|probabilistic weather forecasting
+air quality forecasting|空气质量预测|urban air quality forecasting
+multivariate time series|多变量时间序列|model multivariate time series
+univariate time series|单变量时间序列|a univariate time series baseline
+exogenous variable|外生变量|include weather as an exogenous variable
+endogenous variable|内生变量|model endogenous variables
+known future covariate|未来已知协变量|calendar features as known future covariates
+time-varying covariate|时变协变量|use time-varying covariates
+static covariate|静态协变量|location as a static covariate
+calendar feature|日历特征|add calendar features
+holiday effect|节假日效应|model holiday effects
+day of week|星期几；周内日序|encode the day of week
+time of day|一天中的时刻|encode the time of day
+irregular sampling|不规则采样|handle irregular sampling
+unevenly spaced observations|非等间隔观测|model unevenly spaced observations
+missing value imputation|缺失值填补|causal missing value imputation
+forward filling|前向填充|forward filling of missing values
+interpolation|插值|linear interpolation
+extrapolation|外推|extrapolation beyond the observed range
+resampling|重采样|resampling to hourly intervals
+temporal aggregation|时间聚合|daily temporal aggregation
+temporal alignment|时间对齐|temporal alignment of sensor data
+forecast origin|预测起点|move the forecast origin forward
+rolling origin evaluation|滚动起点评估|use rolling origin evaluation
+walk-forward validation|前向滚动验证|walk-forward validation for forecasting
+chronological split|按时间顺序划分|use a chronological split
+temporal leakage|时间信息泄漏|avoid temporal leakage
+future information leakage|未来信息泄漏|prevent future information leakage
+one-step forecasting|单步预测|one-step forecasting accuracy
+multi-step forecasting|多步预测|multi-step forecasting performance
+direct forecasting|直接预测|direct forecasting for each horizon
+recursive forecasting|递归预测|recursive forecasting with one-step models
+multi-output forecasting|多输出预测|multi-output forecasting of future values
+forecast error accumulation|预测误差累积|reduce forecast error accumulation
+point forecast|点预测|produce a point forecast
+probabilistic forecast|概率预测|evaluate a probabilistic forecast
+interval forecast|区间预测|construct an interval forecast
+quantile forecast|分位数预测|a set of quantile forecasts
+prediction interval|预测区间|a ninety-percent prediction interval
+forecast reconciliation|预测协调；预测调和|hierarchical forecast reconciliation
+hierarchical forecasting|层级预测|coherent hierarchical forecasting
+forecast combination|预测组合|weighted forecast combination
+naive forecast|朴素预测|a naive forecast baseline
+seasonal naive forecast|季节性朴素预测|compare with a seasonal naive forecast
+persistence model|持续性模型|a persistence model baseline
+moving average|移动平均|a moving average smoother
+exponential smoothing|指数平滑|simple exponential smoothing
+autoregressive integrated moving average|自回归差分移动平均模型|fit an ARIMA model
+seasonal ARIMA|季节性 ARIMA 模型|a seasonal ARIMA baseline
+vector autoregression|向量自回归|a vector autoregression model
+Granger causality|格兰杰因果关系（预测意义）|test for Granger causality
+spectral density|谱密度|estimate the spectral density
+frequency domain|频域|analysis in the frequency domain
+time domain|时域|modeling in the time domain
+Fourier transform|傅里叶变换|apply the Fourier transform
+wavelet transform|小波变换|a discrete wavelet transform
+low-frequency component|低频分量|extract low-frequency components
+high-frequency component|高频分量|model high-frequency components
+multiscale decomposition|多尺度分解|multiscale decomposition of a series
+cross-variable dependency|跨变量依赖|capture cross-variable dependencies
+channel independence|通道独立性|channel independence in forecasting
+channel mixing|通道混合|cross-channel mixing
+patching|分块|temporal patching of a sequence
+temporal patch|时间片块|encode each temporal patch
+# 混合神经网络|2
+hybrid neural network|混合神经网络|a hybrid neural network architecture
+hybrid model|混合模型|a hybrid model combining mechanistic and neural components
+ensemble model|集成模型|an ensemble model combining predictions
+feature fusion|特征融合|adaptive feature fusion
+early fusion|早期融合|early fusion of input features
+late fusion|后期融合|late fusion of model outputs
+intermediate fusion|中间层融合|intermediate fusion of representations
+gated fusion|门控融合|a gated fusion mechanism
+cross-attention|交叉注意力|cross-attention between two streams
+self-attention|自注意力|self-attention over time steps
+multi-head attention|多头注意力|multi-head attention layers
+temporal attention|时间注意力|temporal attention weights
+spatial attention|空间注意力|spatial attention over sensors
+spatiotemporal attention|时空注意力|joint spatiotemporal attention
+attention score|注意力分数|compute attention scores
+attention weight|注意力权重|normalize attention weights
+attention mask|注意力掩码|apply an attention mask
+causal mask|因果掩码|use a causal mask
+positional encoding|位置编码|sinusoidal positional encoding
+relative positional encoding|相对位置编码|relative positional encoding for sequences
+learnable embedding|可学习嵌入|learnable sensor embeddings
+temporal embedding|时间嵌入|calendar-based temporal embeddings
+node embedding|节点嵌入|learn node embeddings
+graph neural network|图神经网络|a graph neural network encoder
+graph convolution|图卷积|spatial graph convolution
+graph convolutional network|图卷积网络|a graph convolutional network layer
+graph attention network|图注意力网络|a graph attention network encoder
+message passing|消息传递|iterative message passing
+message aggregation|消息聚合|permutation-invariant message aggregation
+adjacency matrix|邻接矩阵|a weighted adjacency matrix
+adaptive adjacency matrix|自适应邻接矩阵|learn an adaptive adjacency matrix
+graph Laplacian|图拉普拉斯矩阵|the normalized graph Laplacian
+directed graph|有向图|a directed road graph
+undirected graph|无向图|an undirected sensor graph
+weighted graph|加权图|construct a weighted graph
+dynamic graph|动态图|learn a dynamic graph
+graph structure learning|图结构学习|data-driven graph structure learning
+diffusion convolution|扩散卷积|diffusion convolution on a directed graph
+spatiotemporal graph convolution|时空图卷积|spatiotemporal graph convolution blocks
+temporal convolutional network|时间卷积网络|a temporal convolutional network backbone
+causal convolution|因果卷积|one-dimensional causal convolution
+dilated convolution|空洞卷积；膨胀卷积|dilated temporal convolution
+dilation rate|膨胀率|increase the dilation rate
+receptive field|感受野|a larger receptive field
+convolution kernel|卷积核|a temporal convolution kernel
+kernel size|卷积核大小|choose the kernel size
+stride|步幅|a stride of one
+padding|填充|zero padding
+depthwise separable convolution|深度可分离卷积|efficient depthwise separable convolution
+recurrent neural network|循环神经网络|a recurrent neural network baseline
+long short-term memory|长短期记忆网络|a long short-term memory network
+gated recurrent unit|门控循环单元|a gated recurrent unit encoder
+convolutional LSTM|卷积长短期记忆网络|a convolutional LSTM layer
+hidden state|隐藏状态|update the hidden state
+cell state|单元状态|maintain the cell state
+forget gate|遗忘门|control the forget gate
+input gate|输入门|compute the input gate
+output gate|输出门|an output gate activation
+reset gate|重置门|a reset gate in a GRU
+update gate|更新门|a learned update gate
+encoder-decoder architecture|编码器—解码器架构|an encoder-decoder architecture for forecasting
+sequence-to-sequence model|序列到序列模型|a sequence-to-sequence model
+teacher forcing|教师强制|training with teacher forcing
+scheduled sampling|计划采样|scheduled sampling during training
+exposure bias|暴露偏差|reduce exposure bias
+autoregressive decoding|自回归解码|autoregressive decoding at inference time
+parallel decoding|并行解码|parallel decoding of future steps
+residual connection|残差连接|add a residual connection
+skip connection|跳跃连接|a skip connection between layers
+residual block|残差块|stack residual blocks
+bottleneck layer|瓶颈层|a narrow bottleneck layer
+projection layer|投影层|a linear projection layer
+readout layer|读出层|a graph readout layer
+fusion layer|融合层|a learnable fusion layer
+feed-forward network|前馈网络|a position-wise feed-forward network
+multilayer perceptron|多层感知机|a multilayer perceptron head
+mixture of experts|专家混合模型|a mixture of experts architecture
+gating network|门控网络|a gating network selects experts
+shared backbone|共享骨干网络|a shared backbone for multiple tasks
+task-specific head|任务专用输出头|a task-specific prediction head
+parameter sharing|参数共享|parameter sharing across locations
+weight tying|权重绑定|weight tying between layers
+physics-informed neural network|物理信息神经网络|a physics-informed neural network
+physics-guided learning|物理引导学习|physics-guided learning for forecasting
+neural ordinary differential equation|神经常微分方程|a neural ordinary differential equation model
+neural state-space model|神经状态空间模型|a neural state-space model for dynamics
+neural process|神经过程|a conditional neural process
+deep kernel learning|深度核学习|deep kernel learning with Gaussian processes
+multiscale architecture|多尺度架构|a multiscale architecture for sequences
+multibranch architecture|多分支架构|a multibranch architecture for feature extraction
+cross-scale interaction|跨尺度交互|model cross-scale interactions
+ablation study|消融实验|conduct an ablation study
+component ablation|组件消融|component ablation of the fusion module
+# 概率建模|2
+probability|概率|conditional probability
+likelihood|似然|maximize the likelihood
+log-likelihood|对数似然|compute the log-likelihood
+negative log-likelihood|负对数似然|minimize the negative log-likelihood
+prior distribution|先验分布|specify a prior distribution
+posterior distribution|后验分布|approximate the posterior distribution
+posterior predictive distribution|后验预测分布|sample from the posterior predictive distribution
+predictive distribution|预测分布|estimate the predictive distribution
+marginal distribution|边缘分布|derive the marginal distribution
+joint distribution|联合分布|model the joint distribution
+conditional distribution|条件分布|learn a conditional distribution
+conditional independence|条件独立性|assume conditional independence
+independent and identically distributed|独立同分布的|independent and identically distributed samples
+random variable|随机变量|a continuous random variable
+latent variable|隐变量|infer the latent variables
+observed variable|观测变量|condition on observed variables
+random vector|随机向量|a multivariate random vector
+probability density function|概率密度函数|evaluate the probability density function
+probability mass function|概率质量函数|a discrete probability mass function
+cumulative distribution function|累积分布函数|estimate the cumulative distribution function
+quantile function|分位数函数|learn a quantile function
+expectation|期望|take the expectation
+conditional expectation|条件期望|compute a conditional expectation
+variance|方差|estimate the variance
+covariance|协方差|a covariance matrix
+standard deviation|标准差|report the standard deviation
+standard error|标准误|estimate the standard error
+moment|矩|the second moment
+skewness|偏度|measure the skewness
+kurtosis|峰度|estimate the kurtosis
+heavy-tailed distribution|重尾分布|a heavy-tailed noise distribution
+Gaussian distribution|高斯分布；正态分布|a multivariate Gaussian distribution
+Bernoulli distribution|伯努利分布|a Bernoulli distribution for binary outcomes
+binomial distribution|二项分布|a binomial distribution of counts
+Poisson distribution|泊松分布|a Poisson distribution for event counts
+negative binomial distribution|负二项分布|a negative binomial distribution for overdispersed counts
+Student's t-distribution|学生 t 分布|a Student's t-distribution for heavy-tailed noise
+beta distribution|贝塔分布|a beta distribution on the unit interval
+gamma distribution|伽马分布|a gamma distribution for positive values
+log-normal distribution|对数正态分布|a log-normal distribution for positive data
+uniform distribution|均匀分布|sample from a uniform distribution
+exponential distribution|指数分布|an exponential distribution of waiting times
+Dirichlet distribution|狄利克雷分布|a Dirichlet prior
+categorical distribution|类别分布|a categorical distribution over classes
+mixture distribution|混合分布|fit a mixture distribution
+Gaussian mixture model|高斯混合模型|a Gaussian mixture model with three components
+mixture density network|混合密度网络|a mixture density network output layer
+Bayesian inference|贝叶斯推断|approximate Bayesian inference
+Bayes' theorem|贝叶斯定理|apply Bayes' theorem
+maximum likelihood estimation|极大似然估计|maximum likelihood estimation of parameters
+maximum a posteriori estimation|最大后验估计|maximum a posteriori estimation with a Gaussian prior
+marginal likelihood|边缘似然|maximize the marginal likelihood
+model evidence|模型证据（边缘似然）|compare models using model evidence
+conjugate prior|共轭先验|choose a conjugate prior
+informative prior|信息性先验|an informative prior based on domain knowledge
+weakly informative prior|弱信息先验|use a weakly informative prior
+hierarchical Bayesian model|层级贝叶斯模型|a hierarchical Bayesian model across locations
+Bayesian neural network|贝叶斯神经网络|a Bayesian neural network for uncertainty estimation
+variational inference|变分推断|scalable variational inference
+variational distribution|变分分布|optimize the variational distribution
+evidence lower bound|证据下界|maximize the evidence lower bound
+Kullback-Leibler divergence|KL 散度|minimize the Kullback-Leibler divergence
+reparameterization trick|重参数化技巧|use the reparameterization trick
+Monte Carlo estimation|蒙特卡洛估计|Monte Carlo estimation of an expectation
+Monte Carlo sampling|蒙特卡洛采样|Monte Carlo sampling from a distribution
+Markov chain Monte Carlo|马尔可夫链蒙特卡洛|Markov chain Monte Carlo sampling
+Hamiltonian Monte Carlo|哈密顿蒙特卡洛|Hamiltonian Monte Carlo for posterior sampling
+Gibbs sampling|吉布斯采样|a Gibbs sampling algorithm
+importance sampling|重要性采样|importance sampling with a proposal distribution
+proposal distribution|提议分布|choose a proposal distribution
+acceptance probability|接受概率|compute the acceptance probability
+burn-in|预热期；烧入期|discard the burn-in samples
+effective sample size|有效样本量|estimate the effective sample size
+posterior predictive check|后验预测检验|perform posterior predictive checks
+Gaussian process|高斯过程|Gaussian process regression
+kernel function|核函数|a positive semidefinite kernel function
+covariance function|协方差函数|a stationary covariance function
+length scale|长度尺度|learn the kernel length scale
+inducing point|诱导点|sparse Gaussian processes with inducing points
+state-space model|状态空间模型|a linear state-space model
+latent state|隐状态|infer the latent state
+transition distribution|转移分布|learn the transition distribution
+observation model|观测模型|a Gaussian observation model
+Kalman filter|卡尔曼滤波器|a Kalman filter for state estimation
+particle filter|粒子滤波器|a particle filter for nonlinear dynamics
+hidden Markov model|隐马尔可夫模型|a hidden Markov model with discrete states
+stochastic process|随机过程|a continuous-time stochastic process
+Markov property|马尔可夫性质|assume the Markov property
+uncertainty quantification|不确定性量化|uncertainty quantification for forecasting
+aleatoric uncertainty|偶然不确定性；数据不确定性|model aleatoric uncertainty
+epistemic uncertainty|认知不确定性；模型不确定性|estimate epistemic uncertainty
+heteroscedasticity|异方差性|account for heteroscedasticity
+homoscedasticity|同方差性|assume homoscedasticity
+calibration|校准；校准性|assess forecast calibration
+sharpness|尖锐性；预测分布的集中程度|sharpness subject to calibration
+coverage probability|覆盖概率|the prediction interval coverage probability
+interval width|区间宽度|the average interval width
+proper scoring rule|适当评分规则|evaluate forecasts with a proper scoring rule
+continuous ranked probability score|连续秩概率评分|minimize the continuous ranked probability score
+pinball loss|分位数损失；弹球损失|optimize the pinball loss
+quantile regression|分位数回归|neural quantile regression
+quantile crossing|分位数交叉|avoid quantile crossing
+conformal prediction|保形预测|conformal prediction intervals
+exchangeability|可交换性|the exchangeability assumption
+confidence interval|置信区间|a confidence interval for the mean
+credible interval|可信区间（贝叶斯）|a posterior credible interval
+bootstrap|自助法；自助采样|estimate uncertainty using the bootstrap
+block bootstrap|分块自助法|a block bootstrap for dependent data
+normalizing flow|归一化流|a normalizing flow for density estimation
+copula|联结函数|a copula for dependence modeling
+entropy|熵|predictive entropy
+mutual information|互信息|estimate mutual information
+out-of-distribution detection|分布外检测|out-of-distribution detection using uncertainty
+deep ensemble|深度集成|a deep ensemble of neural networks
+Monte Carlo dropout|蒙特卡洛随机失活|Monte Carlo dropout at inference time
+# 数学与训练基础|1
+scalar|标量|a scalar value
+vector|向量|an input vector
+matrix|矩阵|a square matrix
+tensor|张量|a third-order tensor
+dimension|维度|the feature dimension
+shape|形状（各轴长度）|the tensor shape
+axis|轴|the temporal axis
+transpose|转置|the matrix transpose
+inverse|逆；逆矩阵|the matrix inverse
+pseudoinverse|伪逆|the Moore-Penrose pseudoinverse
+determinant|行列式|the determinant of a matrix
+trace|迹|the trace of a matrix
+rank|秩|the rank of a matrix
+eigenvalue|特征值|the largest eigenvalue
+eigenvector|特征向量|the corresponding eigenvector
+singular value|奇异值|the singular values of a matrix
+singular value decomposition|奇异值分解|apply singular value decomposition
+positive definite|正定的|a positive definite matrix
+positive semidefinite|半正定的|a positive semidefinite matrix
+orthogonal|正交的|orthogonal vectors
+norm|范数|the Euclidean norm
+inner product|内积|compute an inner product
+outer product|外积|the outer product of two vectors
+Hadamard product|逐元素乘积；哈达玛积|the Hadamard product of two matrices
+matrix multiplication|矩阵乘法|batched matrix multiplication
+derivative|导数|the first derivative
+partial derivative|偏导数|a partial derivative with respect to a weight
+gradient|梯度|the gradient of the loss
+Jacobian|雅可比矩阵|the Jacobian of a transformation
+Hessian|海森矩阵|the Hessian of the objective
+chain rule|链式法则|apply the chain rule
+integral|积分|evaluate an integral
+convexity|凸性|the convexity of the objective
+convex optimization|凸优化|a convex optimization problem
+nonconvex optimization|非凸优化|nonconvex optimization of neural networks
+stationary point|驻点|converge to a stationary point
+saddle point|鞍点|escape a saddle point
+local minimum|局部极小值|a local minimum of the loss
+global minimum|全局最小值|reach a global minimum
+learning rate|学习率|a learning rate schedule
+weight decay|权重衰减|apply weight decay
+gradient clipping|梯度裁剪|gradient clipping for stable training
+gradient accumulation|梯度累积|use gradient accumulation
+vanishing gradient|梯度消失|the vanishing gradient problem
+exploding gradient|梯度爆炸|prevent exploding gradients
+batch size|批大小|choose a batch size
+epoch|训练轮次|train for one hundred epochs
+iteration|迭代|one optimization iteration
+early stopping|提前停止|early stopping based on validation loss
+checkpoint|检查点|save the best checkpoint
+random seed|随机种子|set the random seed
+hyperparameter|超参数|tune a hyperparameter
+parameter|参数|learn model parameters
+training set|训练集|fit the model on the training set
+validation set|验证集|select the model using the validation set
+test set|测试集|evaluate once on the test set
+held-out data|留出数据|evaluate on held-out data
+data leakage|数据泄漏|prevent data leakage
+normalization|归一化；规范化（依方法）|input normalization
+standardization|标准化|standardization using training statistics
+min-max scaling|最小—最大缩放|min-max scaling of the inputs
+inverse transformation|逆变换|apply the inverse transformation
+mean absolute error|平均绝对误差|report the mean absolute error
+mean squared error|均方误差|minimize the mean squared error
+root mean squared error|均方根误差|compute the root mean squared error
+mean absolute percentage error|平均绝对百分比误差|mean absolute percentage error near zero
+weighted absolute percentage error|加权绝对百分比误差|report the weighted absolute percentage error
+mean absolute scaled error|平均绝对缩放误差|mean absolute scaled error relative to a naive baseline
+coefficient of determination|决定系数|the coefficient of determination
+statistical significance|统计显著性|test for statistical significance
+effect size|效应量|report the effect size
+paired test|配对检验|a paired test across matched observations
+multiple comparisons|多重比较|adjust for multiple comparisons
+baseline|基线；比较基准|a strong baseline
+benchmark|基准任务或数据集|a public forecasting benchmark
+fair comparison|公平比较|ensure a fair comparison
+hyperparameter search|超参数搜索|a fixed hyperparameter search budget
+inference latency|推理延迟|measure inference latency
+throughput|吞吐量|measure prediction throughput
+memory footprint|内存占用|reduce the memory footprint
+computational complexity|计算复杂度|analyze computational complexity
+training time|训练时间|report total training time
+parameter count|参数量|compare parameter counts
+error bar|误差条|include error bars
+confidence level|置信水平|a ninety-five percent confidence level
+repeated run|重复运行|average over repeated runs
+# 科研通用|1
+abstract|摘要；抽象的|the abstract of a paper
+introduction|引言|the introduction section
+related work|相关研究|a review of related work
+preliminary|预备的；初步的|preliminary results
+preliminaries|预备知识|notation and preliminaries
+notation|记号；符号体系|mathematical notation
+definition|定义|a formal definition
+theorem|定理|state the theorem
+lemma|引理|prove a supporting lemma
+proposition|命题|the following proposition
+corollary|推论|an immediate corollary
+proof|证明|a sketch of the proof
+appendix|附录|details in the appendix
+supplementary material|补充材料|code in the supplementary material
+reference|参考文献；参照|cite a reference
+citation|引用|a citation to prior work
+manuscript|稿件|the revised manuscript
+peer review|同行评审|undergo peer review
+revision|修订|a major revision
+rebuttal|答辩；对审稿意见的回应|write a rebuttal
+relevance|相关性；切题性|the relevance to forecasting
+novelty|新颖性|evaluate the novelty
+rigor|严谨性|methodological rigor
+clarity|清晰性|improve the clarity
+transparency|透明性|experimental transparency
+discrepancy|差异；不一致|a discrepancy between predictions and observations
+contradiction|矛盾|proof by contradiction
+counterexample|反例|construct a counterexample
+ambiguity|歧义；不明确性|resolve an ambiguity
+intuition|直觉理解|the intuition behind the method
+rationale|依据；理由|the rationale for this choice
+justification|论证依据|a theoretical justification
+formulation|形式化表述|a mathematical formulation
+derivation|推导过程|the derivation of the bound
+explanation|解释|an alternative explanation
+validation|验证|independent validation
+comparison|比较|a comparison with existing methods
+assessment|评估|a quantitative assessment
+investigation|研究；调查|further investigation
+implementation|实现|an open implementation
+deployment|部署|deployment in a real system
+extension|扩展|a natural extension
+modification|修改|a minor modification
+improvement|改进；提升|a relative improvement
+reduction|减少；降低|a reduction in error
+increment|增量|a small increment
+degradation|退化；性能下降|performance degradation
+fluctuation|波动|short-term fluctuations
+variation|变化；差异|seasonal variation
+variability|变异性|variability across runs
+diversity|多样性|diversity among ensemble members
+redundancy|冗余|feature redundancy
+necessity|必要性|the necessity of the module
+sufficiency|充分性|the sufficiency of the condition
+prerequisite|前提条件|a prerequisite for consistency
+guarantee|保证|a theoretical guarantee
+bound|界；界限|an upper bound
+upper bound|上界|derive an upper bound
+lower bound|下界|a lower bound on the error
+tight bound|紧界|a tight bound on complexity
+asymptotic|渐近的|asymptotic behavior
+finite|有限的|a finite sample
+infinite|无限的|an infinite sequence
+bounded|有界的|bounded noise
+unbounded|无界的|an unbounded domain
+continuous|连续的|a continuous function
+discrete|离散的|a discrete state space
+differentiable|可微的|a differentiable objective
+smooth|光滑的；平滑的|a smooth function
+monotonic|单调的|a monotonic relationship
+monotonically increasing|单调递增的|a monotonically increasing function
+strictly positive|严格为正的|strictly positive weights
+nonnegative|非负的|nonnegative observations
+nonzero|非零的|a nonzero coefficient
+symmetric|对称的|a symmetric matrix
+asymmetric|非对称的|an asymmetric loss
+equivalent|等价的|an equivalent formulation
+identical|相同的|identical experimental settings
+distinct|不同的；独立可辨的|distinct patterns
+arbitrary|任意的|an arbitrary input sequence
+appropriate|适当的|an appropriate baseline
+adequate|足够的；适当的|adequate training data
+insufficient|不足的|insufficient evidence
+necessary|必要的|a necessary condition
+sufficient|充分的|a sufficient condition
+necessary and sufficient|充分必要的|a necessary and sufficient condition
+plausible|合理的；可信的|a plausible explanation
+questionable|有疑问的|a questionable assumption
+nontrivial|非平凡的；不简单的|a nontrivial problem
+straightforward|直接的；容易理解的|a straightforward extension
+comprehensive|全面的|a comprehensive evaluation
+systematic|系统的|a systematic comparison
+representative|有代表性的|a representative sample
+prevalent|普遍存在的|a prevalent challenge
+predominant|占主导的|the predominant pattern
+fundamental|基础的；根本的|a fundamental limitation
+crucial|关键的|a crucial component
+potential|潜在的；可能的|a potential source of bias
+subsequent|后续的|subsequent experiments
+preceding|前面的；先前的|the preceding time step
+aforementioned|前述的|the aforementioned limitation
+corresponding|相应的|the corresponding prediction
+respective|各自的|their respective objectives
+namely|即；也就是|two components, namely an encoder and a decoder
+otherwise|否则；在其他情况下|zero otherwise
+likewise|同样地|likewise, the second model improves
+conversely|反过来；相反地|conversely, the implication need not hold
+hence|因此|hence the need for regularization
+thereby|从而|thereby reducing computational cost
+whereby|通过该方式|a mechanism whereby information is shared
+wherein|其中|a setting wherein labels are unavailable
+notwithstanding|尽管|notwithstanding these limitations
+irrespective of|不论|irrespective of the input length
+in accordance with|按照；与……一致|in accordance with the protocol
+in the presence of|在存在……的情况下|in the presence of noise
+in the absence of|在缺少……的情况下|in the absence of labels
+on the basis of|根据|on the basis of the validation error
+in conjunction with|与……结合|in conjunction with a graph encoder
+in favor of|支持；倾向于|evidence in favor of the hypothesis
+in light of|考虑到；鉴于|in light of these results
+as a consequence|因此；结果|as a consequence of distribution shift
+by contrast|相比之下|by contrast, the baseline remains stable
+for simplicity|为简便起见|for simplicity, we omit the index
+without loss of generality|不失一般性|without loss of generality, assume zero mean
+up to|至多；达到；在……意义下（依语境）|up to a constant factor
+with high probability|以高概率|the bound holds with high probability
+in expectation|在期望意义下|minimize error in expectation
+almost surely|几乎必然地|the sequence converges almost surely
+in the limit|在极限情况下|the approximation is exact in the limit
+vice versa|反之亦然|the mapping works in both directions, and vice versa
+# 时空序列预测|2
+forecasting task|预测任务|a multistep forecasting task
+forecasting accuracy|预测准确程度|improve forecasting accuracy
+forecast uncertainty|预测不确定性|quantify forecast uncertainty
+forecast bias|预测偏差|measure forecast bias
+forecast skill|预测技巧；相对基准的预测能力|assess forecast skill
+forecast lead time|预测提前量|a longer forecast lead time
+nowcasting|临近预测；即时预测|precipitation nowcasting
+hindcasting|历史回报；回溯预测|hindcasting with historical observations
+backtesting|回测|backtesting a forecasting model
+out-of-sample forecast|样本外预测|evaluate out-of-sample forecasts
+in-sample fit|样本内拟合|a good in-sample fit
+direct multi-horizon forecasting|直接多跨度预测|direct multi-horizon forecasting with shared parameters
+global forecasting model|全局预测模型（跨序列训练）|a global forecasting model across many series
+local forecasting model|局部预测模型（逐序列训练）|a local forecasting model for each series
+panel time series|面板时间序列|learning from panel time series
+cross-sectional data|横截面数据|combine temporal and cross-sectional data
+longitudinal data|纵向数据|analyze longitudinal data
+intermittent demand|间歇性需求|forecast intermittent demand
+zero-inflated series|零膨胀序列|a zero-inflated series of counts
+count time series|计数时间序列|model count time series
+multiple seasonality|多重季节性|capture multiple seasonality
+seasonal adjustment|季节调整|seasonal adjustment before analysis
+seasonal strength|季节性强度|measure seasonal strength
+trend strength|趋势强度|estimate trend strength
+additive decomposition|加性分解|an additive decomposition of the series
+multiplicative decomposition|乘性分解|a multiplicative decomposition for changing seasonal amplitude
+local level model|局部水平模型|a local level model for the series
+local linear trend|局部线性趋势|a local linear trend component
+damped trend|阻尼趋势|exponential smoothing with a damped trend
+Holt-Winters method|霍尔特—温特斯方法|the additive Holt-Winters method
+innovation|新息；创新项（时间序列）|the one-step innovation
+innovation variance|新息方差|estimate the innovation variance
+impulse response|脉冲响应|analyze the impulse response
+transfer function|传递函数|a transfer function model
+distributed lag model|分布滞后模型|a distributed lag model of demand
+cointegration|协整|test for cointegration
+error correction model|误差修正模型|fit an error correction model
+heteroskedastic time series|异方差时间序列|model heteroskedastic time series
+conditional volatility|条件波动率|forecast conditional volatility
+GARCH|广义自回归条件异方差模型|a GARCH model for volatility
+long-range dependence|长程依赖|long-range dependence in a sequence
+cross-spectral density|互谱密度|estimate cross-spectral density
+periodogram|周期图|inspect the periodogram
+power spectral density|功率谱密度|estimate power spectral density
+spectral leakage|频谱泄漏|reduce spectral leakage with a window
+aliasing|混叠|avoid aliasing during downsampling
+Nyquist frequency|奈奎斯特频率|the Nyquist frequency of sampled data
+band-limited signal|带限信号|sample a band-limited signal
+low-pass filter|低通滤波器|apply a low-pass filter
+high-pass filter|高通滤波器|a high-pass filter removes slow variation
+time-frequency analysis|时频分析|time-frequency analysis with wavelets
+short-time Fourier transform|短时傅里叶变换|compute the short-time Fourier transform
+wavelet coefficient|小波系数|threshold the wavelet coefficients
+empirical mode decomposition|经验模态分解|empirical mode decomposition of a signal
+intrinsic mode function|本征模态函数|extract intrinsic mode functions
+variational mode decomposition|变分模态分解|variational mode decomposition before forecasting
+multiresolution analysis|多分辨率分析|multiresolution analysis of temporal patterns
+spatial interpolation|空间插值|spatial interpolation at unobserved locations
+kriging|克里金插值|ordinary kriging for spatial prediction
+semivariogram|半变异函数|fit a semivariogram
+spatial lag|空间滞后|a spatial lag term
+spatial weight matrix|空间权重矩阵|construct a spatial weight matrix
+spatial spillover|空间溢出|model spatial spillover effects
+anisotropy|各向异性|spatial anisotropy in the covariance
+isotropy|各向同性|assume spatial isotropy
+geostatistics|地统计学|geostatistics for spatial modeling
+regional aggregation|区域聚合|regional aggregation of demand
+origin-destination matrix|起讫点矩阵；OD 矩阵|forecast an origin-destination matrix
+network topology|网络拓扑|learn the network topology
+road segment|路段|predict speed for each road segment
+travel time|出行时间；旅行时间|forecast travel time
+congestion propagation|拥堵传播|model congestion propagation
+spatial transferability|空间迁移能力|evaluate spatial transferability
+unseen location|未见位置|forecast at an unseen location
+cross-region generalization|跨区域泛化|cross-region generalization of the model
+sensor failure|传感器故障|robustness to sensor failure
+observation mask|观测掩码|an observation mask for missing data
+missingness pattern|缺失模式|different missingness patterns
+asynchronous observation|异步观测|combine asynchronous observations
+time gap|时间间隔|encode the time gap between observations
+time warping|时间规整；时间扭曲|dynamic time warping between sequences
+dynamic time warping|动态时间规整|compute dynamic time warping distance
+lag alignment|滞后对齐|lag alignment between related series
+forecast evaluation protocol|预测评估规程|a leakage-free forecast evaluation protocol
+training cutoff|训练数据截止点|choose a training cutoff
+validation horizon|验证跨度|a fixed validation horizon
+gap between splits|数据分区之间的时间间隔|leave a gap between splits
+blocked cross-validation|分块交叉验证|blocked cross-validation for dependent observations
+purged cross-validation|剔除重叠信息的交叉验证|purged cross-validation with overlapping windows
+Diebold-Mariano test|迪博尔德—马里亚诺预测精度检验|a Diebold-Mariano test of forecast errors
+autocorrelated error|自相关误差|account for autocorrelated errors
+residual diagnostic|残差诊断|perform residual diagnostics
+Ljung-Box test|Ljung–Box 自相关检验|a Ljung-Box test on residuals
+Augmented Dickey-Fuller test|增广迪基—富勒单位根检验|apply the Augmented Dickey-Fuller test
+KPSS test|KPSS 平稳性检验|a KPSS test for stationarity
+# 概率建模|2
+calibration curve|校准曲线|inspect a calibration curve
+reliability diagram|可靠性图|plot a reliability diagram
+probability integral transform|概率积分变换|a probability integral transform histogram
+rank histogram|秩直方图|inspect an ensemble rank histogram
+underdispersion|离散程度不足|underdispersion of predictive distributions
+overdispersion|过度离散|overdispersion in count data
+miscalibration|失校准；校准偏差|detect forecast miscalibration
+conditional coverage|条件覆盖|evaluate conditional coverage
+marginal coverage|边缘覆盖|a marginal coverage guarantee
+nominal coverage|名义覆盖率|compare empirical and nominal coverage
+empirical coverage|经验覆盖率|measure empirical coverage on held-out data
+interval score|区间评分|evaluate an interval score
+weighted interval score|加权区间评分|compute the weighted interval score
+energy score|能量评分|evaluate multivariate forecasts with the energy score
+logarithmic score|对数评分|a logarithmic score for predictive densities
+Brier score|布里尔评分|the Brier score for binary events
+properness|适当性（评分规则）|the properness of a scoring rule
+strictly proper scoring rule|严格适当评分规则|use a strictly proper scoring rule
+distributional regression|分布回归|neural distributional regression
+distributional parameter|分布参数|predict distributional parameters
+location parameter|位置参数|estimate the location parameter
+scale parameter|尺度参数|a positive scale parameter
+shape parameter|形状参数|learn the shape parameter
+tail probability|尾部概率|estimate tail probabilities
+tail dependence|尾部依赖|model tail dependence between variables
+extreme value theory|极值理论|extreme value theory for rare events
+return level|重现水平|estimate a return level
+return period|重现期|a one-hundred-year return period
+rare event|稀有事件|forecast a rare event
+survival function|生存函数|estimate the survival function
+hazard rate|风险率|model a time-varying hazard rate
+zero-inflated distribution|零膨胀分布|a zero-inflated Poisson distribution
+truncated distribution|截断分布|sample from a truncated distribution
+censored observation|删失观测|account for censored observations
+mixture weight|混合权重|learn mixture weights
+mixture component|混合分量|a Gaussian mixture component
+identifiability|可辨识性|the identifiability of model parameters
+nonidentifiability|不可辨识性|nonidentifiability of latent factors
+posterior contraction|后验收缩|posterior contraction around the true parameter
+posterior concentration|后验集中|posterior concentration with more data
+posterior mean|后验均值|use the posterior mean as an estimate
+posterior median|后验中位数|report the posterior median
+posterior mode|后验众数|find the posterior mode
+credible region|可信域|a joint credible region
+highest posterior density interval|最高后验密度区间|compute a highest posterior density interval
+prior predictive distribution|先验预测分布|check the prior predictive distribution
+prior predictive check|先验预测检验|perform a prior predictive check
+prior sensitivity|先验敏感性|analyze prior sensitivity
+empirical Bayes|经验贝叶斯|estimate hyperparameters using empirical Bayes
+Bayesian model averaging|贝叶斯模型平均|Bayesian model averaging across candidate models
+Bayes factor|贝叶斯因子|compute a Bayes factor
+Laplace approximation|拉普拉斯近似|a Laplace approximation to the posterior
+mean-field approximation|平均场近似|a mean-field approximation for variational inference
+amortized inference|摊销推断|amortized inference with an encoder
+amortization gap|摊销差距|reduce the amortization gap
+variational family|变分分布族|choose a flexible variational family
+reverse KL divergence|反向 KL 散度|minimize reverse KL divergence
+forward KL divergence|前向 KL 散度|minimize forward KL divergence
+importance weight|重要性权重|normalize the importance weights
+self-normalized importance sampling|自归一化重要性采样|self-normalized importance sampling for expectations
+sequential Monte Carlo|序贯蒙特卡洛|sequential Monte Carlo for state estimation
+particle degeneracy|粒子退化|mitigate particle degeneracy
+resampling step|重采样步骤|perform a resampling step
+filtering distribution|滤波分布|estimate the filtering distribution
+smoothing distribution|平滑分布|compute the smoothing distribution
+transition kernel|转移核|a Markov transition kernel
+detailed balance|细致平衡|satisfy detailed balance
+ergodicity|遍历性|establish ergodicity of the chain
+mixing time|混合时间|analyze the mixing time
+chain convergence|马尔可夫链收敛|diagnose chain convergence
+autocorrelation time|自相关时间|estimate the integrated autocorrelation time
+effective number of parameters|有效参数量|the effective number of parameters
+uncertainty decomposition|不确定性分解|uncertainty decomposition into two components
+predictive variance|预测方差|decompose predictive variance
+observation noise|观测噪声|model observation noise
+process noise|过程噪声|specify the process noise covariance
+measurement error|测量误差|account for measurement error
+model misspecification|模型设定错误|robustness to model misspecification
+distribution-free|分布无关的|distribution-free prediction intervals
+split conformal prediction|分割保形预测|split conformal prediction with a calibration set
+calibration set|校准集|reserve a separate calibration set
+nonconformity score|非一致性分数|compute a nonconformity score
+adaptive conformal inference|自适应保形推断|adaptive conformal inference under distribution shift
+conformalized quantile regression|保形化分位数回归|conformalized quantile regression for intervals
+# 机器学习基础与扩展|1
+machine learning|机器学习|supervised machine learning
+deep learning|深度学习|deep learning for forecasting
+supervised learning|监督学习|supervised learning with labeled data
+unsupervised learning|无监督学习|unsupervised learning of representations
+self-supervised learning|自监督学习|self-supervised learning from masked observations
+semi-supervised learning|半监督学习|semi-supervised learning with few labels
+transfer learning|迁移学习|transfer learning across domains
+domain adaptation|领域自适应|domain adaptation for new sensors
+domain generalization|领域泛化|domain generalization to unseen environments
+multitask learning|多任务学习|multitask learning with a shared encoder
+meta-learning|元学习|meta-learning for rapid adaptation
+few-shot learning|少样本学习|few-shot learning for new locations
+zero-shot learning|零样本学习|zero-shot learning on an unseen task
+continual learning|持续学习|continual learning from streaming data
+online learning|在线学习|online learning with incoming observations
+offline learning|离线学习|offline learning from a fixed dataset
+active learning|主动学习|active learning for sensor selection
+representation learning|表征学习|representation learning for sequences
+contrastive learning|对比学习|contrastive learning of temporal representations
+masked modeling|掩码建模|masked modeling of time series
+pretraining|预训练|self-supervised pretraining
+fine-tuning|微调|fine-tuning on the target dataset
+linear probing|线性探测|linear probing of frozen representations
+frozen parameter|冻结参数|keep frozen parameters unchanged
+trainable parameter|可训练参数|the number of trainable parameters
+feature extraction|特征提取|automatic feature extraction
+feature selection|特征选择|feature selection on the training set
+feature engineering|特征工程|domain-specific feature engineering
+feature scaling|特征缩放|feature scaling before optimization
+feature importance|特征重要性|estimate feature importance
+permutation importance|置换重要性|compute permutation importance
+partial dependence|部分依赖|a partial dependence plot
+data augmentation|数据增强|time-series data augmentation
+synthetic data|合成数据|generate synthetic data
+data preprocessing|数据预处理|a reproducible data preprocessing pipeline
+data quality|数据质量|assess data quality
+data provenance|数据来源与沿革|record data provenance
+dataset shift|数据集偏移|evaluate robustness to dataset shift
+label noise|标签噪声|robustness to label noise
+class imbalance|类别不平衡|handle class imbalance
+sample weight|样本权重|assign a sample weight
+ground truth|真实参考值；真值|compare predictions with ground truth
+target variable|目标变量|forecast the target variable
+input feature|输入特征|select input features
+feature space|特征空间|map inputs into a feature space
+latent space|潜在空间|learn a compact latent space
+decision boundary|决策边界|a nonlinear decision boundary
+overfitting|过拟合|reduce overfitting with regularization
+underfitting|欠拟合|diagnose underfitting
+generalization|泛化|evaluate generalization to new data
+regularization|正则化|regularization of model weights
+dropout|随机失活；暂退法|apply dropout during training
+batch normalization|批归一化|batch normalization layers
+layer normalization|层归一化|layer normalization in a Transformer
+instance normalization|实例归一化|instance normalization of a sequence
+reversible instance normalization|可逆实例归一化|reversible instance normalization for forecasting
+gradient descent|梯度下降|gradient descent updates
+stochastic gradient descent|随机梯度下降|stochastic gradient descent with momentum
+Adam|自适应矩估计优化器|train the model with Adam
+AdamW|解耦权重衰减的 Adam 优化器|AdamW with a cosine learning rate schedule
+momentum|动量|gradient descent with momentum
+learning rate scheduler|学习率调度器|use a learning rate scheduler
+warmup|预热|a linear learning rate warmup
+cosine annealing|余弦退火|cosine annealing of the learning rate
+mixed precision training|混合精度训练|mixed precision training for efficiency
+automatic differentiation|自动微分|automatic differentiation of the loss
+backpropagation|反向传播|compute gradients using backpropagation
+backpropagation through time|随时间反向传播|backpropagation through time for recurrent networks
+forward propagation|前向传播|forward propagation through the network
+gradient checkpointing|梯度检查点技术|gradient checkpointing to reduce memory use
+numerical stability|数值稳定性|improve numerical stability
+floating-point precision|浮点精度|the effect of floating-point precision
+overflow|上溢|avoid numerical overflow
+underflow|下溢|avoid numerical underflow
+log-sum-exp trick|对数和指数技巧|use the log-sum-exp trick
+reproducible experiment|可复现实验|design a reproducible experiment
+experiment tracking|实验追踪|experiment tracking across runs
+configuration|配置|save the experiment configuration
+random initialization|随机初始化|sensitivity to random initialization
+deterministic execution|确定性执行|enable deterministic execution when available
+cross-validation|交叉验证|choose an appropriate cross-validation scheme
+grid search|网格搜索|grid search over hyperparameters
+random search|随机搜索|random search with a fixed budget
+Bayesian optimization|贝叶斯优化|Bayesian optimization of hyperparameters
+search space|搜索空间|define the hyperparameter search space
+validation loss|验证损失|select the checkpoint with the lowest validation loss
+training loss|训练损失|monitor the training loss
+learning curve|学习曲线|inspect the learning curve
+error analysis|误差分析|perform error analysis by horizon
+failure case|失败案例|inspect representative failure cases
+robustness check|稳健性检查|a robustness check under missing data
+sensitivity analysis|敏感性分析|sensitivity analysis of the window length
+statistical power|统计功效|assess statistical power
+practical significance|实际意义|distinguish practical significance from statistical significance
+relative improvement|相对提升|report the relative improvement
+absolute improvement|绝对提升|report the absolute improvement
+percentage point|百分点|an increase of two percentage points
+inference|推断；模型运行阶段的推理|inference on unseen inputs
+model compression|模型压缩|model compression for deployment
+quantization|量化|post-training quantization
+knowledge distillation|知识蒸馏|knowledge distillation from a larger model
+pruning|剪枝|structured pruning of network channels
+model size|模型大小|compare model sizes
+scalability|可扩展性|scalability to large sensor networks
+computational budget|计算预算|a fixed computational budget
+wall-clock time|实际经过的时间|measure wall-clock time
+latency|延迟|low inference latency
+batch inference|批量推理|batch inference for many sequences
+streaming inference|流式推理|streaming inference with new observations

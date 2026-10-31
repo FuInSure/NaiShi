@@ -1,0 +1,111 @@
+# term|original teaching example|Chinese translation|usage note
+propose|We propose a hybrid model for multistep traffic forecasting.|我们提出一种用于多步交通预测的混合模型。|propose 后接方法、模型或假设；本句是教学例句，不是论文引文。
+demonstrate|The experiments demonstrate the benefit of adaptive graph learning.|这些实验展示了自适应图学习的益处。|demonstrate 的证据力度取决于实验设计；不能机械理解为严格数学证明。
+suggest|The results suggest that the model benefits from longer histories.|结果提示，该模型可能受益于更长的历史数据。|suggest 比 prove 弱，译文应保留这种审慎程度。
+evaluate|We evaluate all models on the same chronological test split.|我们在同一个按时间顺序划分的测试集上评估所有模型。|evaluate 是评估；validation set 则是用于调优的验证集。
+derive|We derive an upper bound on the expected prediction error.|我们推导了期望预测误差的一个上界。|derive an expression/bound 表示推导表达式或界。
+assume|We assume that the observation noise has zero mean.|我们假设观测噪声的均值为零。|假设是模型条件，不等于已由数据证实的事实。
+denote|Let x denote the observed input sequence.|令 x 表示已观测的输入序列。|Let A denote B 是常见符号定义句式。
+outperform|The hybrid model outperforms the baseline on this dataset.|在这个数据集上，混合模型的表现优于基线模型。|保留 on this dataset 的范围，不推广为所有数据集。
+account for|The likelihood accounts for observation noise.|似然考虑了观测噪声。|account for 在此表示纳入考虑；也可表示解释某种现象。
+attribute to|We attribute the lower error to the improved fusion module.|我们将较低的误差归因于改进后的融合模块。|attribute A to B：把 A 归因于 B；归因是否充分还需实验支持。
+respectively|The two models use 24 and 48 input steps, respectively.|这两个模型分别使用 24 个和 48 个输入时间步。|respectively 要按前后对应顺序翻译。
+whereas|The baseline uses a fixed graph, whereas our model learns the graph.|基线模型使用固定图，而我们的模型学习图结构。|whereas 连接两个对比的分句。
+despite|Despite its lower training loss, the model generalizes poorly.|尽管训练损失更低，该模型的泛化表现仍然较差。|despite 后接名词性结构，不直接接完整 that 从句。
+in terms of|We compare the models in terms of accuracy and inference latency.|我们从预测准确程度和推理延迟两个方面比较这些模型。|in terms of 表示比较或讨论的方面。
+under the assumption that|The guarantee holds under the assumption that the calibration samples are exchangeable.|在校准样本可交换的假设下，该保证成立。|不要省略保证所依赖的条件。
+significant|A lower mean error does not necessarily imply a statistically significant improvement.|平均误差较低不一定意味着改善具有统计显著性。|significant 可能指重要，也可能指统计显著；需依据上下文。
+parameter|The model learns its parameters by minimizing the training loss.|该模型通过最小化训练损失来学习参数。|参数通常由训练学习；超参数通常控制模型结构或训练过程。
+hyperparameter|We select the learning-rate hyperparameter using the validation set.|我们使用验证集选择学习率这一超参数。|不得使用测试集反复选择超参数。
+baseline|A seasonal naive forecast provides a useful baseline.|季节性朴素预测提供了一个有用的基线。|基线不一定复杂；合理的简单基线是重要比较对象。
+benchmark|The benchmark contains several datasets with different sampling frequencies.|该基准包含多个采样频率不同的数据集。|benchmark 可指基准任务、数据集或评测体系，不等同于基线模型。
+ablation study|We conduct an ablation study by removing the fusion module and retraining the model.|我们移除融合模块并重新训练模型，以开展消融实验。|对组件贡献的判断要说明重训、参数量和其他条件的控制方式。
+time series|A time series records observations in temporal order.|时间序列按时间顺序记录观测值。|相邻观测通常存在依赖，不能默认视为独立样本。
+forecast horizon|Prediction error often changes with the forecast horizon.|预测误差往往随预测跨度而变化。|horizon 在不同论文中可能表示预测步数、最远步或一段未来范围，须核对定义。
+lookback window|The encoder receives the observations within the lookback window.|编码器接收历史回看窗口内的观测值。|历史窗口长度与未来预测跨度是两个不同参数。
+lag|The correlation is strongest at a lag of three time steps.|在滞后三个时间步时，相关性最强。|lag 的单位可能是步数或实际时间，须核对采样间隔。
+seasonality|The demand series exhibits daily and weekly seasonality.|需求序列表现出日季节性和周季节性。|时间序列中的 seasonality 不仅指一年四季，也包括固定日历周期。
+stationarity|Weak stationarity requires a constant mean and lag-dependent autocovariance.|弱平稳性要求均值不变，且自协方差仅依赖时间滞后。|还要求有限二阶矩；不要把平稳简单理解成曲线平坦。
+nonstationarity|Nonstationarity can make a model trained on old data less reliable.|非平稳性可能降低用旧数据训练的模型的可靠性。|分布性质可随时间改变；并非所有变化都能靠简单去趋势处理。
+autocorrelation|Residual autocorrelation indicates that temporal structure may remain unexplained.|残差自相关表明，可能仍有时间结构未被解释。|这是诊断线索，不是单凭一个相关系数就确定原因。
+cross-correlation|We inspect the cross-correlation between speed and traffic volume.|我们检查速度与交通量之间的互相关。|互相关研究两序列在不同相对滞后下的关联。
+spatiotemporal dependency|The network learns spatiotemporal dependencies among traffic sensors.|该网络学习交通传感器之间的时空依赖关系。|同时涉及位置或网络关系与时间演化。
+multivariate time series|The input is a multivariate time series containing readings from several sensors.|输入是包含多个传感器读数的多变量时间序列。|multivariate 指多个变量；多个独立序列组成的集合不一定按联合多变量方式建模。
+exogenous variable|Weather can be included as an exogenous variable in a demand model.|天气可以作为外生变量纳入需求模型。|是否外生与模型假设有关；预测时还要确认未来是否可获得。
+known future covariate|The day of week is a known future covariate.|星期几是一个未来已知协变量。|未来天气实测值不能当成已知协变量，除非预测流程确实可获得。
+chronological split|We use a chronological split to separate training and test observations.|我们按时间顺序划分训练观测与测试观测。|只按时间划分仍不保证无泄漏，还要检查预处理、重叠窗口和未来特征。
+temporal leakage|Fitting the scaler on the entire series can introduce temporal leakage.|在整个序列上拟合缩放器可能引入时间信息泄漏。|缩放器等可学习预处理通常应仅在训练部分拟合。
+rolling origin evaluation|Rolling origin evaluation assesses forecasts from multiple historical starting points.|滚动起点评估从多个历史起点评估预测。|每个起点能使用的训练信息必须遵守当时的时间边界。
+multi-step forecasting|Multi-step forecasting predicts several future observations from the available history.|多步预测根据已有历史预测多个未来观测值。|可以直接、递归或多输出地实现，不等同于某一种网络。
+recursive forecasting|Recursive forecasting feeds earlier predictions back into the model.|递归预测把先前的预测值重新输入模型。|预测误差可能在递归过程中传播和累积。
+direct forecasting|Direct forecasting can fit a separate predictor for each future horizon.|直接预测可以为每个未来预测步分别拟合预测器。|与将一步预测反复回馈的递归策略区别开。
+point forecast|A point forecast summarizes the future with a single value.|点预测用单个数值概括未来结果。|最合适的点预测取决于损失函数，不总是均值。
+probabilistic forecast|A probabilistic forecast describes a distribution over future outcomes.|概率预测描述未来结果的分布。|它能表达不确定性，但是否可靠需要校准等评估。
+prediction interval|The prediction interval describes uncertainty about a future observation.|预测区间描述关于未来观测值的不确定性。|区别于针对参数的置信区间或贝叶斯可信区间。
+forecast reconciliation|Forecast reconciliation makes forecasts consistent across aggregation levels.|预测协调使不同聚合层级上的预测保持一致。|例如各地区预测与总量预测满足加总约束。
+Granger causality|Granger causality tests whether one series improves prediction of another.|格兰杰因果关系检验一个序列是否有助于预测另一个序列。|预测意义上的因果不自动等于干预意义上的因果关系。
+hybrid neural network|The hybrid neural network combines graph convolution with recurrent updates.|该混合神经网络将图卷积与循环更新相结合。|hybrid 的具体构成必须说明，不能仅凭名称判断结构。
+hybrid model|The hybrid model combines a neural component with a physical simulator.|该混合模型将神经网络组件与物理模拟器相结合。|混合模型也可组合统计模型、机制模型和神经网络。
+ensemble model|The ensemble model averages predictions from independently trained models.|该集成模型对独立训练模型的预测取平均。|集成侧重组合多个学习器；混合架构不一定属于集成。
+feature fusion|Feature fusion combines spatial and temporal representations.|特征融合将空间表征与时间表征结合起来。|常见方式包括拼接、相加、门控和交叉注意力。
+gated fusion|Gated fusion adjusts the contribution of each feature stream.|门控融合调节各个特征分支的贡献。|门值如何归一化、是否逐时间或逐通道变化要看具体方法。
+graph neural network|A graph neural network propagates information along graph edges.|图神经网络沿图的边传播信息。|图的节点与边必须对应实际建模对象与关系。
+adjacency matrix|The adjacency matrix encodes connections between sensor nodes.|邻接矩阵编码传感器节点之间的连接。|非零元素可能是连接指示或权重；行列方向要核对。
+adaptive adjacency matrix|The model learns an adaptive adjacency matrix from node embeddings.|模型从节点嵌入中学习自适应邻接矩阵。|学到的连接表示模型使用的关系，不自动等于真实物理因果关系。
+message passing|During message passing, each node aggregates information from its neighbors.|在消息传递过程中，每个节点聚合来自邻居的信息。|消息函数、聚合函数和更新函数各有不同作用。
+graph Laplacian|The graph Laplacian provides a representation of graph connectivity.|图拉普拉斯矩阵提供了图连接结构的一种表示。|组合拉普拉斯与归一化拉普拉斯定义不同，应核对公式。
+causal convolution|A causal convolution uses only the current and preceding inputs.|因果卷积仅使用当前及此前的输入。|此处 causal 指时间可见性，不代表模型做了因果推断。
+dilated convolution|Dilated convolution expands the receptive field by spacing kernel elements apart.|空洞卷积通过拉开卷积核元素的采样间隔来扩大感受野。|扩大感受野不意味着增加同等数量的核参数。
+receptive field|The receptive field determines which input positions can affect an output.|感受野决定哪些输入位置能够影响某个输出。|理论感受野与实际有效影响范围可能不同。
+hidden state|The recurrent unit updates its hidden state at each time step.|循环单元在每个时间步更新其隐藏状态。|LSTM 的 hidden state 与 cell state 需区分。
+self-attention|Self-attention relates positions within the same input representation.|自注意力关联同一输入表征内部的位置。|相关位置可以是时间步、变量或其他 token，不能默认一定是时间。
+cross-attention|Cross-attention uses queries from one stream and keys and values from another.|交叉注意力使用一个分支的查询，以及另一个分支的键和值。|应明确哪个分支提供 Q，哪个分支提供 K、V。
+positional encoding|Positional encoding supplies information about the order of input tokens.|位置编码提供输入 token 的顺序信息。|绝对位置、相对位置与真实时间间隔编码并不相同。
+residual connection|A residual connection adds the input of a block to its transformed output.|残差连接把模块的输入加到变换后的输出上。|相加要求维度兼容，必要时需投影。
+teacher forcing|Teacher forcing supplies observed previous outputs during training.|教师强制在训练时提供真实的前一步输出。|推理时通常只能使用预测输出，这可能形成训练与推理的差异。
+scheduled sampling|Scheduled sampling mixes observed and predicted inputs during training.|计划采样在训练时混合使用真实输入和预测输入。|具体混合策略及其统计性质要看论文设定。
+mixture of experts|A gating network assigns inputs to experts in a mixture of experts.|在专家混合模型中，门控网络把输入分配给专家。|可能采用软权重或稀疏路由；不是所有专家都必须参与每次计算。
+physics-informed neural network|A physics-informed neural network can penalize violations of a governing equation.|物理信息神经网络可以对违反控制方程的情况施加惩罚。|物理约束应落实到具体方程、边界条件或结构中。
+likelihood|We maximize the likelihood of the observed data with respect to the model parameters.|我们针对模型参数最大化观测数据的似然。|似然把观测数据视为已知，作为参数的函数；不等同于参数的概率。
+prior distribution|The prior distribution expresses assumptions about parameters before observing the current data.|先验分布表达在观察当前数据之前对参数的假设。|先验可以来自领域知识，也可以用于正则化，但必须说明。
+posterior distribution|The posterior distribution combines the prior with information from the observed data.|后验分布结合了先验与观测数据中的信息。|后验是条件于观测数据的分布。
+predictive distribution|The predictive distribution assigns probabilities to possible future values.|预测分布为可能的未来取值赋予概率。|连续取值使用密度，单个点的概率通常为零。
+posterior predictive distribution|The posterior predictive distribution averages predictions over posterior parameter uncertainty.|后验预测分布对后验参数不确定性进行平均，从而得到预测。|与只把参数固定为某个点估计后预测不同。
+conditional independence|The model assumes conditional independence given the latent state.|该模型假设在给定隐状态的条件下满足条件独立性。|条件独立不等于无条件独立。
+latent variable|A latent variable represents an unobserved factor in the model.|隐变量表示模型中未被直接观测的因素。|latent variable 是建模变量，不必然对应可直接解释的真实因素。
+expectation|We estimate the expectation using Monte Carlo samples.|我们使用蒙特卡洛样本估计期望。|期望是概率加权平均，不等于最可能出现的值。
+variance|The variance measures dispersion around the mean.|方差度量围绕均值的离散程度。|方差的单位是原变量单位的平方；标准差保留原单位。
+standard error|The standard error quantifies variability in an estimator across repeated samples.|标准误量化估计量在重复抽样中的变异程度。|标准误不是观测数据本身的标准差。
+confidence interval|We report a confidence interval for the estimated mean.|我们报告所估计均值的置信区间。|频率学派覆盖率是重复构造区间的性质，不把固定参数直接赋予后验概率。
+credible interval|The credible interval contains ninety-five percent of the posterior probability mass.|该可信区间包含百分之九十五的后验概率质量。|这是给定模型、先验与数据后的贝叶斯概率表述。
+maximum likelihood estimation|Maximum likelihood estimation selects parameters that best explain the observed data under the model.|极大似然估计选择在该模型下最能解释观测数据的参数。|比较的是似然值，不是后验值；后者还包含先验。
+variational inference|Variational inference approximates the posterior with an optimized distribution.|变分推断用经优化的分布近似后验。|近似分布族会限制可表达的后验形状。
+evidence lower bound|We maximize the evidence lower bound to train the latent-variable model.|我们通过最大化证据下界来训练隐变量模型。|通常是对数边缘似然的下界；不要省略 log 所对应的定义。
+Kullback-Leibler divergence|The Kullback-Leibler divergence is generally asymmetric.|KL 散度通常是不对称的。|KL 不是满足全部度量公理的距离；交换两个分布通常会改变数值。
+reparameterization trick|The reparameterization trick expresses a random sample as a differentiable transformation of base noise.|重参数化技巧把随机样本表示为基础噪声的可微变换。|常用于构造路径导数梯度估计，具体适用条件需核对。
+Markov chain Monte Carlo|Markov chain Monte Carlo constructs dependent samples from a target distribution.|马尔可夫链蒙特卡洛构造来自目标分布的相关样本。|有限运行下需检查收敛与有效样本量，不能默认样本独立。
+Gaussian process|A Gaussian process defines a distribution over functions.|高斯过程定义函数上的分布。|其任意有限组函数值具有联合高斯分布。
+state-space model|The state-space model separates latent dynamics from the observation mechanism.|状态空间模型将隐状态动态与观测机制分开建模。|转移方程与观测方程承担不同角色。
+aleatoric uncertainty|Aleatoric uncertainty can arise from noise in the observations.|偶然不确定性可以由观测中的噪声产生。|“不可约”通常相对于当前信息与模型设定而言，不能绝对化。
+epistemic uncertainty|Epistemic uncertainty reflects limited knowledge about the model.|认知不确定性反映了对模型认知的不足。|增加相关数据可能降低它，但不能保证所有分布外问题都得到解决。
+heteroscedasticity|Heteroscedasticity allows the noise variance to vary with the input.|异方差性允许噪声方差随输入而变化。|与使用固定噪声方差的同方差假设区别开。
+calibration|Calibration compares predicted uncertainty with observed frequencies.|校准比较预测不确定性与实际观测频率是否一致。|校准需说明对象与检验方式；总体校准不等于每个子群体都校准。
+sharpness|We seek sharp predictive distributions subject to appropriate calibration.|我们希望在保持适当校准的前提下获得集中的预测分布。|不能只追求窄区间而忽略覆盖。
+coverage probability|Coverage probability describes how often an interval procedure includes the target.|覆盖概率描述区间构造程序包含目标的频率。|要区分理论概率、名义水平和有限测试集上的经验覆盖率。
+quantile regression|Quantile regression estimates a conditional quantile of the target.|分位数回归估计目标变量的条件分位数。|不同分位数不是独立无关的点，需要留意分位数交叉。
+pinball loss|The pinball loss penalizes underprediction and overprediction asymmetrically.|分位数损失对预测偏低与偏高施加不对称惩罚。|不对称程度由目标分位数水平决定。
+continuous ranked probability score|The continuous ranked probability score evaluates a full predictive distribution.|连续秩概率评分评估完整的预测分布。|常用损失形式下越小越好，报告时明确符号约定。
+conformal prediction|Conformal prediction constructs intervals with coverage guarantees under stated assumptions.|保形预测在明确的假设下构造具有覆盖保证的区间。|经典保证常依赖可交换性，不能直接无条件套用到依赖时间序列。
+exchangeability|Exchangeability means that permuting observations does not change their joint distribution.|可交换性意味着置换观测顺序不会改变其联合分布。|独立同分布蕴含可交换，但可交换一般不蕴含独立。
+copula|A copula separates marginal distributions from their dependence structure.|联结函数把边缘分布与其依赖结构分开表示。|在多变量预测中可用于组合边缘分布与跨变量依赖。
+deep ensemble|A deep ensemble combines predictions from several trained neural networks.|深度集成组合多个已训练神经网络的预测。|模型间分歧可提供不确定性信息，但不自动保证校准。
+Monte Carlo dropout|Monte Carlo dropout keeps dropout active during repeated forward passes.|蒙特卡洛随机失活在多次前向传播期间保持随机失活开启。|普通确定性推理通常关闭 dropout；此方法的推理设置不同。
+normalization|We fit the normalization parameters on the training set only.|我们仅在训练集上拟合归一化参数。|normalization 的具体操作可能不同，需查看公式。
+standardization|Standardization subtracts a mean and divides by a standard deviation.|标准化减去均值并除以标准差。|需要说明均值和标准差在哪个集合、哪些轴上计算。
+mean absolute error|The mean absolute error is reported in the original units.|平均绝对误差以原始单位报告。|标准化后评估应说明是否已逆变换。
+root mean squared error|The root mean squared error gives greater weight to large errors than the mean absolute error.|与平均绝对误差相比，均方根误差对大误差赋予更大权重。|RMSE 与原变量同单位，MSE 则是平方单位。
+mean absolute percentage error|The mean absolute percentage error becomes problematic when targets are zero or near zero.|当目标为零或接近零时，平均绝对百分比误差会出现问题。|需说明零值处理，不能静默除零或删除难样本。
+early stopping|Early stopping selects a checkpoint before validation performance deteriorates further.|提前停止在验证表现进一步恶化之前选择检查点。|保存与恢复最佳检查点和停止训练是相关但不同的操作。
+data leakage|Data leakage can make test performance appear unrealistically strong.|数据泄漏可能使测试表现看起来不切实际地好。|划分、预处理、调参和特征可见性都需检查。
+statistical significance|Statistical significance does not by itself establish practical usefulness.|统计显著性本身并不能确立实际实用性。|同时关注效应量、不确定性和具体使用成本。
+reproducibility|We record random seeds and data splits to support reproducibility.|我们记录随机种子和数据划分，以支持可复现性。|这些记录有帮助，但不保证跨平台的逐位一致。

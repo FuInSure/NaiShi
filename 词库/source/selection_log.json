@@ -1,0 +1,5270 @@
+[
+  {
+    "term": "Acoustic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Acoustic Modeling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Action",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Action Value Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Actionism",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Actor",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Actor-Critic Algorithm",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Actor-Critic Method",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Adaptive Bitrate Algorithm",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Adaptive Boosting",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Adaptive Gradient Algorithm",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Alpha-Beta Pruning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Alternative Splicing Dataset",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Application-Specific Integrated Circuit",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Arithmetic Coding",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Artificial General Intelligence",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Attention Cue",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Automatic Speech Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Automatic Summarization",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Aberration-Corrected",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Admet Evaluation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Alexnet",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Alphago",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Artificial Synapses",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Attention-Based",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Automating Synthetic Planning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Backward Induction",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Backward Search",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bag of Words",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bandit",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Beam Search",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bellman Equation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bellman Optimality Equation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Best-Arm Problem",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "BFGS",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Bi-Directional Long-Short Term Memory",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bi-Partition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bidirectional Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bigram",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bilingual Evaluation Understudy",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Binary Relation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Boilerplate Code",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Boltzmann",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bootstrap Aggregating",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Bounding Boxes",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "B-Clustering Algorithms",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bandgap Energy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Basin Hopping",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bayesian Molecular",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Beam-Scanning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Best Separates",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bit Collisions",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Bonding Environments",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Co-Occurrence Frequency",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Computational Linguistics",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Computer Vision",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Conditional Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Conference On Neural Information Processing Systems",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Connectionism",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Context Word",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Contextual Bandit",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Continous Bag-Of-Words Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Corpus",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Critic Network",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Cumulative Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Calculation Uncertainties",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Cartesian Distance Vector",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Combined Gradient",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Computational Optimisation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Core-Loss Spectrum",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Coulomb Matrix",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Cutoff Radial Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Davidon-Fletcher-Powell",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Deep Q-Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Deep Q-Network",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Deep Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Default Rule",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Delta-Bar-Delta",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Denominator Layout",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Description",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Detector Stage",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Deterministic Policy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Dictionary",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Discount Factor",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Discounted Return",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Dominant Strategy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Data-Driven Spectral Analysis",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Database",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Density Functional Theory",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "DFT Calculations",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Direct Neural Network Modeling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Discrete Manner",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Discrete Quanta",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Emotional Analysis",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Environment",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Episode",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Episodic Task",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Evolutionary Computation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Expected Return",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Experience Replay",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Expert System",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Explanatory Factort",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Exploitation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Exploration",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Exploration-Exploitation Dilemma",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Electronegativity",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Energy Derivatives",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Energy Potentials",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Entity Normalisation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Evolutionary Algorithms",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Evolutionary Method",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Exchange–Correlation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Excited-State Potentials",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Expert Systems",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Extended-Connectivity Circular Fingerprint",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Field Programmable Gated Array",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "First Layer",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "First-Order Rule",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Flipping Output",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Focus Attention",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Folk Theorem",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Forward Search",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Fovea",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Full",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Faber-Christensen-Huang-Lilienfeld",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Facial Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Fuzzy Logic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gabor Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gater",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Genetic Algorithm",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gradient Energy Distribution",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Graphics Processing Unit",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gas-Phase Networks",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gaussian-Type Structure Descriptors",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gradient-Based",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Grain-Surface Networks",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Graph-Based",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Graphics Processing Units",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Gravimetric Polymerization Degree",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Harmony",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Hierarchical Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Hill Climbing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Higher-Dimensional Spectral Space",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Human Face Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Inductive Logic Programming",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Instance Segmentation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Inverse Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Inverse Resolution",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Image And Speech Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Image Classification",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Internet Of Things",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "K-Armed Bandit Problem",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Karush–Kuhn–Tucker",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Knowledge Base",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Knowledge Graph",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Knowledge Representation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Knowledge Gradient",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "L-BFGS",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Language Modeling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Latent Semantic Analysis",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Least General Generalization",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Lipschitz",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Local Descent",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Local Recurrent",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Long-Term Reward",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Machine Translation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Macron-R",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Markov Decision Process",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Mask Language Modeling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Maxout",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Mean Filter",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Mean Product of Student t-Distribution",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Micro-R",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Minibatch Stochastic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Minimax Game",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Model-Based Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Model-Free Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Multi-Armed Bandit Problem",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "ML-Driven Optimization",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "MLP Neural Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Model Statistics",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Molecular Graph Theory",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Monte Carlo Tree Search",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Multi-Objective Genetic Algorithm",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "N-Gram",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "N-Gram Feature",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "N-Gram Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Named Entity Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Natural Language Generation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Natural Language Processing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Net Activation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Net Input",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Neural Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Neural Machine Translation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Numerator Layout",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Named Entity Recognition，NER",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Neural-Network-Based Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Nuclear Magnetic Resonance",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Non-Stochastic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Non-Template",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Non-Template Methods",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Object Detection",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Object Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Off-Policy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "On-Policy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Ordered Rule",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Parametric Case",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Parse Tree",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Part-Of-Speech Tagging",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Partially Observable Markov Decision Processes",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Particle Swarm Optimization",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Perplexity",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Phoneme",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Phonetic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Policy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Policy Gradient",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Policy Iteration",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Pretrained Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Primary Visual Cortex",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Priority Rule",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Probabilistic Context-Free Grammar",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Probabilistic Latent Semantic Analysis",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Probabilistic Latent Semantic Indexing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Propositional Atom",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Propositional Rule",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Protein Folding",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Q Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Q-Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Q-Network",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quadrature Pair",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Computer",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Computing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Machine Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Mechanics",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Chemistry",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Quantum Theory",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Recall-Oriented Understudy For Gisting Evaluation",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Recirculation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Recognition Weight",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Rectified Linear",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Reinforcement Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Relational Database",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Replay Buffer",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Reservoir Computing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Residue Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Resolution Quotient",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Return",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Reverse Correlation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Reward",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Reward Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Rule Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Saccade",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Same",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Second Layer",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Semantic Segmentation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Sentiment Analysis",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Sequential Covering",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Shadow Circuit",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Shannons",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Shaping",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Shortlist",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Simple Cell",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Simulated Annealing",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Simultaneous Localization And Mapping",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Skip-Gram Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Skip-Gram Model With Negative Sampling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Slowness Principle",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Softplus",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Speech Recognition",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Sphering",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "State Action Reward State Action",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "State Value Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "State-Action Value Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Static Game",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Status Feature Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Stochastic Policy",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Subatomic",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Super-Parent",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Symbolism",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Sequence-Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tabular Value Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tangent Distance",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Taylor",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Temporal-Difference Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tensor Processing Units",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Term Frequency-Inverse Document Frequency",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Terminal State",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Time Homogenous Markov Chain",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Token",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tokenize",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tokenization",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Tokenizer",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topic Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topic Modeling",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topic Vector Space",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topic Vector Space Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topic-Document Matrix",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Topographic ICA",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Transcribe",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Transcription System",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Transformer",
+    "reason": "no_chinese_gloss"
+  },
+  {
+    "term": "Treebank",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Trigram",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Turing Completeness",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Turing Machine",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Twice-Learning",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Turing Test",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unidirectional Language Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unification",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unigram",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unit Test",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unknown Token",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Unprojection",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Update Model Parameter",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Value Function",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Value Function Approximation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Value Iteration",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Vocabulary",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Von Neumann Architecture",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Warp",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word Embedding",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word Sense Disambiguation",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word Vector",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word Vector Space Model",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word-Document Matrix",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Word-Topic Matrix",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Working Memory",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Zipf's Law",
+    "reason": "outside_primary_learning_scope_or_unreliable_fragment"
+  },
+  {
+    "term": "Squared Euclidean Distance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ugly Duckling Theorem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Upper Confidence Bounds",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fuzzy Neural Networks",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Euler-Lagrange Equation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Pseudolikelihood Estimator",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Generating Distribution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Least Mean Squares",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Strongly Connected Graph",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Round-Off Error",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dynamic Filter Networks",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Graph-Based Models",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nonlinear Conjugate Gradients",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Full Conditional Probability",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stochastic Dynamical System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Rectangular Diagonal Matrix",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Approximate Bayesian Computation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Probability Model Estimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Directed Acyclic Graph",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Prior Pseudo-Counts",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Positive Part Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Explicit Density Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bayesian Linear Regression",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Central Limit Theorem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stochastic Gradient Ascent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Masked Self-Attention",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Block Gibbs Sampling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learned Approximate Inference",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hyperbolic Tangent Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deep Feedforward Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequential Minimal Optimization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Static Computational Graph",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gaussian Output Distribution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stacked Deconvolutional Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gradient Boosting Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kernel Density Estimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Autoregressive Generative Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Reversible Markov Chain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Support Vector Regression",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Block Coordinate Descent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Implicit Density Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "neural network model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Convolutional Boltzmann Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Quantized Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Second Derivative Test",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Differentiable Neural Computer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Spiking Neural Nets",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stochastic Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Biased Importance Sampling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Index of Matrix",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Probabilistic Generative Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Auto-Regressive Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Expectation Maximization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conditional Probability Table",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leaky Lelu Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Neural Architecture Search",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Echo State Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "One-Hot Vector",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Statistical Simulation Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Absolute Loss Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Embedding Lookup Table",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Collapsed Gibbs Sampling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Statistical Learning Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High Variance Models",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Absolute Value Rectification",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linked Importance Sampling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Approximate Probabilistic Models",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unbiased Sample Variance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unnormalized Probability Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dirac Delta Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Polynomial Basis Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gaussian-Bernoulli RBM",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Part Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Rectified Linear Transformation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Canonical Correlation Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Soft Attention Mechanism",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gradient Ascent Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bernoulli Output Distribution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Logarithmic Loss Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stochastic Maximum Likelihood",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Simple Recurrent Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Post-Hoc Test",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Parametric Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Parametric Density Estimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fully Convolutional Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stability-Plasticity Dilemma",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Structured Probabilistic Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bayesian Program Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gaussian Process Regression",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Gradient Approximation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gated Recurrent Net",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Locally Linear Embedding",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unit-Step Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Statistical Relational Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mean And Covariance RBM",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maximum Weighted Spanning Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cross-Entropy Loss Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequential Model-Based Optimization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Log-Likelihood Loss Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Message Passing Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Convolutional Deep Belief Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Response Linear Regression",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Doubly Block Circulant Matrix",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Jordan-Elman Neural Networks",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Probabilistic Undirected Graphical Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Adaptive Fuzzy Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Memory Augmented Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conditional Probability Density Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Asynchronous Stochastic Gradient Descent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Recurrent Multi-Layer Perceptron",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Support Vector Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Neural Auto-Regressive Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gaussian Error Linear Unit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Compact Singular Value Decomposition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Conditional Probability Distribution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Inverse Neural Network Modeling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Auto-Regressive Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Full Singular Value Decomposition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "On-The-Fly Optimization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Joint Probability Density Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weight Scaling Inference Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stacked Recurrent Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mini-Batch Gradient Descent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Moment Matching Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Binomial Logistic Regression Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Positive Definite Kernel Function",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bayesian Regularized Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Real-Time Recurrent Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fully Connected Neural Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Truncated Singular Value Decomposition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Saddle-Free Newton Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gradient Boosting Decision Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Linear Support Vector Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Nominal Logistic Regression Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Vanishing And Exploding Gradient Problem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mean-Covariance Restricted Boltzmann Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Least Square Support Vector Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "End-To-End Memory Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Adaptive Neuro Fuzzy Inference System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "T-Distribution Stochastic Neighbour Embedding",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Neural Auto-Regressive Density Estimator",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Plug And Play Generative Network",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Least Absolute Shrinkage And Selection Operator",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gradient Descent In One-Dimensional Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Density-Based Spatial Clustering Of Applications With Noise",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nonlinear Autoregressive With Exogenous Inputs Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Support Vector Machine In Linearly Separable Case",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stochastic Gradient Descent With Warm Restarts",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Diameter",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Independent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Operator",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Undirected",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Concatenate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Canonical",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unimodal",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Synonymy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Lasers",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Origin",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Descriptor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mae",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Differentiation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pipeline",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Topic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Loop",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Chord",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pool",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Identifiable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Partition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Loss",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Piecewise",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Tagging",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Simulation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Exchangeable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Target",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Compositionality",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Underestimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bagging",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Matrices",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Predictor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Attractor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Tolerance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Backward",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Block",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "LBP",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Overestimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Agglomerative",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Architecture",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Reducible",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Flip",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Adversarial",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Overcomplete",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Experience",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Node",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Frequentist",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Scaling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Code",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feedback",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "COLT",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Features",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Chaos",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Discretization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Image",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Contractive",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Minima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Row",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Separation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mixing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Channel",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Shattering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Substitution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Automation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Invert",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Saturate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Isotropic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Prediction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Transition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Approximation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Elman",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Underdetermined",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Homogenization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Orthonormal",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Trial",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Neurodynamics",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hyperplane",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Separate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Synset",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Directed",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Supervised",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Decompose",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "nonlinearity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Column",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cybernetics",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nats",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Broadcasting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Simplex",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Similarity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hyperparameters",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Understandability",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maximization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Labeled",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dendrogram",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Crowdsourcing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Evolution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "CASP",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Operation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multimodal",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Coparent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Path",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Edge",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unfolding",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Score",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Irreducible",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Factorized",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pairwise",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Query",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Periodic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Undercomplete",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Transform",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Message",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Coordinate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cosine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kernelized",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Statement",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Temperature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Normalized",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Symbol",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Distillation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multicollinearity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linkage",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Divisive",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Controller",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Offset",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Trajectory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Coverage",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Tempering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Region",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "ChemDataExtractor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Invariant",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Input",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Triangulate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Polysemy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Base",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Size",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Heteroscedastic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Curvature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Latent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Recurrence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Reconstruction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Aperiodic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learned",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Import",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Workflow",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Critic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Immorality",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stream",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Meanfield",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Merging",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Width",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Depth",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nondistributed",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Output",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Knowledge",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mode",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Modality",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kernels",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Asynchronous",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deeplift",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Integration",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Capacity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Valid",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Proportional",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Noise",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unlabeled",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unsupervised",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Separable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Domain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fidelity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Online",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maxima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Exact",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Independence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Damping",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Relation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cascade",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Harmonium",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Collinearity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Output Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Disagreement Measure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Adversarial Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "MCTS Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Score Matching",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feature Binarization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "False Positives",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sparse Connectivity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Evaluation Criterion",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kernelized PCA",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Main Diagonal",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Link Table",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Batch Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ratio Matching",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Input Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bottom-Up",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Broyden's Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Structure Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Back-Off",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Internal Node",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Causal Factor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computational Toxicology",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deterministic Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kinetic Curve",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Infinitely Exchangeable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Output Smearing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Codebook Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nash Equilibrium",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Undirected Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weak Duality",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data-Driven",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "True Negative",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequential Partitioning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Latent Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nearest Neighbors",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computer Science",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Macro-P",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Burning-In",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mercer Kernel",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pattern Recognition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Total Cost",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Black Box",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Sample",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gradual Warmup",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Strong Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Attribute Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Co-Adapting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bandpass Filter",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Downstream Task",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Poor Conditioning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "F Measure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fchl Representation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Open-Source",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Identically Distributed",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Centered Difference",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leibniz's Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Augmented Lagrangian",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feed Back",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Positive Sample",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Processing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "False Negative",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Consistency Convergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Class",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conversational Agent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "ML Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Minimizer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Effective Capacity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Labels",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kernel Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hyperplanes Separate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leaf Node",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Plate Notation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Prediction Accuracy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conflict Resolution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Information Divergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Complementary Slackness",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Label Propagation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Contextualized Representation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Access Parameters",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Link Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Exponential Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Symbolic Representation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "External Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Damping Factor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Strongly Learnable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Soft Clustering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Curation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Memory Capacity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Observation Sequence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Maxima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unequal Cost",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Expectation Step",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "True Positive",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Zero-Centered",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Underfitting Regime",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Id3 Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Strong Duality",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Performance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cut-Points",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Lipschitz Constant",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "General Intelligence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Boosting Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Parallelism",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sharp Minima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Macro-F1",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Logistic Loss",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Factor Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pseudo-Label",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Link Prediction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "data source",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Filter Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Factor Loading",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Transformation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Phase",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Tempered Transition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Class Label",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Micro Average",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sum-Product",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Raw Feature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weak Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Validation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Energy Gap",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Common Parent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Structured Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Game Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Plurality Voting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Misclassification Cost",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequence Labeling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Random Selection",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Directed Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer-Wise",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "F-Score",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Noise-Free",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High-Throughput",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Biological Plausibility",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Separable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Histogram Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Almost Everywhere",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Intelligent Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cartesian Coordinate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Relevant Feature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Affine Transformation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Successive Halving",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Human-Encoded",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Meta-Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "raw dataset",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Eager Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Image Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Grid World",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Clustering Methods",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Discriminative RBM",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Memory Segment",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Intermediate Neurons",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computation Cost",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Averaging",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Input Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "False Positive",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Complex Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computer-Aided",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cluster Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sparse Weights",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Micro-P",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Intervention Query",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Base Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cut Point",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Point",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Wrangling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Knowledge Extraction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Free Energy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "ML Modelling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Scan",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Causal Modeling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weakly Learnable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Closed-Form",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Policy Search",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Complete Linkage",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Kernel",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hard Voting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hard Clustering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Imperfect Information",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Decision Surface",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Search",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Collapse",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Co-Occurrence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maximization Step",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hidden Unit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Evaluation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Incomplete-Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feedforward Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Semantic Gap",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Interpolation Coordinate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Reduction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Source Domain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Selection",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dynamic Datasets",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Standard Basis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Affine Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Policy Evaluation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Weight",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Knowledge Engineering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Hop",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linearly Independent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learning Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Self-Driving",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weight Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dual Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Line Search",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "data split",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kendall’S Tau",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dynamics Simulations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dynamic Structure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nearest Neighbor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Logarithmic Scale",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ill Conditioning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Missing Values",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deep Circuit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Overfitting Regime",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Complexity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mini Batch",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Label Smoothing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Explaining Away",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Micro-F1",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Numeric Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Categorical Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Integer Programming",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Combination",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nondistributed Representation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Modeling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Irrelevant Feature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Continuous Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Flow Rate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Predicted Label",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Slack Variable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Lebesgue-Integrable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Normalization Factor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Instance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Clockwork RNN",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conditionally Independent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Recommender System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dataset Augmentation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Double Backprop",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Categorical Attribute",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Huffman Coding",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Crowd-Sourcing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Supervised Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Macro Average",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Parameter",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Continuing Task",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Collection",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Step Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Margin Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Shallow Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Positive Phase",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Spectral Clustering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Measure Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kd Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Image Restoration",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Homomorphic Encryption",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Lagrangian",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Splitting Point",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Reference Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "DE Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hard Target",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Wake Sleep",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Meta-Learner",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ligand-Field",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Expected Risk",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Information Retrieval",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Symbolic Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Complex Cell",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deep Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Instance-Based",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Spurious Modes",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Column Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Language Processing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bootstrap Aggregation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Iterative Dichotomiser",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Helmholtz Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "False Negatives",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Debugging Strategy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Curriculum Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linearly Separable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Noise Filters",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "ML Potentials",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Neuromorphic Computing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Laboratory Level",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Gain Ratio",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Penalty Term",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Concept Shift",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maxout Unit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Underlying Cause",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Adversarial Example",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Numerical Differentiation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Image Recognition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Approach",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sum Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Re-Balance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Programming",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Single Linkage",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Semidefinite",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "PR Curve",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Subset Evaluation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Imputation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stop Words",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Game Payoff",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Giant Magnetoresistance",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Flat Minima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Wrapper Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Dredging",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Supervised Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Kronecker Product",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Rule Engine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Synthetic Feature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Finite Difference",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hybrid Computing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Empirical Loss",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Identity Mapping",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sparse Initialization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nesterov Momentum",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Semantic Similarity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Boltzmann Factor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hyperparameter Opimization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Wasserstein GAN",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Common Cause",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Chain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Bonferroni Correction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Soft Voting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cosine Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Iterative Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Permutation Invariant",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "ML-Driven",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Moore’S Law",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward Prediction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Disparity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "PAC Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Lipschitz Continuous",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Positive Class",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hamiltonian Operator",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Krylov Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Transformation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leaky Unit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Saliency Map",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Curvature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Semantic Hashing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "KNN Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sparse Interactions",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Continuation Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Version Control",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "State Sequence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dropout Mask",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Cleaning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dice Similarity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ethical Considerations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nonlinear Programming",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fast Dropout",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Normal Equation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-Means",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model-Construction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Mapping",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Uniform Stability",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Almost Sure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Modelling Scenario",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Insensitive Loss",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Product Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Associative Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Random Subspace",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Tangent Plane",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computer Simulations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hybrid Technique",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Curve-Fitting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Measure Zero",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feature Extractor",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Redundant Feature",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Heterogeneous Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Symbolic Differentiation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ellipsoid Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Parallel Tempering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feedback Structure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hebbian Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Concept Class",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Target Domain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computational Cost",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Definite",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conditional Computation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Clique Potential",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Final Evaluation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Empirical Models",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Intrinsic Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Re-Weighting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Output Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dot Product",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nash Reversion",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K Clusters",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Representation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Numerical Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Top-Down",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Equivariant Representations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mechanical Sympathy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Complete-Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Classification Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Lifelong Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Association Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "C4.5 Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Identifiability",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Critical Temperatures",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mining Out",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Representational Capacity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Microarray Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pictorial Structure",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multimodal Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Semi-Supervised",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Optimal Capacity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Harris Chain",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Edge Device",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Coordinate Ascent",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Soft Target",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "I.I.D. Assumption",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Code Pipeline",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Availability",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Extraction Techniques",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unsupervised Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Visible Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Visible Variable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Memory Cell",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Component Learner",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Molecular Modelling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Null Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Polarity Detection",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Global Minima",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Normalized Initialization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Policy Improvement",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Information Theory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Considerations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feature Transform",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Discriminative Approach",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Computational Science",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Global Minimizer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "First-Principles",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Parameter Server",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dynamical System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Parallelism",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Balanced Accuracy",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Categorization Algorithms",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Expected Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Majority Voting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Autonomous Decision-Making",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Product of Expert",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Buchwald−Hartwig Cross-Coupling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multivariate Decision Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Concept Learning System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer-Wise Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Black-Box Attack",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ill-Formed Problem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High Data Throughput",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Zero Weight",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Saturating Game",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "FAIR Data Principles",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Univariate Decision Tree",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Min-Max Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Virtual Adversarial Example",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Generating Process",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward Mode Accumulation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High-Dimensional Objects",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deep Sequence Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Linear Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Majority Voting Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data-Driven Methods",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Supervised Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Information Gain Ratio",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Inverse Time Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Natural Exponential Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Receiver Operating Characteristic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Persistent Contrastive Divergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Independent Component Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fixed-Point Arithmetic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Linear Oscillation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Associative Memory Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Exponential Linear Unit",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Dying ReLU Problem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learning Rate Annealing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "The Collider Case",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model-Free Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Detailed Balance Equation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward Cross-Validation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Contrast Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Virtual Adversarial Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Global Contrast Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Inter-Cluster Similarity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Disagreement-Based Methods",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Deep Generative Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Elastic Net Regularization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Coupled-Cluster Predictions",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Spike And Slab",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Higher-Dimensional Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Intra-Cluster Similarity",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Extreme Learning Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Zero-Data Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Content-Addressable Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K Nearest Points",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Machine-Readable Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Binary Sparse Coding",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Reaction Synthesis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Basin of Attraction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model-Based Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequence-To-Sequence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Agnostic PAC Learnable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Two-Dimensional Array",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "N-Dimensional Space",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Latent Semantic Indexing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Key-Value Store",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Elastic Weight Consolidation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Z-Score Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cyclic Learning Rate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer-Wise Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Query-Key-Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "True Positive Rate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Second-Order Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Weight Space Symmetry",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Liquid State Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Conditional Mutual Information",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Degree Of Belief",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Context-Specific Independences",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learning Rate Warmup",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Pre-Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Las Vegas Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Large Learning Step",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Long-Range Prediction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generative Adversarial Framework",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Experimental Validation Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model Predictive Control",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Label Classification",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Local Response Normalization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Piecewise Constant Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "General Problem Solving",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Floating-Point Arithmetic",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Ga-Based Approaches",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Credit Assignment Problem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Feature Scaling Transform",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Maximization-Maximization Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Factor Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Almost Sure Convergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Jensen-Shannon Divergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Threshold Units",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Long-Term Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Mini-Batch SGD",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Pre-Trained Initialization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "False Positive Rate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High-Dimensional Data",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Unsupervised Feature Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Negative Predictive Value",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Inductive Transfer Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Classifier System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data Pre-Processing",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hard Margin Maximization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Most General Unifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leave-One-Out",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learning To Learn",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Factors of Variation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High-Dimensional NN",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Independent Subspace Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Bregman Divergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hidden Dynamic Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Input-Output Pairs",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Random Access Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "General Purpose GPU",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Canonical Ml Methods",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Predictive Sparse Decomposition",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Long-Term Planning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Steady-State",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Self-Taught Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward-Backward Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "High Throughput Screening",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Document Summarization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Machine Learning Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Unsupervised Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Slow Feature Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Learning Rate Decay",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Short-Term Memory",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "First-Order Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Moore-Penrose Pseudoinverse",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Open-Source Dataset",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Baum-Welch Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Self-Contrastive Estimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-Means Clustering",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fully Connected Layer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nearest-Neighbor Search",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer-Wise Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Junction Tree Algorithm",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Approximate Dynamic Programming",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Reverse Mode Accumulation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cluster-Based Splitting",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fixed Point Equation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Forward Reaction Prediction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Committee-Based Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Scaling Rule",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nearest Neighbour Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Generalized Score Matching",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-1 Folds",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Divide-And-Conquer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Burn-In Period",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Manifold Tangent Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Properly PAC Learnable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Closed Form Solution",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-View Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Restricted Isometry Property",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Stable Base Learner",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Integer Linear Programming",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Core Desktop Computer",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Data-Driven Decision-Making",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Hard Mixture Of Experts",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Garbage In, Garbage Out",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Dimension Reduction Methods",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Large-Scale Data Storage",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-Nearest Neighbor Classifier",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fast Persistent Contrastive Divergence",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Triangular Cyclic Learning Rate",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Single Component Metropolis-Hastings",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "L1 And L2 Regularization",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Estimation Of Mathematical Expectation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linear Vibronic Coupling Model",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-Nearest Neighbor Method",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Broyden–Fletcher–Goldfarb–Shanno",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Sequence To Sequence Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Long-Term Dependencies Problem",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Layer Feed-Forward",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Attribute Conditional Independence Assumption",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Spike And Slab RBM",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Non-Safety-Critical Applications",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Nonlinear Independent Components Estimation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "End-To-End Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Layer-Wise Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model-Agnostic Meta-Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Layer-Wise Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Expected Reduction In Distortion",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Agent Control System",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cluster Resolution Feature Selection",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Linearly Separable Data Set",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "S-Fold Cross Validation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Long-Range Prediction Models",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Principle Of Multiple Explanations",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Findable, Accessible, Interoperable, Reusable",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Fault-Tolerant Asynchronous Training",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Model-Based Iterative Reconstruction",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Leave-One-Out Cross Validation",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Cross-Validated Coefficient of Determination",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Layer-Wise Adaptive Rate Scaling",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "International Conference For Machine Learning",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Dimensional Big Data Analysis",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Multi-Prediction Deep Boltzmann Machine",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Greedy Layer-Wise Unsupervised Pretraining",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "K-Edge (O-K Edge)",
+    "reason": "reserve_not_selected"
+  },
+  {
+    "term": "Logic And Heuristics Applied To Synthetic Analysis",
+    "reason": "reserve_not_selected"
+  }
+]
